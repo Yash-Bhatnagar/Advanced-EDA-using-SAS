@@ -1,0 +1,1925 @@
+CustID,Mobile_num,Churn,Age,Payment_Period,Product,Cust_Tenure,EducationField,Gender,Overall_cust_satisfation_score,Cust_Designation,CC_Satisfation_score,Cust_MaritalStatus,Cust_Income,Agent_Tenure,Complaint,YTD_contact_cnt,Due_date_day_cnt,Existing_policy_count,Miss_due_date_cnt
+10002,9926913118,0,44,Monthly,Traditional,22,Statistics,Male,2,Manager,4,Divorced,20130,1,0,28,10,15,0
+10005,9955950910,0,46,Yearly,Traditional,11,CA,Male,3,Executive,4,Divorced,18468,9,0,17,6,6,0
+10009,9932307506,0,42,Monthly,Traditional,4,Statistics,Male,3,Senior Manager,3,Single,24526,0,0,26,10,10,2
+10010,9879153854,0,43,Yearly,Traditional,23,CA,Male,5,Manager,3,Divorced,20237,6,0,18,17,15,0
+10014,9885137899,0,50,Yearly,Traditional,19,CA,Male,5,Executive,2,Married,17661,0,0,16,3,11,1
+10019,9918893968,0,43,Yearly,Pure Term Plan,19,Statistics,Female,2,AVP,2,Divorced,30427,2,0,21,31,12,1
+10020,9880627494,0,39,Yearly,Traditional,15,Statistics,Male,3,Executive,2,Single,18944,5,1,16,6,6,2
+10021,9952270464,0,32,Quarterly,Traditional,15,Other,Female,4,Manager,3,Married,19011,0,0,23,5,2,1
+10022,9893757229,1,35,Yearly,Pure Term Plan,4,Statistics,Male,2,Manager,5,Single,18407,7,0,28,10,15,8
+10026,9930780130,0,51,Yearly,Traditional,4,Other,Female,4,VP,3,Married,34094,4,0,16,26,10,1
+10028,9921050067,0,54,Yearly,Pure Term Plan,18,Marketing Diploma,Male,4,Manager,4,Divorced,21825,0,0,16,10,7,2
+10032,9932773343,0,41,Yearly,Traditional,19,Other,Male,2,Manager,2,Divorced,21465,2,1,18,9,1,1
+10039,9925945763,0,38,Yearly,Traditional,8,Statistics,Female,5,Executive,5,Divorced,95000,9,1,19,6,10,2
+10042,9864638475,0,38,Yearly,Traditional,19,Statistics,Female,5,Executive,5,Married,17341,1,0,18,1,10,2
+10046,9878913773,1,40,Yearly,Traditional,2,Engineer,Female,4,VP,3,Divorced,34545,1,0,17,23,8,2
+10047,9867000851,0,33,Quarterly,Pure Term Plan,16,Marketing Diploma,Male,4,Manager,3,Single,19568,0,0,25,10,14,0
+10049,9866866751,0,46,Monthly,Pure Term Plan,9,Marketing Diploma,Male,2,Manager,2,Single,20772,4,1,26,14,15,1
+10053,9879620165,0,41,Yearly,Pure Term Plan,11,Marketing Diploma,Female,4,Manager,5,Married,20454,5,1,26,9,12,2
+10057,9906163883,0,60,Monthly,Pure Term Plan,11,Statistics,Male,4,Senior Manager,5,Divorced,24069,1,0,27,9,10,1
+10064,9868123646,0,54,Yearly,Pure Term Plan,7,Statistics,Female,2,Senior Manager,5,Single,22637,7,0,16,28,11,0
+10065,9916723440,0,55,Yearly,Traditional,4,Engineer,Female,4,Senior Manager,3,Married,25096,1,0,18,17,12,2
+10072,9919751038,0,59,Yearly,Traditional,3,Statistics,Male,3,Executive,4,Divorced,17703,0,0,28,6,13,2
+10074,9935440564,0,42,Yearly,Traditional,5,Statistics,Male,4,Manager,4,Divorced,21220,1,0,22,10,14,1
+10078,9911703326,0,46,Yearly,Traditional,12,Other,Male,3,Senior Manager,5,Divorced,28245,4,1,19,17,4,1
+10081,9932807645,0,35,Yearly,Traditional,7,Statistics,Male,4,Manager,2,Divorced,20126,1,1,17,10,2,1
+10082,9867306087,0,50,Yearly,Traditional,14,CA,Male,2,Executive,3,Single,17859,1,0,23,6,7,2
+10083,9868844339,0,43,Yearly,Pure Term Plan,19,Statistics,Male,5,Senior Manager,2,Divorced,25239,3,0,19,24,5,2
+10085,9863022807,0,44,Yearly,Traditional,7,CA,Male,2,Manager,4,Divorced,19325,1,0,20,5,7,2
+10086,9930869120,0,45,Yearly,Traditional,17,Statistics,Male,5,Senior Manager,2,Single,22260,4,0,16,37,3,0
+10088,9878278083,0,52,Yearly,Traditional,17,Statistics,Male,4,Executive,2,Divorced,17075,3,0,28,10,12,2
+10089,9934000805,0,33,Yearly,Traditional,16,Statistics,Male,2,Manager,2,Divorced,19152,1,0,24,11,13,1
+10091,9897450103,0,47,Monthly,Traditional,18,Statistics,Male,5,AVP,4,Divorced,28503,1,0,27,22,5,0
+10092,9926970435,0,34,Yearly,Pure Term Plan,3,Marketing Diploma,Male,5,Manager,2,Single,20441,0,1,27,11,10,0
+10093,9932634120,0,46,Yearly,Pure Term Plan,13,CA,Female,5,Manager,4,Married,20209,1,1,17,11,14,1
+10094,9879611181,0,35,Monthly,Traditional,21,CA,Male,4,Senior Manager,5,Divorced,25673,2,1,18,21,2,1
+10103,9924526808,1,27,Monthly,Traditional,1,Statistics,Female,4,Executive,2,Single,17926,1,1,23,1,14,5
+10108,9953408737,1,28,Yearly,Pure Term Plan,9,Marketing Diploma,Male,4,Manager,3,Single,20744,1,1,16,6,8,5
+10109,9881959462,0,47,Yearly,Traditional,3,CA,Male,2,Executive,2,Divorced,17889,1,0,16,2,3,1
+10112,9904227210,1,32,Monthly,Traditional,4,Statistics,Male,3,Manager,3,Single,21074,1,1,29,9,10,9
+10117,9893467512,0,57,Yearly,Traditional,19,CA,Female,2,Senior Manager,5,Single,26631,2,0,17,14,10,2
+10122,9895502428,0,46,Quarterly,Pure Term Plan,19,Marketing Diploma,Male,4,Manager,4,Divorced,21146,0,0,18,8,5,1
+10123,9950537327,1,37,Yearly,Traditional,10,Statistics,Female,1,Executive,4,Divorced,19963,9,1,23,7,4,10
+10125,9916227738,1,31,Yearly,Pure Term Plan,6,Statistics,Male,1,Manager,3,Divorced,21172,4,1,23,12,8,3
+10130,9925424546,0,37,Yearly,Traditional,23,CA,Female,5,Manager,5,Divorced,21567,1,0,19,16,14,1
+10131,9934984986,0,53,Monthly,Traditional,10,CA,Female,2,Executive,3,Single,19739,4,0,17,18,3,0
+10132,9894857402,0,37,Monthly,Pure Term Plan,3,Marketing Diploma,Female,4,Senior Manager,2,Single,24208,4,0,16,16,3,1
+10135,9954749190,0,47,Yearly,Market Link,9,Statistics,Female,4,Executive,3,Divorced,17942,1,0,28,8,8,0
+10151,9871548579,0,60,Monthly,Traditional,15,CA,Female,4,Manager,4,Married,20605,1,0,16,20,9,1
+10152,9946702449,0,46,Yearly,Pure Term Plan,25,Marketing Diploma,Male,3,Senior Manager,4,Divorced,22295,1,0,18,10,14,0
+10155,9883911198,0,55,Monthly,Pure Term Plan,8,Marketing Diploma,Female,3,Senior Manager,2,Single,23998,1,0,19,9,11,1
+10158,9934529934,0,44,Yearly,Traditional,6,CA,Female,2,Executive,4,Divorced,18346,4,1,25,9,1,0
+10159,9898819662,0,57,Yearly,Pure Term Plan,11,Marketing Diploma,Male,4,Senior Manager,2,Divorced,25855,7,0,16,15,2,0
+10160,9919666988,0,37,Monthly,Pure Term Plan,22,Marketing Diploma,Female,4,Executive,3,Divorced,17231,6,0,23,6,14,1
+10161,9863491435,0,52,Yearly,Traditional,10,CA,Male,4,Executive,2,Divorced,17323,1,0,29,2,8,0
+10163,9863396112,0,38,Yearly,Traditional,21,CA,Male,2,Executive,2,Divorced,17713,1,0,16,5,12,1
+10164,9862292451,0,54,Yearly,Traditional,16,Statistics,Male,4,Senior Manager,2,Married,24439,3,1,21,12,7,2
+10165,9924144035,0,34,Quarterly,Traditional,15,CA,Male,3,Executive,3,Married,17566,1,1,20,1,7,0
+10180,9888937943,0,38,Yearly,Traditional,21,Statistics,Female,4,Executive,2,Single,17288,1,0,17,2,3,1
+10182,9934896473,0,59,Yearly,Traditional,6,CA,Female,3,Executive,4,Single,17311,2,0,20,9,9,1
+10185,9952472435,0,45,Yearly,Traditional,10,CA,Female,4,Manager,5,Married,19450,1,0,16,5,4,2
+10205,9906426489,1,22,Yearly,Traditional,9,CA,Male,2,Manager,5,Divorced,21673,7,1,24,17,2,6
+10211,9913562702,1,29,Yearly,Pure Term Plan,3,CA,Male,3,Senior Manager,2,Divorced,25400,1,0,16,14,8,8
+10212,9895336889,0,35,Quarterly,Traditional,17,Statistics,Male,2,Senior Manager,3,Single,23474,1,0,27,12,1,0
+10215,9860202877,1,21,Yearly,Traditional,4,Engineer,Female,4,Executive,5,Single,17657,5,1,16,8,11,3
+10217,9880376743,1,39,Monthly,Pure Term Plan,5,Marketing Diploma,Female,3,Manager,5,Single,21696,5,0,20,9,5,8
+10226,9924699472,0,33,Yearly,Traditional,15,Statistics,Male,3,Executive,2,Divorced,17177,3,0,22,7,2,0
+10228,9938267819,0,40,Monthly,Pure Term Plan,14,CA,Female,5,Senior Manager,2,Divorced,22918,1,0,19,11,2,1
+10230,9956330829,1,34,Yearly,Traditional,5,CA,Male,4,Executive,2,Single,17389,1,1,18,4,7,2
+10231,9858906833,0,54,Yearly,Traditional,6,Statistics,Female,3,Executive,2,Single,18212,7,0,20,6,12,2
+10236,9928756459,0,33,Yearly,Pure Term Plan,10,Marketing Diploma,Female,5,AVP,2,Divorced,31064,5,1,27,22,4,2
+10238,9947300854,0,37,Quarterly,Pure Term Plan,25,Statistics,Male,3,VP,3,Single,34068,1,1,23,33,9,1
+10241,9872177052,0,51,Yearly,Traditional,9,CA,Female,2,Executive,3,Married,17232,7,0,19,7,8,1
+10242,9876672023,0,53,Quarterly,Pure Term Plan,25,Marketing Diploma,Male,5,Manager,2,Divorced,19465,0,0,23,4,7,1
+10244,9871878630,0,60,Yearly,Traditional,7,Engineer,Male,3,Manager,2,Married,18319,1,0,22,9,7,0
+10245,9857791058,0,47,Yearly,Traditional,15,Other,Male,3,VP,2,Divorced,34202,0,0,16,25,14,0
+10247,9860172510,0,43,Yearly,Traditional,19,Statistics,Female,2,Executive,2,Divorced,17911,1,0,18,2,4,0
+10249,9927942862,0,60,Yearly,Traditional,16,CA,Female,2,Executive,5,Divorced,18920,2,0,19,17,14,2
+10251,9918090865,1,27,Monthly,Traditional,3,CA,Male,3,Senior Manager,3,Married,25048,6,0,16,17,13,8
+10254,9926562806,0,37,Yearly,Traditional,11,Statistics,Female,4,Manager,5,Single,21545,3,1,18,10,5,1
+10255,9939859824,0,52,Yearly,Pure Term Plan,13,Marketing Diploma,Male,4,Manager,2,Married,21931,2,0,19,10,1,0
+10258,9860266552,0,43,Yearly,Traditional,24,CA,Male,4,VP,3,Married,34436,0,0,24,22,14,2
+10259,9917336739,0,35,Yearly,Traditional,12,Statistics,Male,4,Executive,2,Divorced,17723,1,0,16,1,12,0
+10260,9861967434,1,25,Monthly,Traditional,9,CA,Male,4,Executive,4,Single,18479,0,0,16,6,3,10
+10272,9928749507,1,28,Quarterly,Traditional,9,Statistics,Male,3,Senior Manager,4,Divorced,26849,1,1,17,10,9,3
+10274,9921997334,0,44,Yearly,Pure Term Plan,6,CA,Male,2,Manager,2,Divorced,21502,4,0,19,7,1,0
+10280,9908134222,0,60,Yearly,Traditional,6,Statistics,Male,4,VP,4,Married,34144,3,0,19,28,12,2
+10285,9876986980,0,50,Monthly,Traditional,24,CA,Male,4,Manager,5,Divorced,19741,1,1,18,5,8,1
+10286,9879949508,0,57,Yearly,Traditional,24,Statistics,Female,5,Executive,2,Single,17115,1,0,17,17,11,2
+10288,9912287316,0,41,Yearly,Traditional,21,Statistics,Male,5,Manager,2,Married,20745,9,0,19,10,6,2
+10289,9893069529,1,29,Yearly,Traditional,10,CA,Male,4,Executive,4,Married,17373,2,1,18,5,5,2
+10293,9917250522,0,46,Monthly,Pure Term Plan,8,Marketing Diploma,Female,2,Executive,4,Married,17789,1,0,16,2,10,0
+10294,9861742069,1,34,Yearly,Pure Term Plan,3,Marketing Diploma,Male,4,Manager,2,Single,20828,1,1,17,8,12,6
+10295,9941914117,0,47,Monthly,Traditional,16,CA,Male,5,Executive,2,Divorced,17326,1,1,17,4,7,0
+10298,9931784146,0,49,Yearly,Pure Term Plan,22,Marketing Diploma,Male,5,Senior Manager,4,Divorced,23020,0,0,20,12,11,2
+10308,9953542567,0,44,Yearly,Traditional,9,Statistics,Female,3,Senior Manager,4,Divorced,27061,3,0,22,19,7,0
+10315,9924985318,0,42,Yearly,Traditional,12,CA,Male,4,AVP,5,Divorced,32068,1,1,19,21,4,2
+10323,9883888039,0,53,Yearly,Traditional,15,CA,Female,5,Manager,2,Single,20055,7,0,21,10,5,2
+10325,9898763518,0,36,Yearly,Traditional,14,CA,Female,3,Manager,2,Divorced,20775,1,0,18,11,9,2
+10329,9902357883,0,52,Monthly,Pure Term Plan,19,Marketing Diploma,Male,5,Manager,2,Single,19682,3,0,19,9,11,2
+10335,9915999151,0,46,Yearly,Traditional,17,Other,Male,2,Manager,2,Divorced,18697,9,0,19,12,2,0
+10339,9929876595,0,33,Yearly,Pure Term Plan,20,Marketing Diploma,Female,3,Manager,3,Married,21118,1,0,18,10,1,2
+10340,9880238601,0,53,Yearly,Pure Term Plan,16,Marketing Diploma,Female,3,Manager,4,Divorced,21214,1,0,23,8,3,0
+10341,9858846612,0,45,Yearly,Traditional,23,CA,Male,3,Manager,2,Married,21347,7,0,21,8,1,0
+10343,9936622817,0,33,Yearly,Traditional,5,CA,Female,4,Senior Manager,2,Single,22143,1,1,19,11,1,0
+10344,9904978124,0,36,Yearly,Pure Term Plan,16,Marketing Diploma,Female,4,Manager,4,Married,23268,1,1,19,7,7,2
+10345,9922263837,0,56,Yearly,Traditional,17,Engineer,Male,4,Senior Manager,4,Single,23095,0,0,18,17,7,0
+10349,9896048854,0,37,Yearly,Traditional,7,Statistics,Female,4,AVP,2,Single,30992,2,0,19,16,9,1
+10351,9874799181,0,53,Yearly,Market Link,24,Engineer,Male,5,Executive,3,Married,17696,0,1,16,4,1,1
+10352,9950533514,0,32,Yearly,Traditional,3,CA,Female,5,Executive,4,Divorced,17370,1,0,18,8,3,2
+10353,9935966901,0,31,Yearly,Pure Term Plan,22,CA,Female,4,Senior Manager,3,Divorced,27504,3,0,26,15,12,2
+10358,9866700383,1,31,Monthly,Pure Term Plan,10,Engineer,Female,2,Executive,4,Single,17174,1,1,16,3,5,7
+10367,9875161959,1,36,Monthly,Pure Term Plan,6,Marketing Diploma,Male,2,Manager,4,Single,24355,1,0,23,8,8,6
+10369,9943444302,1,30,Yearly,Pure Term Plan,9,Marketing Diploma,Male,1,Manager,3,Divorced,21380,2,1,17,8,9,9
+10370,9950735963,0,30,Yearly,Traditional,21,Statistics,Male,4,Executive,4,Single,17657,0,1,21,3,9,1
+10372,9864535065,0,41,Yearly,Traditional,9,Statistics,Male,3,Executive,2,Single,17201,9,0,21,6,2,2
+10377,9908790908,0,42,Yearly,Pure Term Plan,8,Statistics,Female,5,Manager,2,Divorced,19936,4,0,16,18,13,2
+10380,9898671466,0,50,Yearly,Traditional,7,Statistics,Female,5,AVP,2,Single,31659,2,1,18,30,11,2
+10387,9924103084,0,32,Yearly,Traditional,12,Statistics,Female,2,Executive,5,Married,18034,1,0,17,18,10,2
+10389,9859091985,0,36,Yearly,Traditional,5,Statistics,Female,3,Executive,5,Married,17576,3,0,21,8,14,2
+10390,9942403314,0,51,Yearly,Traditional,10,Statistics,Male,4,Manager,4,Single,19197,2,1,17,18,4,2
+10396,9882297372,0,43,Monthly,Traditional,11,CA,Male,3,Executive,2,Divorced,17258,7,0,25,8,13,0
+10397,9932735898,0,56,Yearly,Traditional,15,Other,Female,4,Manager,3,Married,19522,4,1,19,8,12,2
+10400,9880369465,0,39,Yearly,Traditional,18,Statistics,Male,4,Executive,5,Divorced,17218,1,0,17,4,11,2
+10407,9915658319,0,55,Yearly,Traditional,23,CA,Male,4,Senior Manager,3,Divorced,22969,2,1,19,28,13,2
+10413,9893086956,0,39,Yearly,Traditional,22,CA,Female,3,Manager,3,Married,19810,2,0,19,19,9,2
+10414,9902486168,0,40,Monthly,Traditional,10,Engineer,Female,5,Manager,2,Divorced,19523,0,0,16,7,2,1
+10422,9939977698,1,39,Yearly,Traditional,9,Engineer,Female,4,Executive,4,Divorced,17546,5,0,21,6,10,9
+10423,9913359745,1,38,Yearly,Market Link,8,Engineer,Male,4,Executive,2,Single,17564,1,0,17,1,5,5
+10424,9938967192,0,39,Quarterly,Pure Term Plan,4,Other,Female,4,Senior Manager,5,Divorced,23412,0,0,16,10,4,2
+10426,9866997713,0,42,Yearly,Traditional,7,Statistics,Male,2,AVP,3,Divorced,32046,0,0,20,28,14,1
+10432,9881222431,0,59,Yearly,Traditional,21,Statistics,Female,5,Manager,3,Single,18780,7,0,16,19,12,0
+10434,9888422432,0,58,Yearly,Pure Term Plan,21,Marketing Diploma,Female,3,Senior Manager,2,Divorced,24071,2,1,24,15,12,0
+10438,9912372406,0,32,Yearly,Pure Term Plan,19,Marketing Diploma,Male,4,Executive,4,Single,17983,0,0,19,4,2,1
+10439,9859457075,0,57,Yearly,Traditional,23,Statistics,Male,5,Senior Manager,3,Divorced,22632,4,1,17,10,12,2
+10441,9877795809,1,38,Monthly,Market Link,9,MBA,Female,1,Senior Manager,5,Married,24950,9,1,20,11,6,5
+10443,9952303253,0,55,Quarterly,Pure Term Plan,15,CA,Male,3,Senior Manager,2,Single,24980,1,0,19,10,1,1
+10445,9930705479,0,45,Yearly,Pure Term Plan,17,Marketing Diploma,Female,2,Manager,2,Divorced,19051,2,0,19,14,5,0
+10446,9905090860,0,40,Yearly,Pure Term Plan,20,Statistics,Female,3,AVP,4,Single,31835,3,0,28,37,5,2
+10447,9956738681,0,46,Quarterly,Pure Term Plan,10,Statistics,Male,4,Manager,2,Single,21230,7,0,19,16,9,0
+10449,9940839108,0,48,Yearly,Traditional,20,Statistics,Female,5,AVP,3,Single,28237,7,0,20,22,15,1
+10458,9859199535,1,35,Monthly,Pure Term Plan,5,Marketing Diploma,Male,2,Executive,4,Single,16878,1,1,19,0,13,6
+10459,9887801406,0,37,Quarterly,Pure Term Plan,9,Other,Male,5,Senior Manager,5,Married,25932,3,0,20,20,8,1
+10461,9898441466,0,55,Yearly,Pure Term Plan,16,CA,Male,2,Manager,3,Married,19306,5,0,17,8,15,1
+10463,9869884535,0,46,Yearly,Pure Term Plan,17,Statistics,Male,4,Manager,2,Single,20337,1,0,17,10,14,0
+10465,9880789730,0,58,Yearly,Traditional,16,Engineer,Female,2,Senior Manager,2,Single,22491,4,0,22,12,4,1
+10467,9889847647,0,54,Yearly,Pure Term Plan,10,Statistics,Female,2,AVP,5,Divorced,31595,7,0,21,22,3,2
+10472,9941105566,0,58,Yearly,Traditional,11,CA,Female,3,Manager,3,Divorced,24824,3,0,24,18,1,0
+10473,9946139110,0,46,Yearly,Traditional,22,Statistics,Female,5,Manager,4,Divorced,21447,6,0,17,8,4,0
+10477,9907652006,0,56,Yearly,Traditional,20,Other,Male,2,Executive,4,Divorced,17127,1,0,26,1,5,0
+10480,9936004189,1,31,Monthly,Traditional,2,Statistics,Female,1,Executive,3,Divorced,17886,1,1,21,6,3,9
+10483,9888473146,1,36,Yearly,Pure Term Plan,9,CA,Male,2,Manager,5,Married,19233,2,0,22,9,2,2
+10484,9954439447,0,32,Yearly,Traditional,11,Other,Male,5,Manager,2,Single,18681,4,0,19,9,12,0
+10487,9933864767,0,58,Yearly,Pure Term Plan,5,Marketing Diploma,Male,4,Manager,3,Divorced,24602,4,1,16,17,10,1
+10489,9893840673,0,58,Yearly,Traditional,14,Statistics,Female,4,Manager,2,Divorced,19089,1,0,18,10,4,0
+10490,9870134839,0,60,Yearly,Traditional,23,Other,Male,3,AVP,2,Married,31627,4,1,19,21,10,2
+10497,9918059187,0,36,Yearly,Pure Term Plan,22,Engineer,Male,2,Executive,3,Single,18447,1,0,16,3,4,1
+10498,9883541809,0,52,Yearly,Traditional,11,Other,Male,2,VP,2,Divorced,34513,4,1,17,26,1,2
+10499,9860113581,0,46,Yearly,Traditional,19,CA,Male,5,Executive,3,Divorced,17773,0,0,25,3,5,1
+10509,9893109198,0,58,Yearly,Traditional,23,Statistics,Male,4,Manager,2,Single,21646,1,0,18,17,12,0
+10514,9860906545,1,37,Yearly,Traditional,7,CA,Male,4,Executive,3,Single,16009,1,1,16,1,11,2
+10515,9941459483,1,35,Monthly,Traditional,1,Statistics,Male,1,Executive,5,Single,18348,1,1,16,10,6,6
+10517,9858375504,0,46,Yearly,Traditional,6,CA,Male,3,Executive,5,Divorced,17819,2,0,21,5,2,2
+10522,9867512019,0,45,Monthly,Pure Term Plan,6,CA,Female,3,Manager,2,Married,19647,1,1,25,6,5,1
+10525,9924281349,0,38,Yearly,Traditional,7,CA,Female,5,Senior Manager,4,Single,23621,1,0,19,9,14,0
+10527,9884074723,0,36,Yearly,Traditional,11,Engineer,Female,4,Manager,3,Single,19553,1,0,16,20,8,2
+10528,9899108685,0,53,Yearly,Pure Term Plan,19,Marketing Diploma,Male,3,Manager,2,Single,20396,1,0,17,10,12,1
+10530,9901489884,0,46,Yearly,Traditional,24,Statistics,Female,4,Manager,2,Single,22625,0,0,18,10,7,2
+10531,9937543022,0,31,Yearly,Traditional,16,Statistics,Female,5,Senior Manager,5,Divorced,22412,1,0,16,9,2,1
+10533,9862793751,0,41,Yearly,Pure Term Plan,6,Marketing Diploma,Male,3,Manager,5,Single,19960,2,0,17,20,11,2
+10535,9931845809,0,45,Yearly,Traditional,7,Statistics,Male,4,AVP,3,Divorced,29814,3,0,24,32,6,1
+10537,9942451664,0,46,Yearly,Pure Term Plan,13,Marketing Diploma,Male,3,Manager,5,Single,20405,8,0,19,10,14,0
+10538,9910541529,0,50,Monthly,Traditional,25,Statistics,Male,2,Senior Manager,5,Married,23793,1,0,26,9,9,0
+10540,9859981721,0,38,Yearly,Pure Term Plan,18,Marketing Diploma,Male,4,Executive,4,Divorced,18875,7,0,20,4,12,1
+10541,9859267299,1,29,Yearly,Traditional,9,Statistics,Female,1,Executive,4,Single,17216,7,1,18,10,5,10
+10543,9898831168,0,52,Yearly,Traditional,11,Statistics,Female,4,Senior Manager,3,Single,22861,4,1,19,10,3,2
+10544,9931967014,0,56,Quarterly,Traditional,8,CA,Male,3,Executive,3,Single,18708,2,0,19,9,11,0
+10547,9956609367,0,40,Yearly,Pure Term Plan,10,Statistics,Male,2,Executive,3,Single,17642,1,0,16,1,2,0
+10548,9890335078,1,25,Monthly,Traditional,6,CA,Male,1,Executive,3,Married,17759,6,1,17,7,13,8
+10549,9900703710,0,48,Monthly,Pure Term Plan,23,Statistics,Male,4,Manager,2,Divorced,21804,3,0,23,7,10,2
+10553,9955256157,0,52,Yearly,Traditional,4,CA,Male,2,AVP,2,Divorced,26103,7,0,16,30,6,1
+10554,9885791693,0,50,Yearly,Traditional,25,CA,Female,2,Executive,2,Single,17342,0,1,25,5,4,2
+10556,9865312645,0,43,Yearly,Pure Term Plan,18,Marketing Diploma,Male,5,Executive,4,Married,17297,1,0,19,2,15,0
+10565,9940707270,0,41,Yearly,Pure Term Plan,17,Engineer,Male,3,Manager,3,Single,21632,0,0,18,9,10,2
+10566,9886408212,0,47,Yearly,Traditional,18,CA,Male,3,Executive,3,Single,18505,1,0,23,2,10,2
+10567,9933188259,1,36,Monthly,Pure Term Plan,1,Statistics,Female,3,Manager,3,Single,21397,4,1,17,8,5,7
+10568,9906766633,0,32,Yearly,Pure Term Plan,22,Other,Male,4,Manager,2,Single,21274,1,0,27,6,10,0
+10573,9925460444,0,55,Yearly,Traditional,9,CA,Female,3,Manager,3,Divorced,19335,4,0,17,11,2,2
+10576,9857774248,0,33,Yearly,Traditional,9,CA,Female,5,Manager,5,Married,20485,9,1,16,9,8,1
+10577,9904592992,0,56,Monthly,Pure Term Plan,13,Marketing Diploma,Male,5,Manager,2,Divorced,19342,0,0,24,5,8,1
+10579,9925988020,0,48,Monthly,Traditional,9,Statistics,Female,3,Manager,5,Single,20980,6,1,17,17,13,1
+10581,9899976674,0,44,Yearly,Pure Term Plan,12,Statistics,Female,5,Executive,2,Divorced,17572,1,0,21,3,6,1
+10584,9862145052,0,37,Yearly,Pure Term Plan,21,Statistics,Female,2,Manager,5,Divorced,21500,5,0,22,6,1,1
+10591,9901974531,0,52,Yearly,Traditional,11,CA,Male,4,Senior Manager,3,Divorced,26691,0,0,16,14,14,2
+10592,9914237345,1,25,Yearly,Pure Term Plan,1,Marketing Diploma,Female,4,Manager,5,Single,20324,5,0,20,6,8,8
+10595,9930861705,0,43,Yearly,Traditional,15,Statistics,Male,5,Executive,3,Divorced,17700,1,0,29,10,2,2
+10598,9863333044,0,60,Yearly,Traditional,19,Statistics,Female,3,Manager,2,Divorced,21062,9,1,18,8,10,2
+10599,9929595876,1,21,Yearly,Traditional,2,CA,Male,3,Executive,3,Single,19382,6,0,22,5,10,6
+10602,9915953751,0,46,Monthly,Traditional,17,CA,Male,3,Manager,3,Single,20094,6,0,19,10,8,2
+10608,9870660137,1,35,Yearly,Pure Term Plan,6,Marketing Diploma,Female,3,Senior Manager,2,Divorced,22654,1,0,23,9,14,4
+10610,9865738616,0,36,Yearly,Traditional,23,Statistics,Male,4,AVP,5,Divorced,32159,6,0,29,22,13,0
+10614,9870017100,0,34,Yearly,Market Link,13,MBA,Male,3,Executive,2,Divorced,18737,0,0,24,4,9,1
+10615,9873452487,1,26,Monthly,Traditional,7,CA,Female,2,Executive,3,Divorced,17366,1,1,19,8,7,2
+10624,9894576570,0,46,Monthly,Traditional,5,Statistics,Male,3,Executive,2,Married,18761,9,0,17,10,1,0
+10625,9925864395,0,36,Yearly,Pure Term Plan,17,Marketing Diploma,Female,5,Senior Manager,2,Divorced,25934,7,1,23,35,15,0
+10626,9898286016,0,31,Yearly,Pure Term Plan,3,Marketing Diploma,Male,4,Senior Manager,5,Married,25761,4,1,17,9,14,0
+10628,9924253250,0,57,Monthly,Traditional,23,CA,Female,5,AVP,2,Divorced,28826,3,0,27,31,5,2
+10629,9956300033,0,43,Yearly,Pure Term Plan,21,Marketing Diploma,Male,5,Manager,3,Married,21334,4,0,24,9,6,0
+10633,9863709624,0,37,Monthly,Traditional,21,CA,Male,5,Executive,2,Single,17515,5,1,19,8,13,2
+10635,9877526292,0,53,Yearly,Pure Term Plan,10,Other,Male,5,Manager,5,Divorced,19194,1,1,23,5,11,2
+10642,9871049849,0,33,Monthly,Pure Term Plan,8,Statistics,Male,4,Manager,4,Divorced,21524,1,0,19,10,14,0
+10645,9895204447,0,47,Yearly,Traditional,22,Statistics,Male,2,Executive,2,Divorced,17356,3,1,24,8,5,0
+10646,9955449311,1,37,Yearly,Pure Term Plan,1,CA,Female,3,Executive,3,Married,17800,6,1,24,5,10,8
+10648,9945848034,0,35,Yearly,Traditional,18,Engineer,Male,2,Senior Manager,4,Divorced,25903,3,0,21,16,11,1
+10649,9911442552,0,45,Monthly,Pure Term Plan,11,CA,Female,2,Executive,2,Divorced,17973,5,0,20,10,14,0
+10653,9914987387,0,50,Quarterly,Pure Term Plan,20,CA,Male,3,Senior Manager,4,Single,22642,1,1,18,10,9,1
+10656,9874722293,0,59,Yearly,Market Link,11,MBA,Male,5,Executive,4,Married,17277,3,1,16,7,6,0
+10658,9929873390,0,38,Yearly,Traditional,15,CA,Female,3,Executive,2,Married,17532,6,0,19,8,5,2
+10671,9944671020,0,32,Yearly,Traditional,13,Statistics,Female,4,Executive,3,Single,17318,1,0,24,1,4,2
+10673,9951703874,0,42,Yearly,Pure Term Plan,6,CA,Female,4,Manager,3,Single,21244,7,0,22,10,9,0
+10675,9918943943,0,46,Yearly,Traditional,23,Engineer,Female,5,Senior Manager,4,Married,25552,2,1,18,24,4,1
+10677,9886068913,0,49,Yearly,Traditional,21,Statistics,Female,4,Manager,2,Divorced,19014,1,1,30,10,2,0
+10678,9953036268,0,48,Yearly,Traditional,7,Other,Female,4,Senior Manager,4,Divorced,22403,4,0,16,29,3,1
+10680,9943858323,0,30,Quarterly,Pure Term Plan,15,Marketing Diploma,Female,4,Manager,3,Divorced,21932,1,0,18,9,14,0
+10681,9914618350,0,48,Yearly,Traditional,13,Other,Male,5,Executive,2,Single,19678,2,0,23,8,4,0
+10682,9902487832,0,45,Yearly,Traditional,8,Engineer,Female,3,Senior Manager,5,Divorced,28582,1,0,18,15,12,2
+10684,9896972574,1,26,Yearly,Pure Term Plan,3,Marketing Diploma,Male,2,Executive,4,Divorced,17413,1,1,23,1,5,3
+10685,9909851714,0,31,Yearly,Pure Term Plan,3,Marketing Diploma,Male,3,Senior Manager,4,Married,24705,2,0,17,11,8,0
+10689,9894574461,1,39,Yearly,Pure Term Plan,5,Other,Male,4,Executive,4,Single,17121,1,1,18,1,9,7
+10691,9913671821,0,50,Yearly,Traditional,8,CA,Female,3,Manager,2,Divorced,20855,0,1,16,10,5,0
+10694,9920955684,1,30,Yearly,Pure Term Plan,2,Statistics,Male,4,Senior Manager,2,Divorced,25325,1,1,16,16,11,5
+10695,9894241913,0,51,Yearly,Traditional,12,Statistics,Female,3,Manager,2,Single,21949,0,0,19,6,10,0
+10698,9896029390,0,42,Monthly,Pure Term Plan,22,Engineer,Female,4,Executive,2,Divorced,17157,1,0,20,3,15,2
+10700,9886704182,0,52,Yearly,Traditional,15,Statistics,Male,4,AVP,2,Divorced,32099,2,0,20,26,4,0
+10707,9890337312,1,30,Quarterly,Pure Term Plan,1,Statistics,Female,4,AVP,4,Single,28194,4,1,21,22,8,9
+10711,9887614436,0,51,Quarterly,Pure Term Plan,18,Statistics,Male,5,AVP,3,Single,32444,1,0,16,10,8,1
+10713,9883341693,0,31,Yearly,Traditional,21,Statistics,Female,5,Executive,2,Single,18452,3,0,23,5,1,1
+10717,9897663396,0,33,Monthly,Traditional,21,CA,Male,5,VP,3,Married,34419,2,0,22,21,4,0
+10724,9915169245,0,43,Yearly,Traditional,13,CA,Male,4,Senior Manager,3,Married,25845,6,0,18,13,6,1
+10725,9920299072,0,58,Yearly,Traditional,21,CA,Female,5,Manager,3,Married,19377,1,0,20,5,5,1
+10727,9906735013,0,55,Monthly,Traditional,21,Statistics,Female,4,Manager,5,Divorced,19148,1,0,17,4,7,0
+10728,9878721782,0,31,Quarterly,Traditional,21,Statistics,Male,4,Executive,2,Single,16051,1,0,20,0,6,0
+10730,9883269060,0,55,Yearly,Traditional,22,CA,Female,5,Senior Manager,3,Married,25388,1,1,16,16,3,2
+10731,9906943086,0,42,Yearly,Traditional,12,Statistics,Female,4,Senior Manager,5,Divorced,26416,0,1,17,9,5,1
+10732,9876326034,1,27,Yearly,Traditional,4,CA,Female,4,Executive,5,Single,17600,1,1,20,1,6,2
+10736,9929760596,0,52,Yearly,Traditional,17,Statistics,Male,3,Manager,3,Single,19240,2,0,18,19,7,0
+10738,9918842504,0,53,Yearly,Traditional,4,CA,Female,5,Manager,3,Single,20003,6,0,19,8,3,0
+10743,9891958715,0,50,Yearly,Traditional,22,Statistics,Male,5,Executive,2,Divorced,17380,4,0,23,8,7,2
+10747,9937687930,0,44,Quarterly,Traditional,14,Statistics,Female,3,VP,3,Married,34973,1,0,27,21,11,2
+10748,9925183432,0,30,Yearly,Pure Term Plan,11,Statistics,Male,4,Manager,2,Single,21861,8,1,17,19,3,1
+10750,9868376562,1,21,Yearly,Pure Term Plan,7,Marketing Diploma,Female,4,VP,2,Divorced,34845,1,0,20,33,1,8
+10751,9918248791,0,55,Yearly,Pure Term Plan,13,CA,Female,2,AVP,2,Divorced,28320,3,1,23,23,9,1
+10756,9896944164,0,47,Yearly,Pure Term Plan,5,Statistics,Female,5,AVP,2,Divorced,32650,3,0,18,26,8,2
+10759,9906020882,0,47,Yearly,Pure Term Plan,8,Engineer,Male,2,Senior Manager,2,Divorced,26904,3,1,19,14,7,0
+10760,9921737302,0,36,Yearly,Market Link,23,CA,Male,4,Executive,4,Single,17177,1,0,21,6,10,1
+10763,9872600899,1,25,Monthly,Traditional,4,Statistics,Male,4,Executive,5,Divorced,17042,6,1,19,6,5,2
+10768,9881986316,0,39,Yearly,Traditional,11,Other,Female,2,Manager,4,Single,19107,3,0,20,8,12,1
+10770,9881098593,0,37,Monthly,Traditional,4,CA,Female,2,Executive,3,Married,17007,1,0,18,5,9,2
+10771,9875983487,0,55,Yearly,Traditional,24,CA,Male,2,VP,2,Married,34627,9,0,22,23,15,0
+10774,9878302885,0,40,Yearly,Traditional,12,CA,Female,4,Senior Manager,2,Single,23858,0,0,16,15,6,2
+10775,9868129490,0,31,Quarterly,Traditional,21,CA,Male,4,AVP,5,Single,31756,7,0,20,31,14,2
+10776,9892275720,0,58,Yearly,Pure Term Plan,15,CA,Male,4,Senior Manager,2,Married,25798,5,0,18,18,13,0
+10779,9954748564,0,54,Yearly,Traditional,10,Statistics,Female,5,Manager,5,Married,19615,8,1,28,19,4,0
+10780,9923002918,1,39,Yearly,Traditional,3,Statistics,Male,1,Executive,3,Divorced,17461,9,1,17,18,8,9
+10781,9917168378,1,28,Quarterly,Traditional,9,Engineer,Male,4,Senior Manager,5,Single,23722,1,0,17,10,3,2
+10782,9859650207,0,44,Yearly,Traditional,11,CA,Male,4,Executive,5,Divorced,18955,1,0,21,6,1,2
+10783,9897867060,0,55,Yearly,Traditional,15,Other,Male,4,Manager,5,Divorced,24957,0,0,20,7,14,0
+10787,9871484032,0,46,Quarterly,Traditional,22,Statistics,Male,2,Executive,3,Divorced,19621,1,0,24,3,1,0
+10791,9894994197,0,30,Yearly,Traditional,18,Statistics,Male,3,Senior Manager,2,Married,22119,4,0,20,9,15,1
+10795,9897175884,0,40,Monthly,Traditional,17,Statistics,Male,4,Manager,2,Single,22756,0,0,22,7,5,2
+10799,9887474073,1,29,Yearly,Traditional,2,CA,Male,4,Executive,4,Single,17313,4,1,25,5,12,7
+10800,9931371461,0,34,Yearly,Traditional,21,CA,Male,4,AVP,5,Divorced,32665,0,0,22,23,1,2
+10802,9942454282,1,37,Monthly,Pure Term Plan,1,Other,Male,3,Manager,3,Single,19728,3,1,19,5,6,3
+10803,9858672972,0,33,Monthly,Pure Term Plan,4,Statistics,Female,2,Manager,4,Divorced,19302,0,0,22,4,1,0
+10809,9898452061,0,43,Yearly,Traditional,16,Statistics,Female,5,Executive,2,Married,17514,4,0,27,11,14,1
+10811,9925571637,0,55,Yearly,Pure Term Plan,7,Marketing Diploma,Male,5,AVP,3,Divorced,32465,3,0,17,23,13,0
+10815,9931987516,0,40,Yearly,Traditional,20,CA,Male,2,VP,3,Single,34626,1,0,19,21,8,0
+10821,9884148411,0,40,Monthly,Pure Term Plan,24,Marketing Diploma,Male,2,Manager,2,Married,19968,1,0,16,5,13,2
+10823,9862844765,0,41,Monthly,Traditional,16,Statistics,Male,3,Manager,3,Single,19033,2,0,16,5,9,1
+10825,9941572007,0,32,Yearly,Traditional,24,CA,Male,3,Manager,2,Single,19272,4,0,24,16,13,0
+10832,9954884729,1,34,Monthly,Traditional,5,CA,Male,4,Executive,3,Divorced,17610,1,0,17,2,3,5
+10834,9910903682,0,48,Yearly,Traditional,13,Statistics,Male,2,Executive,3,Divorced,17539,1,0,18,4,6,0
+10835,9894047892,0,47,Yearly,Pure Term Plan,19,Statistics,Female,2,Manager,3,Divorced,20714,1,0,25,6,12,0
+10837,9915694780,1,24,Yearly,Pure Term Plan,4,Statistics,Female,2,Senior Manager,5,Divorced,22336,1,0,18,11,9,5
+10838,9946246771,0,43,Monthly,Traditional,20,CA,Female,4,Senior Manager,3,Single,28499,9,0,22,20,10,2
+10841,9903236565,0,31,Yearly,Traditional,22,CA,Male,2,Executive,3,Divorced,17258,6,0,17,10,6,1
+10842,9897828486,0,58,Yearly,Traditional,20,CA,Male,2,Executive,4,Single,18597,8,0,27,6,9,1
+10843,9909131186,1,27,Yearly,Traditional,1,Statistics,Female,4,Executive,2,Divorced,17515,1,1,16,1,4,7
+10847,9909923131,0,39,Yearly,Traditional,5,Statistics,Male,5,Senior Manager,4,Married,25274,2,0,23,15,5,2
+10848,9945447387,0,49,Monthly,Traditional,6,CA,Male,3,Manager,5,Single,20343,0,0,25,14,1,0
+10852,9924349413,0,60,Yearly,Traditional,4,Engineer,Female,3,VP,5,Married,34943,4,0,18,28,11,1
+10853,9931079261,0,34,Yearly,Traditional,4,CA,Female,2,Executive,2,Divorced,18131,1,0,18,10,5,0
+10854,9926399102,0,47,Yearly,Traditional,10,Statistics,Male,5,Executive,5,Single,17552,1,0,30,1,8,0
+10855,9882540087,0,58,Yearly,Traditional,11,CA,Female,4,Executive,3,Divorced,19477,4,1,24,7,14,2
+10859,9947012560,0,43,Yearly,Traditional,3,CA,Female,2,VP,3,Married,33606,3,0,23,26,13,0
+10862,9943919913,0,33,Yearly,Pure Term Plan,13,Marketing Diploma,Female,3,AVP,5,Divorced,32048,8,0,28,28,8,2
+10872,9884763051,1,30,Yearly,Traditional,4,Statistics,Female,4,Executive,4,Divorced,17210,1,0,18,1,1,9
+10875,9933401082,0,52,Yearly,Traditional,3,Statistics,Male,5,Manager,3,Married,18491,1,0,18,10,7,2
+10876,9895733483,0,33,Yearly,Traditional,7,Other,Male,3,Manager,2,Single,19541,1,0,30,20,7,0
+10877,9894340855,0,48,Yearly,Pure Term Plan,9,Marketing Diploma,Male,3,Executive,2,Single,17678,1,0,22,2,10,1
+10880,9910528433,0,57,Yearly,Pure Term Plan,23,Marketing Diploma,Male,5,Manager,2,Married,20220,0,1,23,12,15,2
+10881,9914095563,0,43,Monthly,Traditional,22,Other,Female,5,Executive,4,Divorced,17743,1,0,25,2,5,0
+10891,9925445146,0,50,Monthly,Traditional,9,Statistics,Female,5,Senior Manager,3,Married,25502,7,0,22,33,12,1
+10892,9884147336,0,48,Yearly,Traditional,18,Statistics,Female,3,Executive,2,Divorced,17011,1,0,18,10,3,1
+10893,9907579210,1,32,Quarterly,Traditional,1,CA,Female,4,Executive,4,Single,16859,1,1,30,1,1,8
+10895,9870613126,0,58,Yearly,Traditional,6,Statistics,Male,4,AVP,2,Divorced,32779,3,0,19,36,3,2
+10905,9859964843,0,59,Yearly,Traditional,23,Statistics,Male,5,VP,2,Single,33265,6,0,17,25,13,1
+10907,9926417161,0,59,Yearly,Traditional,25,Engineer,Female,5,Executive,3,Divorced,17585,0,0,22,2,12,0
+10909,9949095191,0,60,Yearly,Pure Term Plan,11,Marketing Diploma,Male,5,Senior Manager,3,Married,23380,0,1,19,10,2,1
+10913,9869019117,0,33,Yearly,Traditional,16,Statistics,Male,4,Executive,2,Single,17875,1,1,25,8,1,0
+10914,9880055070,1,35,Yearly,Pure Term Plan,8,Marketing Diploma,Female,2,VP,4,Single,33824,2,1,21,26,14,2
+10918,9916582928,0,57,Yearly,Pure Term Plan,4,Marketing Diploma,Female,5,Manager,5,Single,19538,0,1,17,4,12,1
+10919,9869928779,0,39,Monthly,Pure Term Plan,7,Statistics,Male,4,VP,4,Married,34847,4,1,29,31,15,1
+10925,9921095114,0,32,Yearly,Traditional,22,Statistics,Male,5,Executive,3,Divorced,18506,0,1,19,4,6,1
+10927,9862173518,0,44,Yearly,Pure Term Plan,21,Marketing Diploma,Female,4,Senior Manager,2,Single,25231,3,0,19,23,1,1
+10928,9943886420,0,60,Yearly,Traditional,24,Statistics,Female,2,Manager,4,Single,20410,9,1,16,18,6,0
+10930,9864774993,0,60,Monthly,Traditional,10,Statistics,Male,3,Executive,2,Divorced,18867,1,1,17,2,12,0
+10931,9903515375,0,34,Monthly,Traditional,19,CA,Female,2,Executive,3,Single,17838,0,0,19,8,8,1
+10932,9943673804,0,39,Quarterly,Traditional,20,CA,Female,2,Manager,3,Single,19695,7,1,23,10,3,1
+10938,9904175768,0,42,Yearly,Traditional,20,CA,Female,5,AVP,4,Married,32123,6,1,18,21,4,0
+10941,9930469017,1,40,Yearly,Traditional,5,CA,Male,3,Executive,5,Single,18904,0,0,18,6,10,5
+10942,9947769334,0,30,Yearly,Traditional,24,Engineer,Female,3,Manager,2,Divorced,19627,0,0,17,10,13,1
+10943,9935683469,0,31,Yearly,Traditional,22,Engineer,Female,3,Senior Manager,3,Divorced,22094,3,0,17,10,8,2
+10948,9891380668,1,23,Yearly,Pure Term Plan,8,Statistics,Male,4,Senior Manager,4,Single,23446,9,1,24,10,10,3
+10949,9887586750,0,45,Yearly,Traditional,6,CA,Female,3,Senior Manager,5,Divorced,26916,1,1,28,9,2,1
+10950,9876604217,0,31,Yearly,Traditional,23,Statistics,Male,4,Manager,3,Single,19534,0,0,16,9,3,2
+10954,9930437364,1,25,Yearly,Traditional,6,Statistics,Male,2,Executive,5,Divorced,17362,4,0,17,10,7,9
+10959,9867435248,0,32,Yearly,Traditional,22,Statistics,Male,5,Senior Manager,2,Married,23500,0,0,16,10,8,1
+10962,9876306455,0,37,Monthly,Traditional,24,Statistics,Male,4,Manager,3,Single,19249,1,1,16,9,2,0
+10964,9941469433,0,30,Yearly,Pure Term Plan,21,Statistics,Female,3,Manager,5,Married,21893,3,0,20,11,15,0
+10966,9933501309,0,48,Yearly,Traditional,18,CA,Male,3,Executive,2,Divorced,18669,3,0,16,7,15,2
+10969,9908836925,0,50,Monthly,Pure Term Plan,20,Marketing Diploma,Female,4,Manager,5,Divorced,19639,2,0,21,17,1,1
+10970,9894120678,0,33,Yearly,Traditional,3,Statistics,Male,4,Senior Manager,2,Single,22898,1,0,16,11,14,1
+10972,9857448498,0,45,Yearly,Traditional,21,Engineer,Female,5,AVP,4,Single,28142,3,0,21,29,10,1
+10974,9857806637,0,58,Yearly,Traditional,17,CA,Female,5,Manager,2,Divorced,20363,0,0,17,10,4,0
+10976,9861561167,1,25,Yearly,Pure Term Plan,9,Marketing Diploma,Male,1,AVP,3,Single,28695,6,1,22,24,9,5
+10987,9917809370,0,57,Yearly,Pure Term Plan,15,Statistics,Male,4,Manager,2,Divorced,21120,3,1,17,8,1,2
+10990,9867110882,0,30,Yearly,Traditional,13,Statistics,Male,5,Executive,3,Divorced,17996,7,1,20,8,15,0
+10991,9923438358,0,52,Monthly,Pure Term Plan,6,Statistics,Male,4,Manager,2,Divorced,24998,6,0,18,8,6,2
+10996,9858004074,0,52,Yearly,Traditional,16,CA,Female,2,Manager,3,Single,19081,1,1,19,20,12,0
+10998,9930708742,1,29,Yearly,Traditional,7,Statistics,Female,1,Executive,3,Single,17394,1,1,18,8,5,5
+10999,9944067460,0,57,Yearly,Traditional,25,CA,Male,5,Executive,2,Single,18904,0,0,17,5,2,2
+11000,9880743050,0,47,Yearly,Market Link,17,MBA,Female,4,AVP,5,Divorced,31799,0,0,19,21,7,0
+11003,9952953695,0,36,Monthly,Traditional,13,Statistics,Male,4,Senior Manager,2,Single,24362,2,0,16,10,15,2
+11005,9894745827,0,30,Yearly,Traditional,22,Other,Male,4,Executive,5,Single,18578,0,0,17,8,10,1
+11007,9919927952,1,31,Monthly,Traditional,4,Statistics,Male,2,Manager,5,Single,19284,3,0,25,20,7,8
+11011,9944021596,0,57,Yearly,Traditional,14,CA,Male,3,AVP,2,Married,29732,2,0,18,31,13,1
+11017,9906127642,1,29,Yearly,Traditional,1,Statistics,Female,2,Executive,4,Single,16261,1,0,17,1,10,2
+11018,9872740508,0,32,Yearly,Traditional,14,Statistics,Male,3,Executive,5,Divorced,17099,0,0,19,6,9,1
+11020,9860816841,0,41,Yearly,Pure Term Plan,6,Marketing Diploma,Female,4,Manager,5,Divorced,20647,4,0,18,11,4,1
+11023,9905201357,0,30,Quarterly,Traditional,9,Engineer,Male,2,Executive,3,Single,18500,0,0,19,7,10,2
+11024,9931777266,0,30,Yearly,Traditional,11,Statistics,Female,2,Executive,5,Divorced,17066,2,0,27,5,2,2
+11029,9938026862,0,45,Yearly,Traditional,7,CA,Male,4,Executive,3,Divorced,17127,2,1,17,7,8,0
+11030,9892354499,0,46,Quarterly,Traditional,5,Other,Male,5,Manager,3,Married,18975,3,0,16,11,2,1
+11032,9858987177,1,25,Yearly,Pure Term Plan,1,Marketing Diploma,Male,1,Senior Manager,1,Married,25096,4,0,16,28,14,4
+11033,9907032842,1,25,Quarterly,Traditional,4,Statistics,Female,3,Executive,5,Single,18646,2,1,28,11,8,6
+11035,9931087098,0,34,Yearly,Traditional,5,CA,Male,3,Senior Manager,5,Married,25851,2,1,23,24,15,0
+11038,9942465894,0,44,Yearly,Traditional,18,Engineer,Male,5,Senior Manager,1,Divorced,24380,4,1,23,10,13,2
+11043,9928901062,0,57,Quarterly,Traditional,19,Statistics,Male,3,Executive,3,Single,18162,3,0,19,7,2,1
+11046,9919060876,0,33,Yearly,Traditional,4,CA,Male,5,Executive,3,Married,17345,2,0,19,8,15,1
+11047,9941930313,0,34,Yearly,Traditional,6,Statistics,Male,2,Executive,4,Single,18420,1,0,18,6,12,2
+11051,9902319004,0,51,Monthly,Traditional,8,CA,Female,3,Executive,1,Single,18673,1,0,18,12,14,2
+11057,9955853398,1,39,Monthly,Pure Term Plan,7,Engineer,Male,3,Executive,3,Divorced,17909,3,0,20,5,2,5
+11058,9883895800,1,27,Monthly,Pure Term Plan,7,Engineer,Female,3,Manager,4,Single,20765,5,0,16,7,6,4
+11059,9943246905,1,38,Yearly,Pure Term Plan,1,CA,Female,3,Manager,4,Single,19599,0,1,28,16,9,8
+11060,9873167014,0,33,Yearly,Pure Term Plan,17,Statistics,Male,5,Executive,3,Divorced,17404,1,0,18,1,3,0
+11066,9862547553,0,33,Yearly,Traditional,7,Statistics,Male,3,Manager,3,Divorced,19035,0,1,21,4,8,0
+11071,9877825806,0,52,Monthly,Pure Term Plan,22,Statistics,Male,5,Manager,5,Single,19898,0,0,19,5,13,0
+11075,9906958279,0,37,Yearly,Traditional,6,Statistics,Male,3,Manager,3,Single,21388,2,1,22,14,13,0
+11078,9944061639,1,29,Yearly,Traditional,7,Engineer,Male,4,Executive,5,Single,17362,6,0,18,11,10,5
+11080,9882912491,0,42,Yearly,Traditional,20,Statistics,Female,4,Senior Manager,4,Single,23376,4,0,23,9,8,1
+11081,9886200172,0,56,Yearly,Pure Term Plan,24,Statistics,Female,3,AVP,4,Divorced,31606,8,0,17,23,12,1
+11085,9876772388,0,47,Yearly,Pure Term Plan,14,Engineer,Male,5,Senior Manager,3,Divorced,22083,1,1,19,10,15,2
+11089,9946336500,0,45,Yearly,Traditional,7,CA,Male,2,Executive,4,Married,19841,4,0,19,4,11,1
+11090,9950372168,0,30,Yearly,Traditional,12,CA,Male,2,Manager,1,Married,19285,1,0,22,10,3,2
+11093,9951625594,0,59,Yearly,Traditional,6,Engineer,Male,5,Executive,1,Married,17132,4,0,25,8,4,1
+11096,9918631169,0,60,Yearly,Traditional,19,Statistics,Male,5,Manager,3,Married,20207,1,1,17,15,8,2
+11098,9893206495,0,37,Yearly,Traditional,16,Engineer,Male,2,Executive,5,Married,17296,0,0,19,2,1,1
+11100,9928435271,0,43,Yearly,Traditional,4,Engineer,Male,2,Senior Manager,4,Married,22441,1,0,17,10,7,2
+11101,9933790171,0,60,Yearly,Pure Term Plan,20,Statistics,Female,5,Executive,3,Married,17430,0,0,28,6,8,2
+11104,9948044182,0,41,Yearly,Pure Term Plan,25,Statistics,Female,2,Manager,3,Married,21439,8,0,19,18,5,1
+11105,9933847275,0,31,Yearly,Traditional,6,Statistics,Male,3,Executive,3,Married,17451,6,0,23,5,1,2
+11107,9861511229,1,25,Yearly,Pure Term Plan,2,Statistics,Male,2,Manager,5,Married,24714,1,0,16,10,9,3
+11110,9938812933,0,44,Yearly,Pure Term Plan,4,Engineer,Male,5,Senior Manager,4,Married,24250,3,0,17,9,15,1
+11111,9871804498,1,22,Yearly,Traditional,10,Statistics,Female,3,Executive,5,Married,17074,1,1,17,1,9,6
+11112,9932912754,1,36,Yearly,Traditional,1,Engineer,Female,3,Senior Manager,1,Married,25169,0,0,21,34,6,6
+11114,9926362554,0,35,Quarterly,Traditional,9,Engineer,Male,4,Manager,5,Married,19087,4,0,19,9,8,0
+11116,9887942483,0,46,Yearly,Traditional,4,CA,Male,5,Executive,1,Single,17972,1,0,18,1,9,2
+11117,9939498869,0,38,Yearly,Pure Term Plan,24,Marketing Diploma,Male,3,VP,1,Married,34586,1,0,26,36,9,1
+11118,9873674151,0,43,Yearly,Traditional,13,Statistics,Male,3,Manager,1,Married,20484,9,0,22,9,2,1
+11124,9871972196,0,34,Yearly,Traditional,7,CA,Female,3,Manager,3,Single,21142,3,1,21,10,10,0
+11125,9858707380,0,33,Yearly,Pure Term Plan,8,CA,Male,3,Senior Manager,3,Married,23237,2,0,16,11,3,0
+11127,9949792704,0,55,Yearly,Pure Term Plan,18,Marketing Diploma,Male,2,VP,3,Married,34331,4,1,21,27,12,0
+11129,9945394105,0,35,Monthly,Traditional,7,Statistics,Male,4,Manager,5,Married,20562,3,1,18,9,9,0
+11130,9886276738,0,49,Yearly,Traditional,12,Other,Male,4,VP,1,Single,34613,8,0,27,24,13,0
+11131,9933713926,0,49,Yearly,Traditional,11,Statistics,Male,5,Manager,3,Married,18407,1,0,22,10,15,1
+11132,9943551573,0,35,Monthly,Traditional,14,Engineer,Male,4,Manager,3,Married,20063,1,0,19,8,6,0
+11134,9951353362,0,59,Yearly,Traditional,8,Engineer,Male,3,Executive,4,Married,19876,5,0,17,8,3,1
+11138,9880139453,0,59,Quarterly,Traditional,9,Other,Female,4,Executive,3,Married,17814,1,1,19,4,5,1
+11139,9868433110,0,33,Monthly,Traditional,11,CA,Male,4,AVP,3,Married,26245,2,1,20,32,15,2
+11141,9892447216,0,54,Yearly,Traditional,16,CA,Female,2,VP,1,Married,34049,0,1,19,23,12,0
+11150,9881000467,0,42,Yearly,Traditional,7,Other,Male,3,Executive,5,Married,19066,1,0,16,7,6,1
+11155,9885519200,0,54,Yearly,Market Link,17,Statistics,Female,3,VP,3,Married,34658,3,0,16,27,2,1
+11159,9878814810,0,36,Yearly,Traditional,15,Statistics,Male,2,Manager,3,Married,20768,3,0,22,9,9,1
+11160,9945335951,0,48,Monthly,Traditional,12,CA,Female,2,Manager,3,Single,20042,0,0,18,10,12,1
+11163,9867847653,1,33,Yearly,Pure Term Plan,6,CA,Male,1,Senior Manager,5,Married,25306,9,0,22,15,15,6
+11164,9930073775,0,58,Yearly,Traditional,13,CA,Female,3,Executive,4,Married,18936,1,0,16,8,5,1
+11168,9937121803,1,29,Yearly,Pure Term Plan,2,CA,Male,4,Manager,1,Married,20440,6,1,19,7,1,2
+11169,9875985321,0,44,Monthly,Traditional,5,Engineer,Female,5,Executive,1,Single,18760,1,1,18,6,1,1
+11172,9940223698,1,25,Yearly,Traditional,1,Statistics,Male,3,Executive,5,Single,17166,3,1,19,10,3,9
+11179,9901755039,0,44,Yearly,Pure Term Plan,11,CA,Female,5,Executive,3,Single,17783,1,0,24,2,11,0
+11181,9863482847,0,35,Yearly,Traditional,23,Statistics,Male,2,Executive,4,Single,17013,2,0,16,15,5,0
+11182,9885503679,0,44,Yearly,Traditional,13,Statistics,Female,5,AVP,3,Married,28966,2,1,24,30,15,0
+11187,9859014533,1,38,Monthly,Pure Term Plan,6,Other,Male,2,Manager,1,Single,19581,3,1,29,13,6,5
+11191,9913437561,0,30,Yearly,Traditional,9,CA,Male,5,Manager,4,Married,20470,0,0,18,10,7,2
+11192,9894287953,0,45,Yearly,Pure Term Plan,8,Statistics,Female,4,Manager,1,Married,20476,1,0,16,10,7,1
+11193,9919293032,0,55,Yearly,Traditional,7,CA,Female,2,Executive,5,Married,17587,4,1,21,17,15,1
+11194,9882920709,0,44,Monthly,Traditional,15,CA,Female,3,Executive,4,Single,17440,1,0,27,4,10,1
+11198,9859572538,0,34,Yearly,Pure Term Plan,18,Statistics,Male,3,Executive,5,Single,17728,1,0,16,2,7,1
+11204,9926914722,0,36,Yearly,Traditional,8,CA,Male,5,Senior Manager,1,Married,22005,3,0,20,11,5,0
+11205,9909261637,1,22,Monthly,Pure Term Plan,8,CA,Female,3,Executive,3,Married,17655,2,1,16,19,3,8
+11206,9910918673,1,30,Yearly,Traditional,8,Statistics,Male,1,Executive,4,Single,16393,1,0,17,1,7,6
+11208,9926963164,0,34,Yearly,Traditional,5,Engineer,Male,5,Executive,4,Married,18537,5,0,17,8,1,2
+11211,9880783043,0,47,Yearly,Traditional,21,CA,Male,4,Executive,4,Married,17028,1,0,23,14,10,0
+11213,9895163239,0,59,Yearly,Traditional,3,Statistics,Female,4,Executive,1,Married,17929,1,0,17,10,12,2
+11214,9928302606,1,28,Yearly,Pure Term Plan,9,Statistics,Male,2,Executive,1,Married,17275,1,1,26,3,2,6
+11218,9908930768,0,54,Yearly,Traditional,4,CA,Male,3,Executive,3,Married,19401,1,0,21,5,11,2
+11219,9948838687,0,39,Yearly,Pure Term Plan,5,Marketing Diploma,Male,2,Senior Manager,3,Single,24241,1,0,17,10,9,1
+11223,9955511217,1,38,Yearly,Market Link,7,MBA,Male,2,Executive,3,Married,16555,1,0,16,1,1,2
+11225,9857587672,0,57,Yearly,Traditional,24,CA,Male,3,Executive,3,Married,17305,1,0,20,3,15,0
+11233,9932778090,0,46,Yearly,Traditional,3,Statistics,Male,2,Manager,3,Married,21883,2,0,21,17,12,1
+11237,9858866304,1,30,Yearly,Pure Term Plan,8,Marketing Diploma,Male,3,Manager,5,Married,21134,5,1,18,16,15,8
+11238,9950047029,1,40,Yearly,Pure Term Plan,2,Statistics,Male,4,Manager,4,Single,21735,6,0,20,10,3,4
+11241,9883274173,0,41,Quarterly,Traditional,16,Statistics,Male,5,Manager,1,Married,21472,1,1,20,9,9,0
+11246,9945226106,0,40,Monthly,Market Link,5,CA,Male,4,Executive,1,Married,17145,0,0,19,3,4,2
+11248,9935150998,0,56,Yearly,Pure Term Plan,15,Engineer,Male,3,Manager,3,Married,23346,1,0,24,6,12,1
+11252,9904855299,0,58,Yearly,Pure Term Plan,22,Marketing Diploma,Male,5,Senior Manager,5,Married,22140,2,0,16,12,14,2
+11255,9897570967,0,34,Yearly,Pure Term Plan,21,Marketing Diploma,Female,2,Manager,1,Single,19507,3,0,17,8,4,0
+11257,9908244059,0,55,Monthly,Traditional,18,CA,Female,5,Executive,4,Married,17468,4,0,19,9,5,2
+11259,9902390121,0,45,Yearly,Traditional,10,Engineer,Female,5,Executive,5,Married,17109,1,0,18,1,12,0
+11261,9863282919,0,54,Quarterly,Traditional,19,Engineer,Male,2,Executive,4,Single,17718,2,0,19,12,4,1
+11264,9872343533,0,39,Yearly,Traditional,12,CA,Male,2,Executive,4,Married,17766,8,0,27,7,6,1
+11266,9887873115,0,57,Quarterly,Traditional,6,Engineer,Male,4,Manager,4,Married,18055,5,0,20,11,8,0
+11267,9916435881,0,46,Yearly,Traditional,5,Statistics,Male,3,Executive,5,Married,17289,1,0,25,5,15,0
+11268,9900423671,0,45,Quarterly,Pure Term Plan,20,Statistics,Male,5,Manager,3,Married,19001,1,1,19,15,14,1
+11270,9897441264,0,36,Yearly,Market Link,11,Statistics,Male,4,Executive,1,Single,18539,0,0,18,10,14,0
+11271,9892286713,0,47,Yearly,Pure Term Plan,12,Statistics,Female,3,Manager,1,Single,21029,5,0,17,6,2,2
+11278,9937145796,0,38,Yearly,Traditional,21,CA,Male,5,VP,1,Married,34328,7,1,22,24,4,2
+11279,9881440994,0,40,Yearly,Traditional,22,Statistics,Male,3,Senior Manager,5,Married,23321,7,1,18,15,3,2
+11287,9946385929,0,60,Yearly,Traditional,21,Statistics,Female,3,Executive,5,Married,18377,4,0,22,7,6,0
+11288,9953748052,0,40,Yearly,Traditional,25,CA,Male,4,Manager,5,Married,20538,5,0,23,10,3,1
+11291,9896587146,1,38,Monthly,Traditional,10,Statistics,Male,4,Manager,5,Married,20346,4,0,22,11,9,5
+11292,9856860057,1,36,Yearly,Traditional,3,CA,Male,2,Manager,5,Single,19213,1,0,20,10,4,6
+11299,9898228671,1,23,Yearly,Traditional,10,CA,Female,1,Manager,4,Married,23926,4,0,27,13,8,3
+11305,9868289323,0,59,Yearly,Traditional,11,Statistics,Female,5,Manager,5,Married,19448,2,0,17,15,15,2
+11307,9890970253,0,39,Monthly,Pure Term Plan,7,Marketing Diploma,Female,3,Senior Manager,5,Married,24637,2,0,19,9,1,1
+11311,9908936916,0,35,Monthly,Traditional,9,Statistics,Male,4,AVP,3,Married,30787,2,1,19,23,7,0
+11318,9956139302,0,59,Monthly,Traditional,15,Statistics,Female,2,Executive,1,Single,17379,0,1,19,6,1,1
+11321,9864142086,0,53,Quarterly,Traditional,25,Engineer,Male,4,Executive,3,Married,17936,3,0,27,10,8,0
+11323,9923768254,0,45,Yearly,Traditional,18,Statistics,Male,5,Senior Manager,1,Married,23578,3,0,19,12,1,2
+11326,9944390156,0,36,Yearly,Traditional,24,Statistics,Male,5,Executive,3,Single,18968,4,0,18,8,9,2
+11337,9933663687,0,48,Yearly,Traditional,17,Engineer,Male,5,Executive,1,Married,17662,8,0,25,19,9,1
+11342,9923546469,0,34,Yearly,Traditional,22,Statistics,Male,3,Manager,3,Married,19197,1,0,16,10,3,1
+11343,9943231836,0,56,Yearly,Pure Term Plan,18,Statistics,Male,5,Senior Manager,1,Married,24713,2,1,18,9,12,0
+11346,9891876149,0,49,Yearly,Traditional,5,Other,Female,5,Manager,4,Married,19788,0,1,16,4,11,1
+11348,9929355258,0,40,Monthly,Market Link,9,MBA,Male,2,Manager,1,Single,18886,1,0,26,10,10,0
+11350,9885081055,0,33,Yearly,Traditional,3,Statistics,Female,3,Executive,3,Married,17933,1,1,18,1,11,1
+11352,9864434609,0,30,Monthly,Traditional,5,CA,Female,4,AVP,1,Married,32174,3,0,16,24,5,1
+11354,9898284753,1,37,Quarterly,Traditional,6,Engineer,Male,1,Executive,5,Married,17307,1,1,28,5,10,8
+11358,9949679366,0,59,Yearly,Traditional,23,CA,Male,3,Senior Manager,5,Married,28348,9,0,18,18,2,1
+11360,9937285026,0,59,Yearly,Pure Term Plan,9,CA,Female,2,Manager,1,Married,23103,3,1,17,9,6,0
+11361,9886702164,0,38,Yearly,Traditional,19,CA,Female,3,Executive,3,Married,18978,8,0,17,4,8,0
+11373,9877008459,0,41,Yearly,Traditional,10,CA,Male,3,Manager,5,Married,20151,1,0,30,10,5,2
+11376,9858590948,1,23,Monthly,Traditional,4,Statistics,Female,4,Executive,3,Single,17432,3,1,19,4,13,7
+11378,9950394750,0,59,Monthly,Traditional,8,Statistics,Male,5,VP,1,Married,34161,3,0,20,28,10,1
+11387,9944541573,0,41,Yearly,Traditional,15,CA,Male,2,Executive,5,Single,17867,0,0,18,8,7,2
+11388,9924271478,0,44,Yearly,Traditional,25,Statistics,Male,5,Manager,5,Married,20373,0,0,17,6,2,2
+11391,9893717400,1,37,Yearly,Traditional,1,Engineer,Male,2,Executive,1,Married,17367,5,0,17,6,15,6
+11395,9942397302,0,58,Yearly,Traditional,16,Statistics,Male,5,Manager,1,Single,24679,8,0,29,8,9,0
+11398,9862460000,0,50,Yearly,Traditional,3,Statistics,Female,4,Manager,3,Married,17897,3,0,16,9,2,0
+11401,9876932510,0,35,Monthly,Market Link,24,Other,Male,3,Executive,4,Married,17991,0,1,16,7,3,1
+11405,9882630900,0,49,Quarterly,Traditional,14,Statistics,Male,4,Manager,3,Single,19332,1,0,17,20,1,1
+11407,9937364395,0,49,Yearly,Traditional,23,CA,Female,2,Manager,5,Single,19440,6,1,24,9,10,1
+11408,9938002009,0,57,Yearly,Traditional,23,Statistics,Male,3,Manager,3,Single,19617,1,0,17,4,11,1
+11409,9857305839,0,42,Yearly,Traditional,23,Other,Male,5,Executive,1,Single,17647,1,0,18,5,5,2
+11419,9931359926,0,45,Monthly,Traditional,21,Statistics,Male,3,Manager,3,Married,20321,2,0,16,10,5,0
+11420,9945463545,0,43,Yearly,Traditional,23,Statistics,Male,4,Manager,5,Married,20410,6,1,22,9,8,1
+11422,9881731081,0,34,Quarterly,Traditional,23,CA,Female,5,Senior Manager,4,Married,26957,0,0,23,14,10,2
+11424,9928758876,0,60,Yearly,Traditional,7,Statistics,Male,4,Executive,3,Single,18375,0,0,17,4,8,1
+11428,9928388463,0,59,Yearly,Traditional,24,Statistics,Male,2,Executive,1,Married,17406,8,0,24,8,12,0
+11429,9927925510,0,37,Yearly,Pure Term Plan,17,CA,Male,2,Executive,4,Married,17269,0,0,19,3,12,0
+11430,9931317568,0,42,Yearly,Traditional,22,Statistics,Male,2,Manager,1,Single,19108,7,0,18,18,5,0
+11434,9867243035,0,37,Yearly,Pure Term Plan,3,Other,Female,3,Manager,3,Married,19907,0,1,27,6,3,0
+11440,9920577174,0,37,Yearly,Pure Term Plan,12,CA,Female,4,Senior Manager,1,Married,22644,0,0,24,10,11,1
+11444,9900246797,0,51,Yearly,Traditional,24,Statistics,Male,5,VP,3,Married,33880,5,0,16,24,9,1
+11445,9927926324,1,24,Yearly,Traditional,1,Engineer,Male,4,Executive,3,Married,17339,8,0,16,14,9,10
+11449,9956448000,0,45,Yearly,Pure Term Plan,19,Statistics,Male,4,Manager,4,Married,23938,2,0,16,14,14,1
+11451,9894991489,0,60,Yearly,Market Link,10,Statistics,Female,5,Senior Manager,1,Single,23837,1,1,21,9,9,0
+11452,9912396075,0,46,Yearly,Pure Term Plan,25,Statistics,Female,5,Manager,1,Married,20343,1,0,16,10,3,0
+11453,9923906626,1,37,Monthly,Pure Term Plan,1,Statistics,Male,2,Manager,3,Married,21728,7,0,17,12,10,2
+11456,9913337492,0,45,Yearly,Traditional,17,Statistics,Male,3,Executive,3,Single,17809,2,0,19,8,14,2
+11457,9940578164,0,46,Monthly,Traditional,13,Statistics,Male,4,Manager,3,Married,20689,1,1,19,10,12,1
+11458,9858626422,0,51,Yearly,Traditional,8,CA,Female,3,Executive,3,Married,17001,2,0,19,20,10,2
+11465,9927988724,0,41,Yearly,Pure Term Plan,21,Other,Female,5,Executive,3,Single,17966,0,0,23,5,6,2
+11468,9868827546,0,44,Yearly,Traditional,6,Statistics,Male,4,Manager,4,Married,21142,1,1,25,6,7,0
+11472,9919222568,0,42,Monthly,Traditional,19,Statistics,Male,5,Manager,4,Married,20130,1,0,28,10,2,2
+11475,9949702175,0,30,Yearly,Traditional,14,CA,Male,5,Executive,4,Married,18468,9,0,17,6,5,1
+11479,9917263693,0,47,Monthly,Traditional,13,Statistics,Male,5,Senior Manager,3,Single,24526,0,0,26,10,1,0
+11480,9924231528,0,40,Yearly,Traditional,6,CA,Male,4,Manager,3,Married,20237,6,0,18,17,3,1
+11484,9917374149,0,39,Yearly,Traditional,8,CA,Male,3,Executive,1,Married,17661,0,0,16,3,10,2
+11485,9933689289,1,40,Yearly,Traditional,5,Statistics,Male,2,Executive,3,Single,17028,5,1,19,6,5,6
+11495,9954228200,1,32,Yearly,Traditional,4,CA,Male,2,Executive,5,Single,17960,2,0,16,8,1,5
+11498,9926947055,0,59,Yearly,Pure Term Plan,4,Marketing Diploma,Male,2,Manager,4,Married,21825,0,0,16,10,4,2
+11500,9888175169,0,59,Yearly,Pure Term Plan,16,Marketing Diploma,Female,5,VP,5,Single,33947,3,0,17,22,8,2
+11506,9878970699,0,45,Yearly,Traditional,21,CA,Female,3,Executive,3,Married,17645,1,0,17,6,15,1
+11507,9897540758,1,29,Yearly,Pure Term Plan,3,Marketing Diploma,Male,2,Executive,3,Married,17683,1,1,19,3,15,8
+11508,9899585759,0,31,Yearly,Pure Term Plan,22,Marketing Diploma,Female,2,Executive,1,Married,17014,1,0,18,2,5,1
+11517,9910823717,0,51,Quarterly,Pure Term Plan,13,Marketing Diploma,Male,3,Manager,3,Single,19568,0,0,25,10,2,0
+11518,9923892192,0,34,Yearly,Traditional,21,Statistics,Male,5,Executive,4,Married,18022,4,0,26,8,12,0
+11522,9931483712,1,25,Yearly,Traditional,3,Engineer,Male,2,Executive,3,Single,18441,1,1,18,2,15,3
+11525,9892518821,0,57,Yearly,Pure Term Plan,5,Marketing Diploma,Female,4,Manager,1,Married,19157,7,1,24,5,2,0
+11526,9954784630,0,31,Monthly,Traditional,8,Statistics,Female,4,Senior Manager,1,Single,28458,1,1,17,15,10,0
+11539,9857346497,0,35,Monthly,Traditional,10,CA,Male,3,Executive,5,Married,17194,4,0,18,5,8,2
+11540,9894744610,1,31,Yearly,Traditional,3,CA,Male,2,Executive,3,Married,18388,0,1,22,2,5,3
+11542,9870115261,0,30,Yearly,Traditional,16,Statistics,Male,4,Executive,4,Married,17703,0,0,28,6,2,0
+11550,9915727136,0,56,Yearly,Market Link,25,CA,Male,4,Manager,4,Married,20021,8,1,27,16,15,1
+11552,9883601410,0,40,Yearly,Traditional,17,CA,Male,5,Executive,3,Single,17859,1,0,23,6,12,2
+11553,9874268480,0,55,Yearly,Pure Term Plan,24,Statistics,Male,5,Senior Manager,1,Married,25239,3,0,19,24,6,0
+11554,9946124706,0,42,Quarterly,Traditional,17,CA,Female,4,Manager,1,Married,20329,7,1,17,17,10,1
+11559,9908460455,0,53,Yearly,Traditional,20,Statistics,Male,4,Manager,1,Married,19152,1,0,24,11,12,0
+11564,9872899257,0,59,Monthly,Traditional,12,CA,Male,2,Senior Manager,5,Married,25673,2,1,18,21,12,1
+11565,9929277540,0,32,Yearly,Pure Term Plan,16,CA,Male,4,Manager,3,Single,20010,1,0,21,12,13,0
+11568,9918496797,0,49,Quarterly,Pure Term Plan,19,CA,Male,4,Manager,3,Married,19221,1,0,20,5,5,2
+11572,9889671945,0,39,Yearly,Traditional,21,Statistics,Male,3,Executive,5,Single,17956,1,0,18,1,12,0
+11576,9890187296,0,45,Quarterly,Market Link,20,MBA,Female,3,VP,1,Married,33844,9,0,26,30,3,0
+11577,9874858803,0,36,Monthly,Traditional,25,Statistics,Female,5,VP,4,Married,33172,3,1,24,28,11,2
+11581,9941302160,0,44,Monthly,Traditional,20,CA,Female,5,Senior Manager,5,Single,22484,3,0,25,23,9,0
+11586,9897276729,0,52,Yearly,Pure Term Plan,9,Statistics,Male,5,Senior Manager,1,Single,22428,2,0,17,12,8,1
+11588,9890798388,0,60,Monthly,Pure Term Plan,4,Engineer,Female,2,Senior Manager,1,Married,24738,0,0,19,10,10,2
+11589,9879224356,0,37,Yearly,Traditional,4,Statistics,Female,4,Executive,1,Married,17835,5,0,27,7,11,2
+11592,9916549433,0,35,Quarterly,Pure Term Plan,6,Marketing Diploma,Male,4,Manager,4,Married,21146,0,0,18,8,15,0
+11599,9886964924,0,54,Yearly,Traditional,25,Engineer,Male,4,Executive,1,Married,17523,0,0,19,3,5,1
+11603,9864845445,1,35,Yearly,Pure Term Plan,3,Statistics,Female,4,Manager,3,Married,19559,3,1,16,4,9,7
+11604,9875689581,0,36,Yearly,Pure Term Plan,22,Statistics,Male,5,Senior Manager,3,Married,23189,3,1,18,12,1,1
+11605,9894372951,0,46,Yearly,Market Link,8,Statistics,Female,2,Executive,3,Married,17942,1,0,28,8,15,1
+11606,9897973562,0,56,Yearly,Traditional,25,CA,Male,4,Manager,4,Married,19941,6,0,25,7,8,2
+11617,9907798077,0,31,Yearly,Traditional,23,CA,Male,4,Executive,1,Single,17720,0,0,18,6,12,2
+11619,9891961146,0,44,Yearly,Traditional,19,Statistics,Male,3,Executive,5,Married,17238,2,0,26,7,6,2
+11620,9860151805,0,37,Yearly,Traditional,15,CA,Female,5,Executive,4,Single,16483,1,0,19,1,15,1
+11625,9942456817,0,50,Monthly,Pure Term Plan,3,Marketing Diploma,Female,2,Senior Manager,1,Single,23998,1,0,19,9,12,1
+11627,9938397492,0,44,Yearly,Traditional,10,CA,Male,5,Manager,3,Married,21132,2,0,22,10,6,1
+11629,9937314615,0,53,Yearly,Pure Term Plan,7,Marketing Diploma,Male,4,Senior Manager,1,Married,25855,7,0,16,15,5,1
+11631,9945182920,0,44,Yearly,Traditional,15,CA,Male,4,Executive,1,Married,17323,1,0,29,2,1,0
+11633,9948608367,0,38,Yearly,Traditional,13,CA,Male,3,Executive,1,Married,17713,1,0,16,5,12,0
+11634,9939712597,0,49,Yearly,Traditional,3,Statistics,Male,5,Senior Manager,1,Married,24439,3,1,21,12,10,1
+11637,9886468027,0,38,Yearly,Traditional,12,Statistics,Male,2,Executive,3,Married,17451,4,0,17,13,7,2
+11641,9910870516,0,37,Yearly,Traditional,23,Engineer,Male,2,Executive,4,Married,18058,0,1,21,6,6,0
+11644,9867339846,0,42,Quarterly,Traditional,9,CA,Male,4,Manager,5,Married,18072,1,0,16,12,13,1
+11646,9911409651,0,56,Yearly,Traditional,18,Statistics,Female,2,Executive,5,Married,19257,4,1,23,19,10,1
+11648,9892203365,1,37,Yearly,Traditional,4,Statistics,Male,2,Executive,1,Single,16102,1,0,27,1,5,4
+11649,9938434943,0,52,Yearly,Pure Term Plan,22,Marketing Diploma,Female,3,Senior Manager,5,Married,25453,1,0,30,24,7,2
+11656,9887657990,0,60,Yearly,Traditional,7,CA,Female,5,Executive,4,Married,17756,1,0,18,8,3,0
+11660,9896119797,0,36,Yearly,Traditional,4,CA,Female,4,AVP,4,Single,28734,3,0,23,21,3,0
+11667,9921296430,0,54,Monthly,Traditional,18,CA,Female,4,Manager,4,Single,19425,5,0,16,10,7,0
+11677,9879807168,0,60,Yearly,Traditional,4,Statistics,Male,2,Executive,4,Married,17328,1,1,21,4,5,0
+11678,9922659490,0,55,Monthly,Traditional,21,CA,Female,3,Executive,1,Single,17153,1,0,18,8,8,2
+11680,9933870723,0,36,Yearly,Traditional,22,CA,Male,3,Senior Manager,5,Married,24396,7,0,21,17,6,1
+11681,9927475799,1,34,Yearly,Pure Term Plan,8,CA,Male,1,Senior Manager,1,Married,25400,1,0,16,14,11,8
+11684,9880564772,0,50,Yearly,Traditional,13,Statistics,Male,4,Senior Manager,4,Married,27490,5,0,21,16,14,2
+11687,9952955172,1,21,Monthly,Pure Term Plan,4,Marketing Diploma,Female,3,Manager,5,Single,21696,5,0,20,9,12,4
+11688,9889305660,1,33,Yearly,Traditional,8,Engineer,Male,2,Executive,3,Single,17058,0,0,19,7,2,10
+11691,9865760335,0,34,Yearly,Traditional,14,Statistics,Male,2,Manager,4,Single,20914,8,0,21,16,2,2
+11692,9926006665,0,42,Yearly,Traditional,11,CA,Female,3,Executive,4,Married,17622,6,0,26,7,15,0
+11693,9905518911,0,39,Monthly,Traditional,19,Other,Male,2,Senior Manager,1,Married,27185,1,1,19,10,1,0
+11696,9887135177,0,30,Yearly,Traditional,8,Statistics,Male,2,Executive,1,Married,17177,3,0,22,7,3,2
+11701,9905722989,0,37,Yearly,Traditional,15,Statistics,Female,2,Executive,1,Single,18212,7,0,20,6,1,1
+11705,9863844126,1,33,Yearly,Traditional,3,CA,Male,4,Executive,1,Married,17436,5,1,18,8,1,9
+11709,9859252702,0,33,Yearly,Pure Term Plan,12,Statistics,Female,3,Executive,4,Married,18931,2,0,16,6,1,2
+11710,9869122066,1,24,Yearly,Traditional,7,Statistics,Male,4,Executive,3,Single,18730,0,1,19,4,14,6
+11713,9950649649,0,54,Yearly,Traditional,14,Statistics,Male,3,Manager,5,Married,18072,2,0,21,17,8,0
+11714,9898505828,0,59,Yearly,Traditional,11,Engineer,Male,4,Manager,1,Married,18319,1,0,22,9,2,1
+11716,9878764219,0,33,Monthly,Traditional,24,CA,Male,2,Senior Manager,3,Married,28675,9,0,17,9,9,2
+11720,9941432178,0,50,Monthly,Traditional,11,Statistics,Male,2,Manager,3,Married,21434,4,0,22,9,8,2
+11723,9905279997,0,39,Yearly,Traditional,5,Statistics,Male,4,Executive,1,Single,17340,1,0,24,6,6,2
+11724,9888076607,0,30,Yearly,Traditional,12,Statistics,Female,2,Manager,5,Single,21545,3,1,18,10,12,1
+11726,9929191838,0,53,Yearly,Traditional,9,Statistics,Female,4,Manager,3,Married,19898,0,0,17,5,9,1
+11729,9905717612,0,31,Yearly,Traditional,18,Statistics,Male,4,Executive,1,Married,17723,1,0,16,1,6,2
+11731,9891941932,0,33,Monthly,Traditional,8,Statistics,Male,4,Executive,4,Married,17794,1,0,25,5,7,2
+11737,9949391728,0,58,Yearly,Traditional,25,CA,Male,5,Manager,1,Married,20582,0,0,26,10,15,0
+11740,9862085406,0,49,Yearly,Traditional,7,Statistics,Male,3,Executive,1,Married,18210,0,0,16,16,9,0
+11745,9879025449,0,59,Yearly,Traditional,16,CA,Male,4,Executive,3,Single,18230,1,0,22,3,9,0
+11746,9951624983,0,38,Quarterly,Traditional,20,CA,Female,2,Senior Manager,1,Married,28603,2,1,23,15,7,0
+11748,9866989074,0,53,Yearly,Pure Term Plan,9,CA,Female,2,Manager,5,Married,20605,1,1,29,8,15,1
+11763,9874978734,0,37,Monthly,Pure Term Plan,19,Marketing Diploma,Female,5,Executive,4,Married,17789,1,0,16,2,8,2
+11764,9949088435,1,32,Yearly,Pure Term Plan,8,Marketing Diploma,Male,4,Manager,1,Single,20828,1,1,17,8,14,9
+11767,9954273899,1,31,Yearly,Traditional,3,Statistics,Male,4,Executive,3,Single,16420,1,0,18,0,2,8
+11769,9941752834,0,32,Monthly,Traditional,16,Statistics,Male,5,Executive,1,Married,18688,4,0,23,4,9,2
+11770,9889411352,0,53,Yearly,Traditional,23,CA,Male,4,Manager,4,Married,20482,5,0,23,13,10,0
+11772,9897108956,0,38,Yearly,Pure Term Plan,22,CA,Female,4,Executive,3,Single,16200,1,0,17,0,3,1
+11774,9906436638,0,31,Yearly,Pure Term Plan,19,Engineer,Male,3,Manager,1,Married,21929,4,0,16,10,15,1
+11777,9900106609,0,56,Yearly,Pure Term Plan,10,Statistics,Male,2,Manager,3,Married,20484,1,0,19,13,11,0
+11784,9930493489,0,49,Monthly,Traditional,14,Statistics,Female,4,Senior Manager,4,Married,26878,6,0,16,12,15,1
+11785,9899029714,0,52,Yearly,Traditional,15,CA,Male,4,AVP,5,Married,32068,1,1,19,21,15,1
+11787,9892770029,0,55,Yearly,Traditional,17,Engineer,Female,2,AVP,3,Single,28964,7,1,17,25,12,0
+11788,9928818923,1,21,Yearly,Traditional,7,CA,Male,2,Manager,4,Married,19941,2,0,20,11,8,5
+11795,9870939481,0,35,Yearly,Traditional,6,CA,Female,2,Manager,1,Married,20775,1,0,18,11,14,0
+11796,9934842333,0,40,Monthly,Traditional,24,Statistics,Female,4,Senior Manager,3,Married,23943,1,0,29,10,15,2
+11798,9909174225,1,34,Yearly,Pure Term Plan,7,CA,Female,1,Manager,3,Married,20238,4,1,23,12,1,2
+11799,9884037338,0,46,Monthly,Pure Term Plan,20,Marketing Diploma,Male,5,Manager,1,Single,19682,3,0,19,9,2,0
+11803,9888848040,0,45,Monthly,Traditional,11,Statistics,Female,5,Manager,3,Single,19869,3,0,17,20,12,0
+11810,9947868897,0,40,Yearly,Pure Term Plan,6,Marketing Diploma,Female,3,Manager,4,Married,21214,1,0,23,8,2,1
+11812,9955948097,0,55,Yearly,Traditional,25,Statistics,Male,2,Senior Manager,1,Married,26510,0,1,19,12,10,2
+11814,9885366967,0,47,Yearly,Pure Term Plan,21,Marketing Diploma,Female,4,Manager,4,Married,23268,1,1,19,7,12,2
+11815,9942018781,0,30,Yearly,Traditional,16,Engineer,Male,3,Senior Manager,4,Single,23095,0,0,18,17,7,0
+11817,9931400391,0,30,Yearly,Traditional,25,CA,Male,4,Manager,4,Single,21032,6,1,20,8,14,2
+11819,9866231779,0,45,Yearly,Traditional,3,Statistics,Female,3,AVP,1,Single,30992,2,0,19,16,3,1
+11820,9894971463,0,34,Quarterly,Pure Term Plan,10,Statistics,Male,4,Manager,3,Married,19649,1,0,19,4,5,0
+11822,9881633062,0,49,Yearly,Traditional,13,CA,Female,4,Executive,4,Married,17370,1,0,18,8,7,0
+11824,9923848271,0,32,Yearly,Traditional,9,CA,Male,5,Manager,5,Married,20974,4,1,18,13,1,1
+11825,9921956790,0,58,Quarterly,Pure Term Plan,18,Engineer,Female,4,Manager,3,Married,19736,7,1,17,4,11,1
+11827,9949396737,0,30,Yearly,Traditional,19,Other,Male,4,Manager,1,Single,21781,3,0,28,14,7,1
+11829,9916716947,0,30,Quarterly,Pure Term Plan,6,CA,Female,3,Manager,1,Single,21653,4,0,20,7,3,0
+11840,9899753993,0,54,Yearly,Traditional,24,Statistics,Male,5,Executive,4,Single,17657,0,1,21,3,3,2
+11849,9949310842,1,21,Quarterly,Pure Term Plan,3,Marketing Diploma,Male,2,Manager,1,Single,20304,8,1,18,9,6,3
+11850,9861637338,0,51,Yearly,Traditional,12,Statistics,Female,2,AVP,1,Single,31659,2,1,18,30,4,2
+11851,9939680922,0,43,Yearly,Pure Term Plan,10,Marketing Diploma,Female,5,Manager,3,Married,19260,1,1,17,5,1,2
+11853,9898909482,1,38,Monthly,Traditional,8,Engineer,Male,2,Executive,5,Single,18102,0,0,27,7,8,10
+11854,9870394159,0,53,Yearly,Traditional,4,CA,Female,2,Executive,4,Married,17244,1,0,18,2,10,0
+11861,9878701051,0,40,Yearly,Traditional,17,Statistics,Male,4,AVP,4,Married,29336,1,0,16,25,12,0
+11865,9899866405,0,31,Yearly,Traditional,24,CA,Female,3,Manager,5,Married,19306,1,0,17,13,3,2
+11871,9944244422,0,40,Monthly,Traditional,4,Statistics,Male,2,VP,3,Married,34197,1,1,19,21,15,2
+11878,9908330874,0,58,Yearly,Traditional,25,Statistics,Male,5,Executive,1,Married,17654,3,0,26,8,6,2
+11884,9925176718,0,54,Monthly,Traditional,22,Engineer,Female,5,Manager,1,Married,19523,0,0,16,7,13,1
+11886,9884560962,1,22,Monthly,Pure Term Plan,2,Marketing Diploma,Female,1,Executive,3,Married,17351,0,0,21,3,9,2
+11892,9878045414,1,36,Yearly,Traditional,1,Engineer,Female,3,Executive,4,Married,17546,5,0,21,6,8,5
+11893,9953111869,1,40,Yearly,Market Link,4,Engineer,Male,4,Executive,1,Single,17564,1,0,17,1,15,5
+11894,9900057700,0,53,Quarterly,Pure Term Plan,19,Other,Female,5,Senior Manager,5,Married,23412,0,0,16,10,13,1
+11896,9910016617,0,30,Yearly,Traditional,6,Statistics,Male,4,AVP,3,Married,32046,0,0,20,28,14,0
+11903,9949892083,0,56,Yearly,Traditional,11,Statistics,Male,2,Executive,3,Married,17768,3,0,17,14,14,2
+11910,9899378993,1,32,Monthly,Traditional,3,Statistics,Male,2,Senior Manager,3,Married,24824,3,0,17,12,6,9
+11911,9864206994,1,25,Monthly,Market Link,6,MBA,Female,4,Senior Manager,5,Married,24950,9,1,20,11,8,6
+11915,9920068407,0,48,Yearly,Pure Term Plan,23,Marketing Diploma,Female,5,Manager,1,Married,19051,2,0,19,14,8,0
+11916,9947271642,0,59,Yearly,Pure Term Plan,24,Statistics,Female,5,AVP,4,Single,31835,3,0,28,37,11,0
+11919,9874493362,0,34,Yearly,Traditional,24,Statistics,Female,5,AVP,3,Single,28237,7,0,20,22,7,1
+11920,9924583072,0,49,Monthly,Traditional,24,Statistics,Female,4,Executive,3,Married,18755,1,0,16,8,4,2
+11930,9946497710,0,34,Quarterly,Traditional,14,Other,Female,5,Manager,3,Single,21811,2,1,22,10,9,2
+11935,9861179093,0,33,Yearly,Traditional,9,Engineer,Female,2,Senior Manager,1,Single,22491,4,0,22,12,15,0
+11937,9871942203,0,52,Yearly,Pure Term Plan,12,Statistics,Female,2,AVP,5,Married,31595,7,0,21,22,10,2
+11946,9868238026,0,51,Yearly,Pure Term Plan,15,Marketing Diploma,Male,2,Manager,4,Married,21272,1,0,25,6,9,2
+11950,9878537821,1,25,Monthly,Traditional,9,Statistics,Female,3,Executive,3,Married,17886,1,1,21,6,10,5
+11952,9915343492,0,60,Yearly,Traditional,3,Statistics,Male,5,Executive,1,Married,18622,1,1,18,6,2,1
+11953,9926990804,1,31,Yearly,Pure Term Plan,8,CA,Male,4,Manager,5,Married,19233,2,0,22,9,1,3
+11954,9878621135,0,38,Yearly,Traditional,12,Other,Male,5,Manager,1,Single,18681,4,0,19,9,5,1
+11957,9931529101,0,40,Yearly,Pure Term Plan,7,Marketing Diploma,Male,3,Manager,3,Married,24602,4,1,16,17,1,0
+11959,9937977800,0,60,Yearly,Traditional,3,Statistics,Female,3,Manager,1,Married,19089,1,0,18,10,10,2
+11960,9876738280,0,32,Yearly,Traditional,12,Other,Male,3,AVP,1,Married,31627,4,1,19,21,13,0
+11961,9947080851,0,59,Yearly,Traditional,16,Statistics,Female,2,Executive,5,Single,17619,3,0,22,8,9,1
+11966,9871757639,1,37,Yearly,Pure Term Plan,6,Marketing Diploma,Male,4,Executive,5,Married,18041,0,0,16,5,1,4
+11968,9937808934,0,60,Yearly,Traditional,7,Other,Male,5,VP,1,Married,34513,4,1,17,26,3,2
+11971,9949591475,0,43,Yearly,Traditional,14,Statistics,Female,2,Manager,1,Married,21322,1,1,17,6,4,2
+11972,9914618812,0,52,Monthly,Traditional,15,CA,Female,2,Executive,3,Married,17083,1,0,25,1,2,1
+11973,9865280506,0,45,Yearly,Pure Term Plan,18,CA,Female,2,Manager,5,Single,23381,7,0,25,18,7,0
+11974,9951018836,0,38,Yearly,Traditional,15,Statistics,Male,2,Executive,1,Married,17691,1,0,17,10,6,2
+11977,9921746485,0,54,Yearly,Traditional,20,Other,Male,4,Senior Manager,3,Married,24434,1,0,20,10,11,2
+11980,9943974371,0,48,Monthly,Traditional,22,Statistics,Male,3,Manager,1,Married,22725,3,0,28,15,12,0
+11981,9922485094,0,37,Yearly,Market Link,8,CA,Male,3,Senior Manager,4,Married,25725,2,0,20,16,8,0
+11983,9921541220,0,49,Yearly,Traditional,24,CA,Male,2,Executive,1,Single,17045,0,0,18,5,1,2
+11986,9901024659,0,53,Quarterly,Traditional,20,Statistics,Male,5,Executive,3,Married,16281,1,0,23,1,14,2
+11990,9921308770,0,38,Monthly,Traditional,7,Statistics,Male,5,Executive,1,Married,17720,1,0,23,10,8,2
+11991,9950760190,0,60,Yearly,Pure Term Plan,7,Marketing Diploma,Male,2,Manager,4,Married,23120,3,0,17,12,12,2
+11992,9926625720,0,39,Monthly,Pure Term Plan,14,CA,Female,4,Manager,1,Married,19647,1,1,25,6,15,0
+11994,9886623572,0,51,Yearly,Traditional,10,CA,Male,4,Executive,3,Married,18221,1,1,16,20,8,1
+11998,9871048396,0,57,Yearly,Pure Term Plan,7,Marketing Diploma,Male,5,Manager,1,Single,20396,1,0,17,10,1,0
+12001,9937982463,0,51,Yearly,Traditional,24,Statistics,Female,2,Senior Manager,5,Married,22412,1,0,16,9,1,0
+12003,9872339626,0,52,Yearly,Pure Term Plan,6,Marketing Diploma,Male,4,Manager,5,Single,19960,2,0,17,20,12,1
+12006,9908281902,0,37,Yearly,Market Link,17,MBA,Male,2,VP,1,Married,34141,3,0,20,23,10,0
+12007,9867288327,0,57,Yearly,Pure Term Plan,17,Marketing Diploma,Male,4,Manager,5,Single,20405,8,0,19,10,2,0
+12013,9880672393,0,49,Yearly,Traditional,23,Statistics,Female,4,Senior Manager,3,Single,22861,4,1,19,10,7,2
+12018,9910329960,1,21,Monthly,Traditional,5,CA,Male,3,Executive,3,Married,17759,6,1,17,7,10,10
+12019,9886883611,0,48,Monthly,Pure Term Plan,19,Statistics,Male,5,Manager,1,Married,21804,3,0,23,7,3,1
+12020,9861262472,0,54,Yearly,Traditional,23,CA,Female,3,Manager,3,Single,21142,3,0,16,10,5,2
+12024,9923965896,0,54,Yearly,Traditional,22,CA,Female,5,Executive,1,Single,17342,0,1,25,5,11,2
+12026,9862322051,0,32,Yearly,Pure Term Plan,23,Marketing Diploma,Male,4,Executive,4,Married,17297,1,0,19,2,9,0
+12030,9931642790,0,49,Yearly,Traditional,21,CA,Male,2,Executive,3,Married,18057,6,1,18,6,5,2
+12033,9903258452,1,37,Yearly,Traditional,1,Other,Male,2,Executive,1,Single,17686,1,1,18,10,1,9
+12039,9903267373,1,33,Yearly,Traditional,3,CA,Male,3,VP,5,Married,34859,5,1,18,24,6,7
+12043,9883068951,0,46,Yearly,Traditional,10,CA,Female,4,Manager,3,Married,19335,4,0,17,11,4,2
+12044,9889753917,1,29,Yearly,Pure Term Plan,4,Engineer,Male,1,Manager,5,Single,20326,6,0,22,6,8,6
+12048,9886868888,0,35,Yearly,Traditional,10,Statistics,Female,5,Executive,5,Married,17782,0,1,18,6,12,1
+12049,9861228268,0,36,Monthly,Traditional,16,Statistics,Female,3,Manager,5,Single,20980,6,1,17,17,14,2
+12050,9884944219,0,49,Yearly,Traditional,13,CA,Female,5,Executive,5,Single,19381,1,0,16,6,1,1
+12058,9900765460,0,40,Yearly,Traditional,17,Statistics,Female,3,Manager,3,Married,18149,8,0,25,9,12,1
+12063,9868536765,0,47,Yearly,Traditional,13,Other,Female,3,AVP,1,Married,31752,1,1,16,26,10,2
+12065,9953124356,0,56,Yearly,Traditional,3,Statistics,Male,5,Executive,3,Married,17700,1,0,29,10,3,0
+12068,9892038286,0,34,Yearly,Traditional,16,Statistics,Female,2,Manager,1,Married,21062,9,1,18,8,3,0
+12071,9882892175,0,37,Yearly,Traditional,14,Statistics,Female,2,Manager,3,Married,21162,1,0,17,14,12,0
+12080,9882932528,0,49,Yearly,Traditional,23,Statistics,Male,5,AVP,5,Married,32159,6,0,29,22,4,1
+12081,9894435204,0,46,Yearly,Traditional,13,Engineer,Male,5,Senior Manager,1,Married,27808,1,1,21,9,4,2
+12082,9896673383,0,50,Yearly,Traditional,4,Other,Male,4,Senior Manager,3,Single,25221,3,0,26,17,14,1
+12085,9930688780,1,27,Monthly,Traditional,10,CA,Female,4,Executive,3,Married,17366,1,1,19,8,2,10
+12089,9922251294,0,45,Yearly,Traditional,8,CA,Male,5,Executive,5,Single,18424,7,0,18,6,8,1
+12090,9858009225,0,49,Yearly,Pure Term Plan,9,CA,Male,2,Manager,5,Married,19037,1,0,27,9,15,1
+12091,9868967954,0,58,Yearly,Traditional,3,CA,Female,3,Executive,5,Single,17559,1,0,16,6,11,1
+12094,9922391133,0,52,Monthly,Traditional,9,Statistics,Male,5,Executive,1,Married,18761,9,0,17,10,14,2
+12095,9884833978,0,51,Yearly,Pure Term Plan,25,Marketing Diploma,Female,3,Senior Manager,1,Married,25934,7,1,23,35,6,1
+12096,9872049724,0,57,Yearly,Pure Term Plan,19,Marketing Diploma,Male,4,Senior Manager,5,Married,25761,4,1,17,18,9,2
+12102,9888974705,0,32,Yearly,Traditional,11,Statistics,Male,3,Executive,1,Married,17818,2,1,29,10,4,2
+12104,9920669058,0,58,Yearly,Market Link,13,Statistics,Male,4,Executive,5,Married,17342,0,0,26,6,15,0
+12108,9944390408,0,56,Quarterly,Traditional,7,Statistics,Male,5,Executive,1,Married,17314,0,0,17,4,10,1
+12113,9937829548,0,36,Yearly,Pure Term Plan,23,Marketing Diploma,Male,3,Executive,4,Married,17899,0,0,24,3,7,0
+12118,9875459791,0,48,Yearly,Traditional,7,Engineer,Male,5,Senior Manager,4,Married,25903,3,0,21,16,13,1
+12119,9946219663,0,53,Monthly,Pure Term Plan,11,CA,Female,3,Executive,1,Married,17973,5,0,20,10,3,2
+12123,9862701643,0,48,Quarterly,Pure Term Plan,14,CA,Male,5,Senior Manager,4,Single,22642,1,1,18,10,14,0
+12124,9903558612,0,59,Quarterly,Traditional,15,Statistics,Male,2,AVP,5,Married,32924,1,0,16,31,15,1
+12126,9929184212,0,44,Yearly,Market Link,25,MBA,Male,4,Executive,4,Married,17277,3,1,16,7,10,2
+12129,9908212051,0,38,Yearly,Traditional,8,Statistics,Male,2,Executive,5,Married,17559,1,1,18,8,3,1
+12131,9953661071,1,31,Monthly,Traditional,3,Statistics,Male,3,Executive,1,Married,17380,9,1,19,3,8,3
+12132,9951325070,0,42,Yearly,Traditional,24,Statistics,Female,4,Manager,4,Married,19765,4,0,26,4,4,0
+12133,9871894240,1,29,Yearly,Pure Term Plan,10,CA,Female,3,Executive,3,Single,17044,1,0,18,2,4,7
+12134,9896347248,1,32,Yearly,Traditional,4,Other,Female,3,Executive,1,Single,17693,1,0,24,1,15,3
+12135,9900223847,0,42,Yearly,Traditional,16,Statistics,Male,4,Manager,1,Married,21586,0,1,22,17,15,0
+12136,9875191398,0,39,Yearly,Pure Term Plan,5,Statistics,Female,5,Executive,1,Single,18294,1,1,23,3,11,1
+12139,9950813518,0,45,Yearly,Traditional,14,CA,Female,4,Executive,3,Married,17377,5,0,23,6,3,0
+12140,9924360632,1,32,Yearly,Traditional,5,CA,Male,1,Executive,5,Married,17404,7,1,26,8,13,6
+12146,9953239843,0,34,Yearly,Pure Term Plan,22,Statistics,Male,2,Executive,3,Married,17329,3,0,20,13,7,0
+12150,9857445855,0,33,Quarterly,Pure Term Plan,13,Marketing Diploma,Female,4,Manager,3,Married,21932,1,0,18,9,15,1
+12161,9904266951,0,40,Yearly,Traditional,5,CA,Female,5,Manager,1,Married,20855,0,1,16,10,12,1
+12170,9911496252,0,59,Yearly,Traditional,16,Statistics,Male,2,AVP,1,Married,32099,2,0,20,26,7,2
+12179,9894406220,0,45,Quarterly,Pure Term Plan,8,Engineer,Male,3,Manager,1,Married,20079,4,0,18,12,4,2
+12186,9862956931,0,40,Monthly,Traditional,13,Other,Female,5,Manager,4,Married,20488,1,1,18,6,1,0
+12188,9930906791,0,34,Yearly,Traditional,6,Engineer,Female,5,Executive,4,Married,17811,9,0,19,4,9,2
+12193,9869278097,0,49,Monthly,Traditional,20,CA,Male,2,Executive,3,Married,17684,0,0,22,3,5,2
+12198,9874514178,0,57,Quarterly,Traditional,25,Statistics,Male,3,Executive,1,Single,16051,1,0,20,0,14,2
+12202,9929844901,1,38,Yearly,Traditional,1,CA,Female,1,Executive,5,Single,17600,1,1,20,1,9,8
+12203,9938783386,1,22,Monthly,Traditional,10,CA,Female,3,Executive,4,Single,17422,0,0,22,4,13,10
+12206,9955064409,0,37,Yearly,Traditional,6,Statistics,Male,3,Manager,3,Single,19240,2,0,18,19,1,2
+12214,9901795979,0,38,Yearly,Traditional,3,Statistics,Female,4,AVP,1,Single,28726,3,1,18,30,13,1
+12215,9887323080,1,40,Yearly,Traditional,8,CA,Female,3,Manager,4,Married,19777,5,0,20,15,14,8
+12217,9920658593,0,55,Quarterly,Traditional,23,Statistics,Female,4,VP,3,Married,34973,1,0,27,21,2,0
+12221,9918882858,0,44,Yearly,Pure Term Plan,10,CA,Female,5,AVP,1,Married,28320,3,1,23,23,11,0
+12222,9900386272,0,43,Quarterly,Pure Term Plan,22,Statistics,Female,4,Manager,3,Married,21347,0,0,17,19,12,1
+12223,9880365702,1,38,Yearly,Traditional,10,Statistics,Female,1,Executive,5,Single,17743,1,0,21,18,15,10
+12229,9891917198,0,47,Yearly,Pure Term Plan,10,Engineer,Male,5,Senior Manager,1,Married,26904,3,1,19,14,3,2
+12230,9903693521,0,53,Yearly,Market Link,16,CA,Male,2,Executive,4,Single,17177,1,0,21,6,5,1
+12238,9905539403,0,52,Yearly,Traditional,12,Other,Female,3,Manager,4,Single,19107,3,0,20,8,14,0
+12245,9856826276,0,41,Quarterly,Traditional,5,CA,Male,4,AVP,5,Single,31756,7,0,20,31,13,0
+12247,9858403066,1,39,Monthly,Pure Term Plan,5,Marketing Diploma,Female,1,Executive,1,Single,17323,1,1,19,2,3,4
+12248,9926804034,1,40,Yearly,Traditional,6,Statistics,Female,2,Executive,5,Single,16416,1,0,18,1,10,7
+12256,9864524858,0,38,Yearly,Traditional,19,Engineer,Male,4,Senior Manager,1,Married,25322,4,0,25,14,4,1
+12257,9936169797,0,33,Quarterly,Traditional,19,Statistics,Male,4,Executive,3,Married,19621,1,0,24,3,14,1
+12259,9929766697,0,49,Yearly,Traditional,5,Other,Female,2,Manager,3,Single,18660,3,0,18,10,8,1
+12260,9893514077,1,25,Yearly,Market Link,9,CA,Male,4,Senior Manager,5,Married,25482,9,0,19,24,8,3
+12267,9883344150,1,24,Yearly,Traditional,8,Engineer,Male,2,Executive,1,Married,18691,1,1,20,7,12,7
+12269,9883686135,1,23,Yearly,Traditional,1,CA,Male,1,Executive,4,Single,17313,4,1,25,5,4,7
+12272,9861344149,1,33,Monthly,Pure Term Plan,7,Other,Male,2,Manager,3,Single,19728,3,1,19,5,13,9
+12273,9878070687,0,47,Monthly,Pure Term Plan,23,Statistics,Female,5,Manager,4,Married,19302,0,0,22,4,13,0
+12274,9868575278,0,56,Quarterly,Traditional,21,Statistics,Male,3,Executive,1,Married,17979,3,0,22,6,7,0
+12279,9888253351,0,50,Yearly,Traditional,24,Statistics,Female,2,Executive,1,Married,17514,4,0,27,11,7,0
+12282,9888633667,0,38,Yearly,Pure Term Plan,13,Marketing Diploma,Male,2,Senior Manager,4,Single,22351,7,0,21,10,13,2
+12283,9875627430,0,43,Monthly,Traditional,24,Statistics,Female,4,Senior Manager,5,Married,25820,8,0,16,18,12,1
+12285,9872833197,0,58,Yearly,Traditional,21,CA,Male,5,VP,3,Single,34626,1,0,19,21,13,2
+12287,9882985498,0,37,Quarterly,Traditional,19,Statistics,Male,3,Manager,4,Single,21782,9,0,20,9,14,2
+12288,9927918496,0,37,Quarterly,Traditional,11,Statistics,Male,2,Manager,1,Single,22779,2,0,25,18,14,2
+12289,9870410941,0,46,Monthly,Pure Term Plan,15,Statistics,Male,3,Executive,1,Married,17791,0,0,17,3,3,2
+12292,9917176760,0,48,Yearly,Pure Term Plan,7,Engineer,Male,3,AVP,4,Married,28120,6,0,22,22,8,0
+12295,9941886125,0,48,Yearly,Traditional,21,CA,Male,5,Manager,1,Single,19272,4,0,24,16,12,0
+12298,9913276214,0,50,Monthly,Traditional,4,Statistics,Male,2,Executive,3,Married,17703,1,1,19,3,6,1
+12301,9918055220,0,39,Yearly,Traditional,15,Statistics,Male,5,Executive,1,Married,19766,3,1,16,6,4,0
+12305,9857215458,0,44,Yearly,Pure Term Plan,15,Statistics,Female,5,Manager,3,Married,20714,1,0,25,6,12,0
+12311,9954023453,0,49,Yearly,Traditional,18,CA,Male,4,Executive,3,Married,17258,6,0,17,10,12,1
+12326,9880826401,0,43,Yearly,Traditional,9,Statistics,Female,5,Manager,1,Married,21474,1,0,18,14,10,1
+12338,9906976692,0,57,Monthly,Traditional,21,CA,Female,3,AVP,5,Married,32856,2,0,27,32,15,1
+12344,9935747506,0,33,Yearly,Traditional,15,Statistics,Male,2,Executive,3,Married,17741,1,0,19,7,14,2
+12345,9895467303,0,52,Yearly,Traditional,17,Statistics,Male,4,Manager,3,Married,18491,1,0,18,10,7,1
+12347,9876040776,0,55,Yearly,Pure Term Plan,21,Marketing Diploma,Male,4,Executive,1,Single,17678,1,0,22,2,11,0
+12350,9911069587,0,48,Yearly,Pure Term Plan,25,Marketing Diploma,Male,4,Manager,1,Married,20220,0,1,23,12,10,1
+12352,9955896729,0,53,Monthly,Traditional,3,Statistics,Female,2,Manager,3,Single,19998,4,1,19,10,10,1
+12364,9953324763,0,47,Yearly,Traditional,24,Statistics,Female,4,Executive,1,Married,18760,1,0,20,3,5,2
+12366,9874325629,0,45,Yearly,Traditional,22,CA,Male,3,Manager,5,Married,21833,1,1,17,6,15,0
+12367,9891560055,0,49,Yearly,Traditional,15,CA,Female,4,Manager,5,Single,21812,1,0,24,10,12,1
+12369,9932901034,0,33,Yearly,Traditional,23,Statistics,Male,3,VP,1,Married,34740,3,0,19,25,1,1
+12370,9911765829,0,34,Yearly,Traditional,15,CA,Male,4,VP,3,Married,33711,2,0,18,23,14,1
+12376,9874112140,0,50,Yearly,Traditional,14,Statistics,Female,4,AVP,1,Married,31124,3,0,19,9,1,0
+12378,9858986239,0,51,Yearly,Pure Term Plan,6,Marketing Diploma,Male,3,VP,4,Married,33213,7,0,16,26,8,1
+12381,9891993255,0,32,Yearly,Traditional,19,Statistics,Male,2,Executive,3,Married,16223,1,0,27,1,7,1
+12384,9909768145,1,23,Yearly,Pure Term Plan,4,Marketing Diploma,Female,4,VP,4,Single,33824,2,1,21,26,3,9
+12389,9884386324,0,55,Monthly,Pure Term Plan,17,Statistics,Male,4,VP,4,Married,34847,4,1,29,31,14,0
+12390,9956418372,0,50,Yearly,Traditional,18,CA,Male,5,Senior Manager,1,Single,25512,6,0,17,25,3,2
+12401,9936429064,0,52,Monthly,Traditional,7,CA,Female,4,Executive,3,Single,17838,0,0,19,8,1,2
+12402,9913533616,0,40,Quarterly,Traditional,18,CA,Female,3,Manager,3,Single,19695,7,1,23,10,4,2
+12403,9885148321,1,39,Yearly,Traditional,7,Engineer,Female,1,Executive,3,Married,18339,3,1,18,10,12,4
+12405,9893083068,0,42,Yearly,Traditional,13,CA,Female,4,Executive,4,Single,17096,1,0,23,2,9,1
+12407,9947625859,0,33,Monthly,Traditional,17,CA,Female,4,VP,4,Single,33061,3,0,27,22,13,1
+12409,9946557077,0,46,Yearly,Traditional,25,Statistics,Male,2,Executive,3,Married,17372,1,0,17,2,11,0
+12413,9935984045,0,48,Yearly,Traditional,3,Engineer,Female,3,Senior Manager,3,Married,22094,3,0,17,10,11,2
+12414,9918827089,0,41,Yearly,Market Link,15,Statistics,Female,2,Executive,5,Single,18423,6,0,17,10,4,1
+12415,9862492676,0,56,Quarterly,Traditional,6,Statistics,Female,3,Manager,1,Married,21674,0,0,16,10,11,0
+12417,9890944829,1,29,Yearly,Pure Term Plan,1,Marketing Diploma,Male,1,Senior Manager,4,Single,24094,2,1,17,9,8,10
+12423,9866958766,1,38,Monthly,Pure Term Plan,9,Statistics,Female,3,Executive,4,Single,17302,1,1,16,3,9,4
+12432,9883446503,0,54,Monthly,Traditional,15,Statistics,Male,5,Manager,3,Single,19249,1,1,16,9,12,0
+12436,9954084740,0,39,Yearly,Traditional,4,CA,Male,2,Executive,1,Married,18669,3,0,16,7,3,1
+12437,9895153997,1,27,Yearly,Traditional,7,CA,Female,4,Senior Manager,5,Married,25008,7,1,19,31,11,6
+12438,9876531924,0,56,Yearly,Traditional,9,Statistics,Male,4,Executive,4,Married,17387,3,0,27,7,14,1
+12440,9937748507,0,59,Yearly,Traditional,16,Statistics,Male,3,Senior Manager,1,Single,22898,1,0,16,11,12,0
+12446,9948049310,1,30,Yearly,Pure Term Plan,3,Marketing Diploma,Male,3,AVP,3,Single,28695,6,1,22,24,13,2
+12450,9924054658,0,43,Yearly,Traditional,11,CA,Male,4,Manager,3,Married,20429,4,0,18,10,8,2
+12457,9902668536,0,43,Yearly,Pure Term Plan,15,Statistics,Male,4,Manager,1,Married,21120,3,1,17,8,1,0
+12459,9929229124,0,32,Monthly,Traditional,3,Statistics,Female,3,Manager,1,Married,20467,3,1,19,12,2,1
+12461,9911858499,0,49,Monthly,Pure Term Plan,16,Statistics,Male,3,Manager,1,Married,24998,6,0,18,8,11,1
+12466,9921108142,0,52,Yearly,Traditional,17,CA,Female,5,Manager,3,Single,19081,1,1,19,20,7,0
+12467,9860486644,0,37,Yearly,Pure Term Plan,5,Marketing Diploma,Female,3,Manager,1,Married,20769,1,1,16,6,3,0
+12468,9863152741,1,35,Yearly,Traditional,8,Statistics,Female,2,Executive,3,Single,17394,1,1,18,8,12,8
+12469,9908045371,0,60,Yearly,Traditional,17,CA,Male,2,Executive,1,Single,18904,0,0,17,5,2,1
+12474,9894316900,0,56,Yearly,Traditional,24,Engineer,Male,4,Executive,1,Married,18229,4,0,16,7,7,1
+12477,9870479530,1,40,Monthly,Traditional,5,Statistics,Male,2,Manager,5,Single,19284,3,0,25,20,2,5
+12479,9888084102,0,55,Yearly,Traditional,8,CA,Female,4,AVP,1,Single,32328,6,0,24,29,11,2
+12504,9903144937,1,30,Monthly,Traditional,2,Statistics,Female,2,Senior Manager,4,Single,22446,1,0,16,10,6,8
+12506,9938986786,0,49,Yearly,Market Link,23,CA,Female,5,Executive,4,Single,17109,9,0,23,8,14,1
+12508,9918374930,0,38,Yearly,Traditional,10,Engineer,Male,4,Senior Manager,1,Married,24380,4,1,23,10,11,2
+12509,9893555630,0,30,Yearly,Pure Term Plan,19,Marketing Diploma,Male,3,Manager,5,Married,20486,4,0,16,15,6,2
+12513,9883406847,0,57,Quarterly,Traditional,11,Statistics,Male,5,Executive,3,Single,18162,3,0,19,7,12,0
+12520,9951775675,0,45,Yearly,Pure Term Plan,22,Statistics,Male,5,Manager,3,Married,20301,8,0,20,4,14,2
+12521,9900120000,0,43,Monthly,Traditional,19,CA,Female,3,Executive,1,Single,18673,1,0,18,12,5,0
+12525,9939468800,0,47,Yearly,Traditional,16,Statistics,Male,2,Senior Manager,4,Married,25466,3,0,19,29,12,2
+12526,9913013773,0,54,Monthly,Traditional,25,CA,Male,5,AVP,5,Married,32007,7,0,19,16,15,0
+12527,9891081932,1,25,Monthly,Pure Term Plan,5,Engineer,Male,2,Executive,3,Married,17909,3,0,20,5,3,2
+12529,9875734600,1,27,Yearly,Pure Term Plan,6,CA,Female,1,Manager,4,Single,19599,0,1,28,16,10,10
+12532,9904297905,0,57,Quarterly,Pure Term Plan,4,Statistics,Female,2,Executive,4,Married,17033,1,0,18,1,15,1
+12534,9926602882,0,43,Yearly,Pure Term Plan,14,Statistics,Male,2,Manager,3,Married,23620,1,0,19,10,14,0
+12535,9906518887,0,30,Yearly,Market Link,9,Statistics,Male,4,Executive,3,Married,17064,0,0,26,6,13,1
+12537,9871050283,0,30,Yearly,Traditional,23,CA,Female,5,Executive,4,Married,18838,8,0,16,8,13,0
+12538,9888272261,0,57,Yearly,Pure Term Plan,8,CA,Female,4,Manager,3,Married,19591,3,1,22,11,1,0
+12544,9857412407,0,45,Yearly,Traditional,24,Statistics,Male,5,Manager,4,Married,21549,1,0,19,8,5,2
+12545,9886644765,0,38,Yearly,Traditional,3,Statistics,Male,4,Manager,3,Single,21388,2,1,22,14,10,0
+12549,9941679992,0,49,Yearly,Traditional,24,Statistics,Male,2,AVP,5,Married,31328,3,0,18,24,8,2
+12552,9920214886,0,50,Yearly,Traditional,6,Statistics,Female,3,Senior Manager,4,Single,23606,1,0,24,11,5,2
+12554,9877654548,1,28,Yearly,Traditional,2,Statistics,Male,3,Executive,5,Single,17018,3,0,19,15,9,6
+12555,9943287999,0,48,Yearly,Pure Term Plan,8,Engineer,Male,3,Senior Manager,3,Married,22083,1,1,19,10,15,1
+12559,9872744643,0,54,Yearly,Traditional,20,CA,Male,5,Executive,4,Married,19841,4,0,19,4,6,2
+12562,9870142940,0,55,Yearly,Traditional,14,Statistics,Male,5,Manager,4,Single,19320,1,0,18,5,15,2
+12564,9933556142,0,53,Monthly,Traditional,19,Statistics,Male,5,Senior Manager,1,Married,25124,2,1,19,24,2,0
+12566,9926568828,0,36,Yearly,Traditional,23,Statistics,Male,5,Manager,3,Married,20207,1,1,17,15,10,2
+12567,9947385532,0,34,Yearly,Market Link,10,CA,Male,2,AVP,1,Single,31437,1,1,26,21,14,2
+12568,9875490587,0,52,Yearly,Traditional,13,Engineer,Male,5,Executive,5,Married,17296,0,0,19,2,3,1
+12572,9876747364,0,34,Yearly,Traditional,20,Statistics,Female,5,Manager,4,Married,20878,3,0,17,12,10,0
+12574,9862412681,0,58,Yearly,Pure Term Plan,25,Statistics,Female,4,Manager,3,Married,21439,8,0,19,18,1,2
+12575,9951271488,0,44,Yearly,Traditional,17,Statistics,Male,4,Executive,3,Married,17451,6,0,23,5,14,2
+12576,9876052497,0,46,Yearly,Pure Term Plan,19,Statistics,Male,4,Manager,5,Married,21392,2,0,18,8,3,2
+12577,9909250044,1,27,Yearly,Pure Term Plan,8,Statistics,Male,4,Manager,5,Married,24714,1,0,16,10,1,7
+12578,9953467991,0,59,Monthly,Market Link,6,MBA,Male,2,Manager,3,Married,21077,3,0,16,10,10,0
+12580,9944599544,0,42,Yearly,Pure Term Plan,6,Engineer,Male,4,Senior Manager,4,Married,24250,3,0,17,9,13,2
+12581,9909786252,1,22,Yearly,Traditional,4,Statistics,Female,2,Executive,5,Married,17074,1,1,17,1,6,5
+12583,9903169374,1,28,Yearly,Traditional,8,CA,Male,1,Manager,4,Married,19855,4,0,16,7,15,5
+12586,9863949679,0,38,Yearly,Traditional,19,CA,Male,3,Executive,1,Single,17972,1,0,18,1,12,2
+12588,9901377086,0,44,Yearly,Traditional,22,Statistics,Male,2,Manager,1,Married,20484,9,0,22,9,4,1
+12591,9898510545,0,51,Yearly,Pure Term Plan,4,Statistics,Female,4,Manager,4,Single,19198,2,0,17,8,8,2
+12593,9948003464,0,46,Yearly,Traditional,14,CA,Male,4,Executive,5,Single,19723,1,1,23,10,4,0
+12594,9889313912,0,36,Yearly,Traditional,25,CA,Female,2,Manager,3,Single,21142,3,1,21,10,4,2
+12598,9953893970,0,40,Yearly,Traditional,9,Engineer,Male,3,Executive,3,Married,17073,2,0,21,4,8,0
+12600,9887900839,0,60,Yearly,Traditional,10,Other,Male,5,VP,1,Single,34613,8,0,27,24,9,1
+12601,9867826679,0,52,Yearly,Traditional,15,Statistics,Male,3,Manager,3,Married,18407,1,0,22,10,8,2
+12603,9875562383,0,50,Yearly,Pure Term Plan,24,Statistics,Female,3,Manager,5,Married,19639,1,0,20,5,4,1
+12606,9933885529,0,43,Yearly,Pure Term Plan,14,Statistics,Male,3,AVP,5,Single,32567,1,0,20,27,7,1
+12608,9942238447,0,31,Quarterly,Traditional,18,Other,Female,2,Executive,3,Married,17814,1,1,19,4,6,2
+12609,9923989817,0,49,Monthly,Traditional,15,CA,Male,2,AVP,3,Married,26245,2,1,20,32,13,0
+12610,9932638495,0,33,Yearly,Traditional,12,Other,Female,3,Executive,1,Married,18312,3,0,22,6,10,1
+12613,9897104467,0,36,Yearly,Traditional,14,CA,Female,4,Manager,5,Single,20769,1,1,19,10,11,1
+12614,9889780793,0,58,Quarterly,Pure Term Plan,10,Marketing Diploma,Male,2,Manager,5,Married,19385,1,0,20,10,12,1
+12619,9885615166,0,34,Yearly,Traditional,4,CA,Male,5,Manager,5,Married,20377,2,0,18,10,7,2
+12625,9864892242,0,41,Yearly,Market Link,6,Statistics,Female,4,VP,3,Married,34658,3,0,16,27,9,0
+12629,9937601192,0,48,Yearly,Traditional,16,Statistics,Male,3,Manager,3,Married,20768,3,0,22,9,7,0
+12633,9936320045,1,26,Yearly,Pure Term Plan,4,CA,Male,4,Senior Manager,5,Married,25306,9,0,22,15,2,9
+12634,9952197922,0,36,Yearly,Traditional,5,CA,Female,3,Executive,4,Married,18936,1,0,16,8,10,2
+12635,9905460109,0,39,Yearly,Traditional,14,Statistics,Female,5,Senior Manager,1,Single,22945,6,1,20,18,1,1
+12636,9956310741,0,50,Monthly,Market Link,8,MBA,Male,2,Manager,1,Married,20743,4,1,16,14,15,2
+12641,9865134265,0,53,Monthly,Traditional,9,CA,Male,2,Executive,1,Single,17580,2,0,18,6,10,2
+12645,9891205060,0,41,Monthly,Traditional,24,Statistics,Male,4,Manager,3,Married,20206,1,0,22,7,8,1
+12649,9916696887,0,32,Yearly,Pure Term Plan,18,CA,Female,5,Executive,3,Single,17783,1,0,24,2,4,0
+12657,9942249388,1,33,Monthly,Pure Term Plan,6,Other,Male,3,Manager,1,Single,19581,3,1,29,13,5,10
+12664,9954559481,0,39,Monthly,Traditional,3,CA,Female,5,Executive,4,Single,17440,1,0,27,4,1,2
+12665,9885384834,0,54,Yearly,Pure Term Plan,8,Statistics,Female,2,AVP,4,Married,30972,6,0,19,29,6,0
+12672,9878938461,1,40,Yearly,Traditional,10,CA,Male,1,Executive,3,Single,18989,1,1,16,5,10,8
+12677,9955494492,0,37,Quarterly,Traditional,5,CA,Male,2,Executive,1,Single,17570,1,0,25,7,1,2
+12680,9871889727,0,46,Yearly,Traditional,15,CA,Male,4,Senior Manager,1,Married,25883,3,0,25,19,5,2
+12682,9912766350,0,31,Monthly,Pure Term Plan,18,CA,Male,4,Manager,1,Married,24525,1,0,19,6,4,2
+12684,9879758770,1,32,Yearly,Pure Term Plan,3,Statistics,Male,4,Executive,1,Married,17275,1,1,26,3,7,6
+12685,9909603995,0,51,Yearly,Traditional,22,Statistics,Female,4,Senior Manager,1,Married,22879,1,1,24,9,1,1
+12686,9895539978,0,36,Monthly,Traditional,13,CA,Male,5,Executive,1,Single,19930,0,1,19,6,12,0
+12687,9872685201,0,30,Yearly,Pure Term Plan,6,CA,Male,3,Manager,1,Married,22847,1,1,22,10,11,2
+12690,9925337105,0,49,Yearly,Traditional,6,CA,Female,4,Executive,3,Married,17974,9,0,22,9,1,0
+12692,9869108606,0,51,Quarterly,Traditional,13,Statistics,Male,4,Senior Manager,3,Married,25748,3,0,28,25,4,0
+12700,9907134725,0,52,Yearly,Traditional,15,Statistics,Female,2,Manager,5,Married,21516,2,1,21,18,8,2
+12703,9879449389,0,41,Yearly,Traditional,15,Statistics,Male,2,Manager,3,Married,21883,2,0,21,17,6,1
+12704,9891244692,0,40,Yearly,Traditional,16,Statistics,Male,5,Executive,1,Married,17862,1,0,17,10,8,1
+12708,9856943671,1,39,Yearly,Pure Term Plan,1,Statistics,Male,1,Manager,4,Single,21735,6,0,20,10,13,9
+12709,9953205924,0,54,Yearly,Traditional,3,CA,Female,3,Executive,4,Single,18295,1,0,18,3,1,2
+12712,9875694066,0,60,Yearly,Pure Term Plan,13,Statistics,Male,4,Senior Manager,3,Married,24610,3,0,18,10,15,0
+12715,9860896472,0,47,Monthly,Traditional,5,Engineer,Female,4,Executive,5,Single,19968,0,0,21,10,15,2
+12716,9905475752,0,53,Monthly,Market Link,20,CA,Male,5,Executive,1,Married,17145,0,0,19,3,8,0
+12719,9885372921,0,53,Yearly,Traditional,24,CA,Female,3,Executive,1,Single,18445,1,0,16,6,15,2
+12721,9856954793,0,58,Monthly,Traditional,8,Statistics,Male,4,Manager,3,Single,21294,8,1,17,10,10,2
+12727,9952636597,0,37,Monthly,Traditional,12,CA,Female,2,Executive,4,Married,17468,4,0,19,9,7,2
+12730,9878980114,0,47,Yearly,Traditional,11,Statistics,Male,3,Manager,3,Married,20294,3,0,21,10,9,2
+12731,9943496017,0,48,Quarterly,Traditional,18,Engineer,Male,5,Executive,4,Single,17718,2,0,19,12,8,2
+12735,9932445284,0,39,Yearly,Traditional,8,CA,Male,2,VP,5,Married,34038,8,0,17,34,3,0
+12736,9921334207,0,33,Quarterly,Traditional,10,Engineer,Male,5,Manager,4,Married,18055,5,0,20,11,3,0
+12738,9918360538,0,49,Quarterly,Pure Term Plan,8,Statistics,Male,4,Manager,3,Married,19001,1,1,19,15,15,2
+12739,9911230752,0,56,Quarterly,Traditional,3,CA,Female,2,AVP,3,Married,27965,4,1,25,27,7,2
+12742,9894367447,1,32,Yearly,Pure Term Plan,2,Marketing Diploma,Male,1,Executive,4,Single,17679,1,0,18,1,3,5
+12743,9882074748,0,56,Yearly,Traditional,13,Other,Female,5,Executive,3,Married,18702,1,0,16,5,12,0
+12748,9870661901,0,54,Yearly,Traditional,4,CA,Male,5,VP,1,Married,34328,7,1,22,24,9,1
+12750,9924619045,1,35,Monthly,Traditional,2,CA,Male,1,Executive,4,Married,17342,1,1,17,6,4,10
+12752,9894869717,1,24,Yearly,Pure Term Plan,7,Statistics,Male,4,Manager,1,Single,20813,1,1,23,10,13,10
+12757,9863480528,0,46,Yearly,Traditional,13,Statistics,Female,2,Executive,5,Married,18377,4,0,22,7,2,0
+12765,9923944967,0,59,Yearly,Traditional,7,Statistics,Male,4,Manager,4,Single,21870,3,0,17,11,5,0
+12766,9952371499,0,37,Yearly,Pure Term Plan,8,Marketing Diploma,Female,3,Senior Manager,3,Married,25447,0,1,18,23,6,0
+12769,9864239662,1,37,Yearly,Traditional,3,CA,Female,1,Manager,4,Married,23926,4,0,27,13,12,2
+12774,9920160897,0,33,Yearly,Traditional,13,Statistics,Female,5,Senior Manager,4,Married,25333,8,1,17,28,6,0
+12776,9862828365,0,52,Yearly,Traditional,19,CA,Female,2,Manager,1,Married,21854,4,0,20,14,2,0
+12779,9955854717,0,60,Yearly,Pure Term Plan,23,Marketing Diploma,Female,3,Manager,1,Married,20405,2,1,25,20,8,2
+12780,9870885888,0,44,Yearly,Pure Term Plan,19,CA,Male,4,Manager,1,Single,19684,1,0,18,5,1,0
+12783,9931174440,1,34,Yearly,Market Link,9,MBA,Male,1,Executive,5,Married,17956,0,0,22,2,9,10
+12785,9894727375,0,41,Quarterly,Pure Term Plan,9,Statistics,Female,5,Manager,3,Married,20154,4,0,27,10,12,2
+12787,9927332637,0,36,Monthly,Pure Term Plan,10,Statistics,Male,5,Manager,1,Married,20675,1,0,25,7,5,1
+12789,9883320794,0,59,Monthly,Traditional,11,CA,Male,2,Executive,1,Married,18812,1,0,18,11,11,2
+12790,9859379062,0,40,Monthly,Pure Term Plan,9,Marketing Diploma,Male,3,Manager,1,Single,19648,8,0,18,4,1,1
+12793,9940761862,0,46,Yearly,Traditional,3,Statistics,Male,2,Senior Manager,1,Married,23578,3,0,19,12,7,2
+12798,9931692198,0,41,Yearly,Pure Term Plan,11,Engineer,Female,5,AVP,5,Married,28225,2,0,17,25,10,2
+12800,9940721653,0,51,Yearly,Market Link,13,CA,Male,5,Executive,4,Married,17804,1,0,16,1,12,1
+12801,9878785104,0,32,Yearly,Traditional,22,CA,Female,5,VP,3,Married,34392,7,0,18,21,13,0
+12810,9946486376,1,31,Yearly,Traditional,1,Statistics,Male,4,Executive,4,Single,17472,1,1,28,1,13,3
+12819,9949261808,0,33,Yearly,Traditional,6,Statistics,Male,5,AVP,5,Married,31823,2,0,16,22,6,1
+12824,9880938311,1,34,Quarterly,Traditional,4,Engineer,Male,2,Executive,5,Married,17307,1,1,28,5,2,4
+12826,9877370883,0,46,Yearly,Pure Term Plan,9,Marketing Diploma,Male,2,Manager,4,Married,20507,2,0,21,12,13,2
+12828,9931825107,0,60,Yearly,Traditional,16,CA,Male,2,Senior Manager,5,Married,28348,9,0,18,18,7,1
+12836,9876426061,1,38,Monthly,Pure Term Plan,9,Engineer,Male,1,Executive,5,Single,16091,1,0,22,1,2,3
+12842,9928770229,0,59,Yearly,Pure Term Plan,14,Marketing Diploma,Female,4,Manager,5,Married,20380,4,0,21,6,14,1
+12846,9902041357,1,27,Monthly,Traditional,2,Statistics,Female,1,Executive,3,Single,17432,3,1,19,8,8,8
+12851,9930270688,0,55,Yearly,Pure Term Plan,24,CA,Male,2,Manager,5,Married,20561,0,0,21,6,11,1
+12854,9918140612,0,57,Quarterly,Traditional,9,Statistics,Male,5,Executive,4,Married,17810,1,0,27,5,14,0
+12856,9936527328,0,40,Yearly,Pure Term Plan,8,CA,Male,4,Senior Manager,3,Married,23628,1,0,23,9,11,2
+12857,9937749228,0,45,Yearly,Traditional,16,CA,Male,3,Executive,5,Single,17867,0,0,18,8,1,1
+12858,9919873370,0,34,Yearly,Traditional,6,Statistics,Male,4,Manager,5,Married,20373,0,0,17,6,12,0
+12863,9940987589,0,38,Yearly,Pure Term Plan,13,Statistics,Female,3,Manager,1,Married,20204,1,1,16,10,9,1
+12864,9890005865,0,45,Yearly,Pure Term Plan,13,Marketing Diploma,Male,3,Manager,1,Single,19105,1,0,19,7,5,0
+12868,9938518491,0,54,Yearly,Traditional,23,Statistics,Female,5,Manager,3,Married,17897,3,0,16,9,9,0
+12870,9933189253,0,52,Yearly,Traditional,11,Statistics,Male,4,Senior Manager,3,Married,22510,1,0,22,10,1,0
+12873,9891977909,0,37,Yearly,Traditional,23,CA,Female,3,Executive,1,Married,16129,1,1,16,1,7,0
+12877,9925968623,0,44,Yearly,Traditional,11,CA,Female,3,Manager,5,Single,19440,6,1,24,9,4,1
+12881,9907546548,0,45,Yearly,Pure Term Plan,9,Marketing Diploma,Female,3,Manager,4,Married,20677,3,0,19,15,15,2
+12885,9891032827,0,37,Yearly,Traditional,5,CA,Male,3,Senior Manager,3,Single,23633,2,0,28,25,7,2
+12894,9905577312,0,50,Yearly,Traditional,18,Statistics,Male,3,Executive,3,Single,18375,0,0,17,4,7,1
+12896,9871998949,0,36,Yearly,Traditional,25,CA,Female,3,Manager,1,Married,19878,0,1,18,10,12,2
+12898,9882584221,0,55,Yearly,Traditional,22,Statistics,Male,5,Executive,1,Married,17406,8,0,24,8,3,1
+12900,9895478539,0,56,Yearly,Traditional,17,Statistics,Male,2,Manager,1,Single,19108,7,0,18,18,11,0
+12902,9875363185,0,36,Yearly,Pure Term Plan,23,Marketing Diploma,Female,2,Senior Manager,1,Married,25422,1,0,24,14,8,1
+12903,9882919175,0,59,Yearly,Traditional,15,Statistics,Female,3,Senior Manager,1,Married,28744,1,1,30,16,7,1
+12905,9881801276,0,54,Quarterly,Pure Term Plan,14,Statistics,Male,5,Executive,1,Married,18482,2,0,20,16,8,0
+12908,9920792978,0,31,Quarterly,Traditional,23,Statistics,Male,3,VP,1,Single,34431,2,0,18,21,13,2
+12909,9858106650,1,33,Monthly,Pure Term Plan,5,Marketing Diploma,Male,4,Executive,5,Married,16790,1,0,24,1,10,2
+12912,9877295646,0,45,Quarterly,Traditional,21,Statistics,Male,4,Manager,3,Married,21306,1,0,26,13,14,2
+12915,9925275019,1,32,Yearly,Traditional,3,Engineer,Male,2,Executive,3,Married,17339,8,0,16,14,4,6
+12916,9921321109,0,39,Yearly,Traditional,18,Statistics,Female,4,AVP,4,Married,28570,0,0,28,21,5,0
+12921,9934604917,0,33,Yearly,Market Link,11,Statistics,Female,2,Senior Manager,1,Single,23837,1,1,21,9,7,1
+12923,9907735889,1,24,Monthly,Pure Term Plan,2,Statistics,Male,4,Manager,3,Married,21728,7,0,17,12,9,9
+12928,9897186207,0,51,Yearly,Traditional,4,CA,Female,4,Executive,3,Married,17001,2,0,19,20,7,1
+12932,9865689827,1,31,Yearly,Pure Term Plan,5,Marketing Diploma,Male,4,Senior Manager,5,Married,25854,4,1,18,20,1,4
+12936,9876799738,0,56,Monthly,Traditional,16,CA,Male,5,Manager,1,Married,17571,4,0,22,17,9,1
+12937,9884007587,0,40,Yearly,Traditional,11,CA,Male,2,Senior Manager,5,Married,24991,4,0,20,9,9,1
+12939,9868792766,0,60,Monthly,Pure Term Plan,3,CA,Male,4,Manager,4,Married,20390,2,0,19,17,8,0
+12944,9939802534,0,42,Monthly,Traditional,16,Statistics,Female,3,Executive,3,Divorced,18909,2,1,17,9,13,0
+12945,9939963003,0,48,Yearly,Traditional,7,CA,Male,5,Executive,4,Divorced,19468,10,0,18,7,9,0
+12953,9922561387,0,45,Yearly,Traditional,18,Statistics,Male,3,Executive,3,Married,18911,2,0,23,6,9,1
+12954,9900022670,0,46,Yearly,Traditional,18,CA,Male,5,Executive,2,Married,18661,1,0,17,4,9,2
+12956,9935796048,0,44,Yearly,Traditional,15,Statistics,Female,2,Senior Manager,5,Married,25980,2,0,17,11,5,1
+12960,9901279035,0,59,Yearly,Traditional,12,Statistics,Male,3,Executive,2,Single,19944,6,1,17,7,13,0
+12962,9908878405,1,25,Yearly,Pure Term Plan,10,Statistics,Male,2,Manager,5,Single,19407,8,0,29,11,14,8
+12964,9895459285,0,58,Yearly,Traditional,14,Statistics,Male,2,Executive,2,Single,17232,2,0,20,1,5,1
+12971,9895858824,0,36,Yearly,Traditional,10,CA,Male,5,Executive,2,Single,18496,5,0,17,8,12,2
+12972,9874243552,0,38,Yearly,Traditional,4,Other,Male,2,Manager,2,Divorced,22465,3,1,19,10,5,2
+12974,9913282048,1,26,Yearly,Pure Term Plan,7,Engineer,Male,1,Manager,2,Divorced,18086,4,0,20,20,13,8
+12977,9861058052,1,39,Yearly,Pure Term Plan,3,Marketing Diploma,Male,3,Executive,3,Divorced,18683,2,1,20,4,3,3
+12978,9954092370,0,49,Yearly,Pure Term Plan,15,Marketing Diploma,Female,3,Executive,2,Divorced,18014,2,0,19,3,4,2
+12979,9881161539,0,57,Yearly,Traditional,4,Statistics,Female,5,Executive,5,Divorced,96000,10,1,20,7,4,0
+12983,9877334644,1,34,Yearly,Traditional,5,Statistics,Male,3,Executive,3,Single,18293,2,0,18,2,5,4
+12984,9859344856,0,49,Monthly,Pure Term Plan,5,Statistics,Male,5,Senior Manager,3,Single,24726,2,0,21,10,1,0
+12985,9941258799,0,31,Monthly,Traditional,7,CA,Female,4,Manager,2,Single,20011,2,0,29,13,15,1
+12987,9889395508,0,41,Quarterly,Pure Term Plan,20,Marketing Diploma,Male,3,Manager,3,Single,20568,1,0,26,11,9,0
+12989,9871888271,0,33,Monthly,Pure Term Plan,6,Marketing Diploma,Male,5,Manager,2,Single,21772,5,1,27,15,2,0
+12990,9931327814,0,34,Yearly,Traditional,4,Statistics,Male,2,Executive,2,Divorced,18269,2,0,25,2,1,0
+12993,9896389284,0,38,Yearly,Pure Term Plan,12,Marketing Diploma,Female,4,Manager,5,Married,21454,6,1,27,10,10,1
+13001,9954829621,0,47,Yearly,Traditional,21,CA,Male,3,Manager,2,Divorced,22162,2,1,28,10,5,1
+13005,9942687967,0,43,Yearly,Traditional,6,Engineer,Female,2,Senior Manager,3,Married,26096,2,0,19,18,4,1
+13010,9891457923,1,36,Yearly,Traditional,6,CA,Male,2,Executive,3,Divorced,19388,1,1,23,3,6,5
+13012,9882354422,0,46,Yearly,Traditional,20,Statistics,Male,4,Executive,4,Divorced,18703,1,0,29,7,13,0
+13021,9870091848,0,35,Yearly,Traditional,18,Statistics,Male,5,Manager,2,Divorced,21126,2,1,18,11,12,2
+13022,9867364017,0,60,Yearly,Traditional,11,CA,Male,3,Executive,3,Single,18859,2,0,24,7,15,2
+13023,9911769279,0,49,Yearly,Pure Term Plan,25,Statistics,Male,2,Senior Manager,2,Divorced,26239,4,0,20,25,8,0
+13024,9936096789,0,58,Quarterly,Traditional,22,CA,Female,4,Manager,2,Married,21329,8,1,18,18,9,2
+13031,9926749011,0,46,Monthly,Traditional,24,Statistics,Male,3,AVP,4,Divorced,29503,2,0,28,23,12,1
+13037,9892601653,0,38,Yearly,Pure Term Plan,8,Other,Female,4,Manager,3,Divorced,20999,1,0,27,5,4,2
+13042,9863639400,0,59,Yearly,Traditional,6,Statistics,Male,3,Executive,5,Single,18956,2,0,19,2,12,0
+13044,9877770693,0,38,Yearly,Traditional,11,Other,Female,5,Manager,3,Single,20809,2,0,20,17,14,1
+13045,9933417412,0,50,Quarterly,Traditional,11,Statistics,Male,5,Manager,2,Married,21163,6,0,20,18,12,2
+13048,9859287205,1,29,Yearly,Pure Term Plan,7,Marketing Diploma,Male,4,Manager,3,Single,21744,2,1,17,7,10,8
+13053,9873611775,0,45,Quarterly,Market Link,12,MBA,Female,2,AVP,2,Single,33328,3,1,18,24,8,1
+13058,9913290869,0,30,Monthly,Pure Term Plan,12,Engineer,Female,4,Senior Manager,2,Divorced,25738,1,0,20,11,12,0
+13059,9875651706,0,31,Yearly,Traditional,21,Statistics,Female,4,Executive,2,Married,18835,6,0,28,8,9,2
+13061,9898841179,0,42,Monthly,Traditional,17,Statistics,Male,4,Executive,3,Married,18613,2,0,31,11,10,1
+13063,9911868903,1,40,Yearly,Traditional,8,Statistics,Female,3,Executive,4,Divorced,20963,10,1,24,8,5,2
+13066,9908503009,0,40,Yearly,Traditional,7,Other,Female,5,Executive,4,Divorced,18368,2,0,25,6,2,0
+13067,9946977891,1,22,Yearly,Traditional,9,CA,Female,2,Senior Manager,2,Divorced,26312,2,0,18,41,3,5
+13068,9895661247,1,26,Yearly,Pure Term Plan,4,Marketing Diploma,Male,3,Executive,3,Single,17675,2,1,25,1,12,8
+13069,9885765493,0,60,Yearly,Traditional,16,Engineer,Male,2,Executive,2,Divorced,18523,1,0,20,4,6,0
+13073,9869133763,1,32,Yearly,Pure Term Plan,2,Statistics,Female,2,Manager,3,Divorced,20559,4,1,17,5,6,3
+13075,9939889352,0,48,Yearly,Market Link,25,Statistics,Female,3,Executive,3,Divorced,18942,2,0,29,9,4,1
+13078,9882297600,0,41,Yearly,Pure Term Plan,25,Statistics,Female,4,Manager,3,Divorced,21902,5,0,20,18,9,1
+13080,9913405374,0,36,Yearly,Market Link,14,MBA,Male,5,Manager,2,Divorced,22347,1,1,25,13,5,1
+13082,9886124868,0,44,Yearly,Traditional,17,CA,Male,3,Executive,2,Single,19452,6,0,19,10,5,1
+13084,9858753779,0,42,Yearly,Traditional,16,Statistics,Female,2,Executive,3,Single,18632,2,0,20,6,8,0
+13089,9934633129,0,33,Yearly,Traditional,18,Statistics,Male,2,Executive,5,Divorced,18238,3,0,27,8,12,0
+13096,9956563149,0,58,Quarterly,Traditional,3,Engineer,Male,3,Manager,3,Divorced,20319,2,0,19,11,6,0
+13097,9891908407,0,57,Yearly,Traditional,4,CA,Male,2,Manager,3,Divorced,22132,3,0,23,11,6,2
+13099,9861515765,0,40,Yearly,Pure Term Plan,18,Marketing Diploma,Male,3,Senior Manager,2,Divorced,26855,8,0,17,16,9,1
+13100,9930386532,0,45,Monthly,Pure Term Plan,10,Marketing Diploma,Female,5,Executive,3,Divorced,18231,7,0,24,7,15,2
+13102,9893241561,0,53,Quarterly,Traditional,14,CA,Male,2,Executive,4,Married,18024,7,0,24,7,15,2
+13105,9946082994,0,43,Quarterly,Traditional,7,CA,Male,3,Executive,3,Married,18566,2,1,21,2,4,1
+13106,9933953173,0,32,Yearly,Traditional,8,Statistics,Female,3,VP,4,Single,35926,4,0,21,22,15,0
+13117,9872404019,0,32,Yearly,Traditional,24,Statistics,Male,3,Executive,2,Single,18500,1,0,20,5,12,2
+13118,9874241157,1,23,Yearly,Traditional,5,Statistics,Male,4,Executive,2,Single,17102,2,0,28,2,12,4
+13131,9952464393,0,44,Yearly,Traditional,25,Statistics,Male,2,VP,3,Divorced,35999,1,0,20,35,3,0
+13132,9941032684,0,54,Yearly,Traditional,24,CA,Female,4,Executive,4,Single,18279,2,0,22,8,9,1
+13140,9951563185,0,38,Yearly,Traditional,8,Engineer,Male,3,Manager,2,Divorced,22261,4,0,24,10,4,2
+13141,9888517312,0,30,Monthly,Traditional,13,Engineer,Male,5,Manager,5,Divorced,20298,6,0,25,7,1,0
+13142,9929188879,0,39,Quarterly,Traditional,20,Statistics,Male,2,Manager,2,Married,22804,2,1,21,8,5,2
+13143,9903993668,0,30,Monthly,Traditional,8,CA,Male,4,Executive,3,Married,19815,2,1,23,6,15,2
+13144,9891163566,0,35,Yearly,Traditional,23,CA,Male,3,Manager,2,Divorced,18741,9,1,21,16,5,2
+13145,9911348180,1,36,Yearly,Traditional,6,CA,Male,2,Manager,5,Divorced,22673,8,1,25,18,3,10
+13153,9894240355,0,47,Monthly,Pure Term Plan,9,Statistics,Female,2,Manager,3,Single,25981,2,0,20,8,5,2
+13154,9923107446,0,50,Yearly,Traditional,9,Statistics,Male,2,Senior Manager,4,Divorced,28490,6,0,22,17,6,1
+13161,9905903321,0,34,Yearly,Traditional,9,Statistics,Male,2,Manager,4,Single,21914,9,0,22,17,12,1
+13164,9926785357,0,33,Yearly,Pure Term Plan,21,Statistics,Male,3,Senior Manager,3,Married,26609,1,0,18,18,13,2
+13166,9866156745,0,47,Yearly,Traditional,17,Statistics,Male,5,Executive,2,Divorced,18177,4,0,23,8,13,1
+13176,9954405312,0,54,Yearly,Pure Term Plan,21,Marketing Diploma,Female,5,AVP,2,Divorced,32064,6,1,28,23,14,2
+13179,9915934085,0,31,Yearly,Pure Term Plan,22,Statistics,Female,2,Executive,4,Divorced,19931,3,0,17,7,11,0
+13188,9930971126,0,44,Yearly,Traditional,6,Statistics,Male,4,Manager,5,Divorced,21957,7,0,19,14,14,0
+13193,9874352096,0,33,Yearly,Traditional,19,Statistics,Male,3,Executive,2,Single,18340,2,0,25,7,1,0
+13197,9922604828,0,45,Yearly,Traditional,9,CA,Female,4,Executive,5,Married,18593,1,1,17,11,14,0
+13200,9868122864,1,31,Monthly,Traditional,5,CA,Male,3,Executive,4,Single,19479,1,0,17,7,2,8
+13204,9906919873,0,31,Yearly,Pure Term Plan,11,Engineer,Female,2,AVP,4,Divorced,32872,4,1,18,29,10,1
+13206,9915764590,0,35,Yearly,Pure Term Plan,17,CA,Male,2,Manager,4,Divorced,22644,3,0,25,11,13,1
+13207,9910937433,0,32,Yearly,Traditional,14,CA,Male,2,Manager,2,Divorced,21582,1,0,27,11,15,2
+13208,9874325317,0,45,Quarterly,Traditional,12,Statistics,Male,5,Manager,5,Married,20000,2,0,18,7,8,1
+13210,9860032597,0,45,Yearly,Traditional,18,Statistics,Male,4,Executive,2,Divorced,19210,1,0,17,17,4,0
+13212,9885461887,1,36,Quarterly,Traditional,9,Statistics,Male,3,Senior Manager,4,Divorced,27849,2,1,18,11,2,8
+13214,9946699442,0,41,Yearly,Pure Term Plan,4,CA,Male,5,Manager,2,Divorced,22502,5,0,20,8,9,1
+13216,9953358403,0,31,Quarterly,Traditional,21,CA,Female,5,Senior Manager,2,Married,29603,3,1,24,16,4,0
+13220,9894821287,0,35,Yearly,Traditional,11,Statistics,Male,5,VP,4,Married,35144,4,0,20,29,1,0
+13225,9911665752,0,52,Monthly,Traditional,9,CA,Male,3,Manager,5,Divorced,20741,2,1,19,6,6,1
+13231,9898573160,0,48,Monthly,Traditional,18,Statistics,Female,3,VP,5,Single,34665,10,1,17,23,10,1
+13232,9949658716,0,54,Yearly,Traditional,12,Engineer,Male,2,Manager,4,Single,20485,5,0,18,11,7,0
+13235,9950519626,0,50,Monthly,Traditional,17,CA,Male,5,Executive,2,Divorced,18326,2,1,18,5,7,0
+13236,9922925136,0,48,Monthly,Pure Term Plan,18,Marketing Diploma,Female,5,AVP,4,Divorced,29525,6,0,20,24,2,2
+13244,9858492245,0,41,Yearly,Pure Term Plan,13,Engineer,Male,3,Manager,2,Divorced,22929,5,0,17,11,12,2
+13257,9907238413,0,33,Yearly,Traditional,14,Engineer,Female,5,AVP,3,Single,29964,8,1,18,26,5,1
+13260,9864033443,0,49,Yearly,Pure Term Plan,21,Engineer,Female,2,Manager,4,Divorced,21228,2,1,17,14,4,0
+13263,9916301912,0,59,Yearly,Traditional,21,CA,Female,2,Manager,2,Single,21055,8,0,22,11,6,0
+13268,9949797191,1,23,Yearly,Pure Term Plan,6,CA,Female,3,Manager,3,Divorced,21238,5,1,24,13,8,9
+13271,9881133086,0,56,Monthly,Traditional,8,Statistics,Female,4,Manager,3,Married,21257,2,0,17,10,11,1
+13274,9860711090,0,57,Yearly,Traditional,25,Statistics,Female,2,Senior Manager,5,Divorced,25985,9,0,22,11,11,2
+13281,9943744375,0,47,Yearly,Traditional,23,CA,Male,4,Manager,2,Married,22347,8,0,22,9,14,1
+13289,9934032729,0,52,Yearly,Traditional,14,Statistics,Female,5,AVP,2,Single,31992,3,0,20,17,11,0
+13290,9891326816,0,44,Quarterly,Pure Term Plan,25,Statistics,Male,4,Manager,3,Divorced,20649,2,0,20,5,8,0
+13291,9927373805,0,60,Yearly,Market Link,5,Engineer,Male,5,Executive,3,Married,18696,1,1,17,5,2,0
+13294,9948935732,0,38,Yearly,Traditional,12,CA,Male,5,Manager,5,Married,21974,5,1,19,14,2,2
+13296,9883250318,0,55,Yearly,Pure Term Plan,20,Statistics,Male,2,Manager,3,Divorced,21296,2,0,23,9,1,2
+13299,9858303872,0,32,Quarterly,Pure Term Plan,7,CA,Female,2,Manager,2,Single,22653,5,0,21,8,12,1
+13301,9933899418,0,56,Yearly,Traditional,14,CA,Male,5,Manager,3,Divorced,22755,3,0,17,16,11,2
+13308,9913703250,0,60,Yearly,Traditional,18,Engineer,Male,5,Senior Manager,2,Single,26496,7,0,21,21,8,0
+13314,9898093621,0,40,Yearly,Traditional,6,CA,Male,2,Executive,4,Married,19816,2,0,17,6,10,2
+13315,9873000758,0,36,Yearly,Pure Term Plan,4,Statistics,Male,2,Manager,2,Single,21253,2,0,22,8,1,0
+13320,9948284373,0,58,Yearly,Traditional,25,Statistics,Female,5,AVP,2,Single,32659,3,1,19,31,13,2
+13328,9952428182,0,51,Yearly,Pure Term Plan,8,Marketing Diploma,Female,3,Manager,4,Married,21715,8,0,18,9,3,2
+13329,9927039406,0,49,Yearly,Traditional,6,Statistics,Female,4,Executive,5,Married,18576,4,0,22,9,13,2
+13330,9882095297,0,52,Yearly,Traditional,8,Statistics,Male,4,Manager,4,Single,20197,3,1,18,19,11,2
+13331,9896941036,0,34,Yearly,Traditional,19,Statistics,Male,3,AVP,4,Married,30336,2,0,17,26,12,0
+13332,9896405747,0,47,Yearly,Traditional,24,CA,Female,5,Manager,3,Divorced,19448,7,0,28,21,5,2
+13334,9876417622,0,39,Quarterly,Pure Term Plan,22,Marketing Diploma,Female,5,Manager,3,Divorced,22538,10,0,21,7,11,1
+13335,9890583351,0,40,Yearly,Traditional,24,CA,Female,5,Manager,5,Divorced,20306,2,0,18,14,7,1
+13339,9907848789,0,32,Quarterly,Traditional,15,CA,Female,3,Manager,3,Divorced,20449,4,1,21,16,14,1
+13351,9867726694,0,47,Yearly,Traditional,4,Statistics,Female,3,Manager,2,Single,22091,3,0,26,12,14,0
+13354,9913515201,0,58,Monthly,Traditional,21,Engineer,Female,4,Manager,2,Divorced,20523,1,0,17,8,2,0
+13355,9950623929,1,39,Yearly,Pure Term Plan,6,Engineer,Female,4,Executive,4,Single,19202,2,1,22,7,4,3
+13356,9860973185,1,27,Monthly,Pure Term Plan,4,Marketing Diploma,Female,1,Executive,3,Married,18351,1,0,22,4,8,2
+13361,9890234706,0,51,Yearly,Traditional,13,CA,Male,5,Senior Manager,3,Divorced,27935,2,0,24,11,15,1
+13362,9881763734,1,38,Yearly,Traditional,5,Engineer,Female,2,Executive,4,Divorced,18546,6,0,22,7,9,6
+13369,9899519545,0,44,Yearly,Traditional,16,CA,Female,2,Manager,2,Married,21070,6,0,19,21,1,2
+13372,9951416711,0,53,Yearly,Traditional,25,Statistics,Female,2,Manager,3,Single,19780,8,0,17,20,8,0
+13380,9953736441,1,29,Monthly,Traditional,6,Statistics,Male,3,Senior Manager,3,Divorced,25824,4,0,18,13,9,10
+13383,9902834886,0,58,Quarterly,Pure Term Plan,12,CA,Male,3,Senior Manager,2,Single,25980,2,0,20,11,15,0
+13384,9935888540,1,29,Monthly,Traditional,6,Engineer,Male,2,Executive,3,Single,19894,6,0,22,5,13,6
+13390,9951442279,0,51,Monthly,Traditional,7,Statistics,Female,4,Executive,3,Divorced,19755,2,0,17,9,8,1
+13392,9934118565,0,43,Yearly,Traditional,4,CA,Male,4,Senior Manager,5,Divorced,23406,2,1,27,11,14,2
+13393,9876447914,0,47,Yearly,Pure Term Plan,14,Other,Male,4,Manager,4,Divorced,20805,1,0,25,10,8,2
+13394,9947456822,1,36,Monthly,Market Link,6,Statistics,Female,1,Executive,3,Married,18741,1,1,17,9,2,5
+13399,9869759931,0,42,Quarterly,Pure Term Plan,15,Other,Male,2,Senior Manager,5,Married,26932,4,0,21,21,15,1
+13404,9874664261,1,36,Yearly,Traditional,3,Engineer,Male,3,Executive,2,Single,18340,2,1,24,2,10,4
+13407,9931394517,0,35,Yearly,Pure Term Plan,9,Statistics,Female,4,AVP,5,Divorced,32595,8,0,22,23,5,1
+13408,9881601704,0,34,Quarterly,Pure Term Plan,20,CA,Male,4,Senior Manager,4,Married,24834,2,0,19,10,7,1
+13415,9909898699,0,44,Yearly,Traditional,7,CA,Male,4,Executive,2,Divorced,18725,2,1,17,7,3,2
+13417,9931625795,0,37,Yearly,Traditional,8,Other,Male,3,Executive,4,Divorced,18127,2,0,27,2,5,1
+13418,9906806037,0,55,Monthly,Market Link,11,CA,Male,4,VP,4,Divorced,34200,2,0,17,33,6,1
+13419,9857979867,0,45,Yearly,Pure Term Plan,10,CA,Male,3,Executive,3,Divorced,18096,2,0,17,8,9,0
+13423,9879404902,1,28,Yearly,Pure Term Plan,9,CA,Male,1,Manager,5,Married,20233,3,0,23,10,6,9
+13429,9890216398,0,34,Yearly,Traditional,18,Statistics,Female,2,Manager,2,Divorced,20089,2,0,19,11,1,2
+13430,9918025794,0,31,Yearly,Traditional,16,Other,Male,4,AVP,2,Married,32627,5,1,20,22,3,0
+13432,9939285643,0,60,Monthly,Traditional,5,CA,Male,4,Manager,3,Married,21679,4,1,19,11,2,1
+13435,9902849900,0,51,Yearly,Pure Term Plan,9,Engineer,Female,3,Executive,3,Married,18579,2,1,24,9,15,2
+13436,9899377303,1,31,Yearly,Pure Term Plan,6,Marketing Diploma,Male,3,Executive,5,Married,19041,1,0,17,6,3,3
+13440,9931329364,0,30,Yearly,Pure Term Plan,15,Marketing Diploma,Male,5,Manager,3,Married,23104,1,0,18,7,1,1
+13444,9951367805,0,45,Yearly,Traditional,5,Statistics,Male,4,Executive,2,Divorced,18691,2,0,18,11,8,0
+13446,9865111046,0,52,Yearly,Traditional,6,Statistics,Female,3,Executive,2,Divorced,18659,2,1,19,4,15,2
+13450,9882649750,0,42,Monthly,Traditional,11,Statistics,Male,5,Manager,2,Married,23725,4,0,29,16,12,0
+13452,9870808587,0,46,Yearly,Traditional,25,CA,Male,2,Manager,4,Married,24847,3,1,17,14,3,2
+13453,9930823216,0,46,Yearly,Traditional,4,CA,Male,5,Executive,2,Single,18045,1,0,19,6,13,2
+13456,9873629892,0,36,Quarterly,Traditional,3,Statistics,Male,2,Executive,3,Divorced,17281,2,0,24,2,11,0
+13459,9858762407,0,55,Yearly,Pure Term Plan,23,Marketing Diploma,Female,3,Manager,2,Single,20028,1,0,26,9,9,2
+13463,9863273451,0,48,Yearly,Traditional,5,Statistics,Male,5,Executive,2,Single,20680,4,0,23,5,9,1
+13465,9867786430,0,54,Yearly,Traditional,21,CA,Female,5,Senior Manager,4,Single,24621,2,0,20,10,7,1
+13469,9876241049,1,32,Monthly,Pure Term Plan,4,Engineer,Male,1,Manager,3,Divorced,22796,4,1,20,19,5,10
+13470,9933763810,0,43,Yearly,Traditional,20,Statistics,Female,2,Manager,2,Single,23625,1,0,19,11,3,0
+13472,9880071676,0,57,Yearly,Traditional,16,Statistics,Female,5,Senior Manager,2,Single,27159,4,0,21,11,1,2
+13473,9867271190,0,51,Yearly,Pure Term Plan,5,Marketing Diploma,Male,4,Manager,5,Single,20960,3,0,18,21,1,0
+13475,9917380188,0,49,Yearly,Traditional,21,Statistics,Male,4,AVP,3,Divorced,30814,4,0,25,33,5,0
+13479,9863670217,0,37,Yearly,Market Link,5,MBA,Male,3,VP,3,Divorced,35189,2,0,18,23,4,2
+13481,9876578392,1,32,Yearly,Traditional,9,Statistics,Female,3,Executive,4,Single,18216,8,1,19,11,12,6
+13483,9936115615,0,49,Yearly,Traditional,7,Statistics,Female,3,Senior Manager,3,Single,23861,5,1,20,11,1,2
+13488,9876546174,1,24,Monthly,Traditional,1,CA,Male,3,Executive,3,Married,18759,7,1,18,8,10,6
+13496,9884558736,0,44,Yearly,Pure Term Plan,25,Marketing Diploma,Male,5,Executive,4,Married,18297,2,0,20,3,7,0
+13497,9888259182,0,47,Yearly,Traditional,21,Statistics,Male,3,Manager,2,Single,18450,3,0,23,20,14,1
+13498,9887638137,0,30,Quarterly,Traditional,9,Statistics,Female,3,Manager,5,Married,21093,3,0,17,17,5,2
+13500,9874784974,0,49,Yearly,Traditional,13,CA,Male,2,Executive,3,Divorced,19057,7,1,19,7,13,0
+13501,9913397981,0,45,Yearly,Traditional,5,Statistics,Female,2,Manager,5,Married,21121,4,0,20,8,6,1
+13504,9913496753,0,36,Yearly,Pure Term Plan,6,CA,Female,4,Manager,2,Single,22180,2,0,29,7,14,1
+13509,9951444725,1,28,Yearly,Traditional,4,CA,Male,1,VP,5,Divorced,35859,6,1,19,25,15,5
+13510,9929559840,0,55,Quarterly,Pure Term Plan,13,Statistics,Male,2,Senior Manager,5,Single,23587,2,0,21,11,5,1
+13512,9943736698,0,51,Monthly,Traditional,13,Statistics,Female,4,Executive,2,Married,20364,4,0,20,6,11,2
+13513,9914729245,0,60,Yearly,Traditional,21,CA,Female,3,Manager,3,Divorced,20335,5,0,18,12,1,0
+13515,9934827031,0,51,Yearly,Traditional,16,Statistics,Female,5,Executive,2,Single,19280,3,0,22,11,6,2
+13516,9908755462,0,45,Yearly,Traditional,11,CA,Female,4,Manager,5,Married,21485,10,1,17,10,13,1
+13519,9918585321,0,51,Monthly,Traditional,4,Statistics,Female,2,Manager,5,Single,21980,7,1,18,18,9,0
+13522,9896870655,0,44,Yearly,Traditional,23,Statistics,Male,4,Executive,3,Divorced,19833,4,0,27,8,8,1
+13523,9948805106,0,60,Monthly,Traditional,24,CA,Female,2,Manager,4,Divorced,20244,2,0,30,9,12,2
+13526,9875147773,1,31,Yearly,Traditional,6,Statistics,Male,4,Executive,5,Divorced,17601,2,1,27,2,2,2
+13531,9881495714,0,37,Yearly,Traditional,3,CA,Male,3,Senior Manager,3,Divorced,27691,1,0,17,15,7,2
+13542,9910609175,0,55,Monthly,Traditional,17,CA,Male,4,Manager,3,Single,21094,7,0,20,11,13,1
+13544,9898055845,0,45,Yearly,Traditional,21,Statistics,Female,5,Executive,3,Single,18274,2,0,20,2,5,2
+13545,9887774908,0,40,Yearly,Traditional,3,Statistics,Male,3,Manager,4,Divorced,20434,2,0,19,11,12,0
+13547,9899853836,0,57,Monthly,Traditional,11,Statistics,Female,2,Executive,2,Single,18553,2,0,22,7,11,0
+13550,9956516242,0,41,Yearly,Traditional,19,Statistics,Male,2,AVP,5,Divorced,33159,7,0,30,23,7,2
+13551,9865540834,0,31,Yearly,Traditional,6,Engineer,Male,4,Senior Manager,2,Married,28808,2,1,22,10,1,0
+13552,9922946435,0,53,Yearly,Traditional,8,Other,Male,2,Senior Manager,3,Single,26221,4,0,27,18,3,0
+13556,9911905779,0,31,Quarterly,Traditional,8,CA,Male,3,Executive,2,Divorced,17706,2,0,17,1,4,1
+13558,9916367412,0,49,Yearly,Traditional,22,CA,Male,2,Manager,4,Single,21933,10,0,18,11,7,1
+13560,9944498200,0,52,Yearly,Pure Term Plan,25,CA,Male,5,Manager,5,Married,20037,2,0,28,10,5,0
+13567,9865430942,0,44,Yearly,Traditional,3,CA,Female,5,Manager,3,Divorced,21175,6,0,18,10,3,1
+13572,9925671132,0,60,Yearly,Traditional,4,Statistics,Male,4,Executive,2,Divorced,18818,3,1,30,11,10,1
+13573,9924980721,0,55,Monthly,Traditional,11,CA,Male,4,Executive,2,Single,18515,6,1,20,9,14,0
+13577,9933877827,1,37,Monthly,Traditional,7,Statistics,Female,2,Executive,4,Married,18022,2,1,25,11,13,5
+13592,9942884901,0,55,Yearly,Pure Term Plan,15,Marketing Diploma,Female,3,Manager,2,Divorced,20537,1,1,28,9,8,1
+13595,9891987839,0,34,Yearly,Market Link,14,Statistics,Female,3,Manager,2,Divorced,21204,9,0,17,14,5,2
+13597,9905468508,1,32,Yearly,Traditional,10,Statistics,Male,4,Executive,2,Single,18795,2,1,30,2,7,6
+13598,9948313391,0,32,Yearly,Traditional,8,CA,Female,4,Executive,2,Married,18532,7,0,20,9,7,0
+13601,9866072580,1,37,Monthly,Traditional,8,Statistics,Male,3,Executive,2,Married,18380,10,1,20,4,5,4
+13609,9950551440,0,53,Yearly,Traditional,9,CA,Female,5,Executive,3,Married,18377,6,0,24,7,2,0
+13611,9909266503,0,44,Yearly,Traditional,24,Statistics,Female,5,Executive,3,Single,18318,2,0,25,2,12,2
+13618,9894536561,0,42,Yearly,Traditional,18,Other,Female,3,Senior Manager,4,Divorced,23403,5,0,17,30,8,1
+13619,9943614966,0,59,Yearly,Traditional,8,CA,Male,3,Executive,3,Divorced,18259,5,0,23,14,1,0
+13620,9953677056,0,46,Quarterly,Pure Term Plan,5,Marketing Diploma,Female,2,Manager,3,Divorced,22932,2,0,19,10,6,2
+13622,9892983887,0,43,Yearly,Traditional,18,Engineer,Female,3,Senior Manager,5,Divorced,29582,2,0,19,16,15,0
+13623,9902451266,0,47,Quarterly,Traditional,8,Statistics,Female,2,Executive,4,Divorced,18332,7,0,26,6,9,2
+13627,9867193821,0,49,Yearly,Traditional,3,CA,Male,2,Executive,5,Single,20721,3,1,19,21,9,0
+13629,9920663666,1,28,Yearly,Pure Term Plan,2,Other,Male,2,Executive,4,Single,18121,2,1,19,2,7,6
+13630,9865810282,1,30,Yearly,Traditional,4,Engineer,Male,2,Executive,5,Single,18973,2,0,25,2,2,9
+13633,9940194304,0,53,Yearly,Traditional,15,CA,Female,2,Manager,5,Divorced,22725,2,0,18,9,5,2
+13636,9870436807,1,25,Yearly,Pure Term Plan,8,Statistics,Male,1,Senior Manager,3,Divorced,26609,6,0,17,18,2,10
+13637,9890751336,0,36,Quarterly,Traditional,16,Statistics,Male,4,Manager,4,Divorced,20447,2,0,18,10,7,1
+13640,9889357988,0,30,Yearly,Traditional,3,Statistics,Male,4,AVP,2,Divorced,33099,3,0,21,27,8,0
+13641,9892629087,1,39,Yearly,Traditional,8,Engineer,Male,3,Executive,3,Single,18479,5,0,30,8,8,3
+13642,9857008871,0,57,Yearly,Pure Term Plan,9,CA,Male,3,AVP,3,Married,30852,7,0,19,23,8,2
+13645,9861540944,0,37,Yearly,Pure Term Plan,21,Statistics,Male,2,Senior Manager,2,Married,23823,7,0,19,13,13,0
+13646,9871538826,0,52,Yearly,Pure Term Plan,10,Statistics,Male,5,Senior Manager,3,Single,23880,1,0,24,10,6,1
+13650,9901937620,1,27,Quarterly,Traditional,2,CA,Male,2,Executive,5,Single,18321,1,1,28,5,7,3
+13669,9943866120,0,43,Yearly,Traditional,21,Engineer,Female,4,Senior Manager,3,Divorced,26739,9,0,17,23,4,2
+13672,9881347056,1,23,Yearly,Traditional,5,CA,Female,1,Executive,5,Single,18600,2,1,21,2,9,7
+13673,9898216805,1,30,Monthly,Traditional,1,CA,Female,3,Executive,4,Single,18422,1,0,23,5,5,5
+13676,9870763917,0,40,Yearly,Traditional,23,Statistics,Male,5,Manager,3,Single,20240,3,0,19,20,11,1
+13677,9892894466,0,37,Yearly,Traditional,13,Statistics,Male,2,Senior Manager,3,Single,26999,8,0,20,28,9,0
+13679,9955576976,0,60,Yearly,Traditional,5,Statistics,Female,5,AVP,2,Divorced,28742,2,0,22,22,7,2
+13680,9926544897,0,46,Yearly,Traditional,24,Statistics,Female,4,Manager,2,Divorced,20227,1,0,24,5,11,0
+13682,9858379519,0,42,Yearly,Pure Term Plan,6,Marketing Diploma,Male,3,VP,3,Divorced,34303,7,0,19,22,9,0
+13684,9906841443,0,51,Yearly,Traditional,8,Statistics,Female,3,AVP,2,Single,29726,4,1,19,31,6,2
+13688,9864570763,0,38,Yearly,Pure Term Plan,23,Statistics,Male,2,Manager,2,Single,22861,9,1,18,20,1,2
+13691,9922986438,0,39,Yearly,Pure Term Plan,17,CA,Female,4,AVP,2,Divorced,29320,4,1,24,24,8,1
+13693,9898433400,1,32,Yearly,Traditional,7,Statistics,Female,2,Executive,5,Single,18743,2,0,22,19,2,3
+13699,9887720730,0,54,Yearly,Pure Term Plan,9,Engineer,Male,2,Senior Manager,2,Divorced,27904,4,1,20,15,3,1
+13703,9874161067,1,21,Monthly,Traditional,2,Statistics,Male,3,Executive,5,Divorced,18042,7,1,20,7,11,5
+13705,9866894882,0,41,Yearly,Pure Term Plan,24,CA,Male,5,Executive,4,Divorced,17052,2,0,28,2,11,0
+13713,9947659319,0,57,Monthly,Traditional,19,CA,Female,2,Executive,3,Divorced,18942,3,0,25,19,9,2
+13714,9858499082,0,60,Yearly,Traditional,9,CA,Female,3,Senior Manager,2,Single,24858,1,0,17,16,3,1
+13716,9893499685,0,35,Yearly,Pure Term Plan,25,CA,Male,3,Senior Manager,2,Married,26798,6,0,19,19,11,0
+13717,9903005930,1,24,Monthly,Pure Term Plan,7,Marketing Diploma,Female,4,Executive,2,Single,18323,2,1,20,3,12,10
+13718,9948092373,1,31,Yearly,Traditional,6,Statistics,Female,3,Executive,5,Single,17416,2,0,19,2,7,7
+13726,9872985243,0,49,Yearly,Traditional,8,Engineer,Male,2,Senior Manager,2,Divorced,26322,5,0,26,15,4,0
+13728,9857089367,0,36,Monthly,Traditional,22,Statistics,Male,4,Senior Manager,4,Divorced,26976,4,0,24,24,7,0
+13732,9914404331,1,22,Yearly,Pure Term Plan,3,Engineer,Male,3,Senior Manager,5,Single,25582,1,1,28,10,1,10
+13734,9907274291,0,60,Yearly,Traditional,10,Statistics,Male,2,Executive,3,Married,18207,2,0,22,5,10,2
+13736,9926104518,0,58,Yearly,Pure Term Plan,18,Statistics,Female,2,Manager,2,Married,22694,3,1,20,9,8,0
+13739,9865225985,1,35,Yearly,Traditional,2,CA,Male,2,Executive,4,Single,18313,5,1,26,6,7,10
+13740,9892911943,0,58,Yearly,Traditional,21,CA,Male,4,AVP,5,Divorced,33665,1,0,23,24,5,1
+13741,9921596646,1,21,Monthly,Traditional,4,CA,Male,4,Executive,4,Married,18596,2,0,21,2,15,9
+13749,9886737815,0,45,Yearly,Traditional,15,Statistics,Female,2,Executive,2,Married,18514,5,0,28,12,14,0
+13752,9955663387,0,40,Yearly,Pure Term Plan,18,Marketing Diploma,Male,5,Senior Manager,4,Single,23351,8,0,22,11,4,1
+13758,9881779370,0,54,Quarterly,Traditional,3,Statistics,Male,4,Manager,2,Single,23779,3,0,26,19,5,0
+13760,9922907812,0,52,Yearly,Traditional,22,Statistics,Male,4,Executive,4,Divorced,19201,1,0,23,7,9,2
+13762,9911755638,0,38,Yearly,Pure Term Plan,7,Engineer,Male,4,AVP,4,Divorced,29120,7,0,23,23,13,2
+13766,9932440402,0,58,Yearly,Traditional,11,CA,Male,2,Manager,2,Divorced,21056,2,1,21,11,11,1
+13767,9928258244,0,40,Yearly,Market Link,25,MBA,Male,4,Executive,3,Divorced,18844,2,0,19,8,3,0
+13768,9929894544,0,60,Monthly,Traditional,10,Statistics,Male,5,Executive,3,Married,18703,2,1,20,4,7,0
+13769,9878972208,1,23,Quarterly,Traditional,1,CA,Male,4,Executive,3,Single,17904,2,0,18,1,6,9
+13770,9917528615,1,32,Yearly,Pure Term Plan,8,Marketing Diploma,Female,4,Manager,5,Single,24224,1,1,23,7,1,7
+13774,9865414751,0,56,Yearly,Traditional,15,Statistics,Male,2,Executive,3,Divorced,18539,2,0,19,5,15,1
+13776,9892115133,0,44,Yearly,Market Link,12,Engineer,Male,3,Executive,3,Single,20323,2,0,23,7,8,0
+13780,9926472735,0,31,Yearly,Pure Term Plan,14,Marketing Diploma,Male,4,Manager,5,Single,21155,8,0,19,10,12,2
+13781,9924655167,0,60,Yearly,Traditional,4,CA,Male,4,Executive,3,Divorced,18258,7,0,18,11,12,1
+13782,9927972944,0,52,Yearly,Traditional,10,CA,Male,2,Executive,4,Single,19597,9,0,28,7,4,2
+13784,9868236294,0,58,Yearly,Traditional,9,CA,Male,2,Executive,2,Divorced,20420,2,0,28,9,6,2
+13788,9869380074,0,53,Monthly,Traditional,25,CA,Male,3,Manager,5,Single,21343,1,0,26,15,2,2
+13790,9944062753,1,30,Yearly,Pure Term Plan,8,Marketing Diploma,Female,4,Manager,3,Single,21346,9,0,19,8,6,5
+13793,9923560501,0,56,Yearly,Traditional,6,CA,Female,5,Executive,2,Divorced,19131,2,0,19,11,13,2
+13794,9900329738,0,35,Yearly,Traditional,18,Statistics,Male,2,Executive,5,Single,18552,2,0,31,2,10,0
+13795,9921016047,0,34,Yearly,Traditional,14,CA,Female,3,Executive,3,Divorced,20477,5,1,25,8,2,0
+13796,9937085403,0,35,Yearly,Traditional,7,Statistics,Female,3,Manager,2,Divorced,22474,2,0,19,15,5,1
+13797,9913316391,0,32,Yearly,Traditional,14,Statistics,Male,3,Executive,3,Single,19033,2,0,18,3,6,2
+13804,9860018072,0,56,Yearly,Market Link,24,MBA,Male,2,Executive,3,Divorced,19600,2,0,19,6,2,1
+13807,9936900955,0,35,Monthly,Pure Term Plan,8,CA,Male,3,Manager,4,Divorced,20327,6,0,18,6,14,1
+13812,9869085113,1,26,Yearly,Traditional,1,Statistics,Female,1,Executive,4,Divorced,18210,2,0,19,2,13,5
+13815,9883401550,0,42,Yearly,Traditional,8,Statistics,Male,5,Manager,3,Married,19491,2,0,19,11,7,2
+13819,9898272059,0,47,Quarterly,Market Link,12,CA,Male,3,Manager,5,Divorced,22272,8,0,22,11,2,2
+13820,9939017946,0,46,Yearly,Pure Term Plan,23,Marketing Diploma,Male,4,Manager,2,Married,21220,1,1,24,13,3,2
+13822,9892618243,0,32,Monthly,Traditional,11,Statistics,Female,2,Manager,3,Single,20998,5,1,20,11,10,1
+13826,9954467899,0,53,Yearly,Pure Term Plan,8,Statistics,Male,5,Manager,2,Single,20950,1,0,20,6,6,0
+13827,9929966163,0,59,Yearly,Traditional,13,CA,Male,3,Executive,4,Divorced,19579,1,1,27,13,4,1
+13829,9944570862,0,54,Quarterly,Pure Term Plan,12,Marketing Diploma,Female,4,Senior Manager,2,Divorced,26377,5,1,17,17,3,1
+13836,9922868859,0,37,Yearly,Traditional,6,CA,Male,4,Manager,5,Divorced,22833,2,1,18,7,1,1
+13838,9940061001,0,49,Yearly,Pure Term Plan,16,Statistics,Female,5,Manager,2,Single,21171,6,0,23,14,3,0
+13839,9899808454,0,60,Yearly,Traditional,14,Statistics,Male,4,VP,2,Divorced,35740,4,0,20,26,11,2
+13840,9871666301,0,55,Yearly,Traditional,4,CA,Male,3,VP,3,Divorced,34711,3,0,19,24,12,1
+13842,9871784234,0,39,Yearly,Traditional,25,Engineer,Male,2,Executive,4,Single,18559,6,0,17,8,12,2
+13849,9903273839,0,52,Yearly,Pure Term Plan,21,Marketing Diploma,Male,5,Senior Manager,3,Married,24380,1,1,20,11,10,2
+13851,9932758614,0,42,Yearly,Traditional,16,Statistics,Male,3,Executive,3,Divorced,17223,2,0,28,2,15,2
+13852,9941350101,1,40,Monthly,Pure Term Plan,2,Statistics,Male,2,Executive,2,Single,17118,2,1,20,2,7,2
+13853,9879502671,0,51,Yearly,Traditional,14,Statistics,Male,3,Executive,2,Single,18875,2,1,26,9,9,0
+13855,9939821072,0,41,Quarterly,Traditional,10,CA,Male,5,AVP,4,Married,29577,2,1,21,35,4,1
+13856,9921182847,1,35,Monthly,Traditional,10,Statistics,Female,1,Executive,3,Single,18625,2,0,26,3,13,5
+13859,9883385863,0,46,Monthly,Pure Term Plan,25,Statistics,Male,4,VP,4,Married,35847,5,1,30,32,14,2
+13863,9857047136,0,57,Yearly,Traditional,23,Statistics,Male,4,VP,5,Married,35190,2,0,20,27,13,2
+13870,9919396346,0,44,Monthly,Traditional,23,Statistics,Male,3,Executive,2,Divorced,19867,2,1,18,3,15,0
+13872,9940999913,0,51,Quarterly,Traditional,7,CA,Female,3,Manager,3,Single,20695,8,1,24,11,8,1
+13875,9917083218,0,44,Yearly,Traditional,5,CA,Female,4,Executive,4,Single,18096,2,0,24,3,11,1
+13876,9901063749,0,58,Yearly,Pure Term Plan,17,CA,Male,3,Manager,2,Divorced,22209,2,0,21,11,10,2
+13877,9868217882,0,40,Monthly,Traditional,9,CA,Female,5,VP,4,Single,34061,4,0,28,23,13,1
+13879,9910047239,0,38,Yearly,Traditional,24,Statistics,Male,5,Executive,3,Married,18372,2,0,18,3,9,1
+13881,9872395726,1,36,Yearly,Traditional,9,CA,Male,4,Executive,5,Single,19904,1,0,19,7,13,3
+13885,9918470396,0,55,Quarterly,Traditional,18,Statistics,Female,4,Manager,2,Divorced,22674,1,0,17,11,15,1
+13887,9932967850,1,30,Yearly,Pure Term Plan,8,Marketing Diploma,Male,3,Senior Manager,4,Single,25094,3,1,18,10,15,2
+13888,9859697341,1,32,Yearly,Pure Term Plan,1,Statistics,Male,4,Senior Manager,4,Single,24446,10,1,25,11,5,8
+13894,9950369216,1,24,Yearly,Traditional,4,Statistics,Male,2,Executive,5,Divorced,18362,5,0,18,11,8,2
+13899,9894901940,0,56,Yearly,Traditional,6,Statistics,Male,5,Senior Manager,2,Married,24500,1,0,17,11,7,2
+13901,9915814661,0,60,Monthly,Pure Term Plan,12,Marketing Diploma,Female,5,Manager,5,Married,20103,1,0,23,11,12,0
+13902,9867409587,0,50,Monthly,Traditional,24,Statistics,Male,4,Manager,3,Single,20249,2,1,17,10,2,2
+13903,9929889505,0,42,Yearly,Market Link,17,Statistics,Male,5,AVP,4,Married,30026,2,1,17,34,12,0
+13904,9916134861,0,45,Yearly,Pure Term Plan,3,Statistics,Female,4,Manager,5,Married,22893,4,0,21,12,8,1
+13907,9949218464,1,35,Yearly,Traditional,8,CA,Female,2,Senior Manager,5,Divorced,26008,8,1,20,32,4,6
+13912,9886920446,0,41,Yearly,Traditional,18,Engineer,Female,5,AVP,4,Single,29142,4,0,22,30,9,1
+13925,9931330564,0,43,Yearly,Pure Term Plan,12,Statistics,Male,4,Manager,5,Divorced,20724,2,0,17,6,12,2
+13928,9869587561,0,37,Monthly,Pure Term Plan,9,Marketing Diploma,Male,5,Senior Manager,4,Divorced,26596,3,0,17,15,3,1
+13933,9932652255,0,59,Quarterly,Traditional,18,Statistics,Male,3,Senior Manager,3,Divorced,26920,4,0,27,14,5,2
+13936,9883497494,0,52,Yearly,Traditional,7,CA,Female,2,Manager,3,Single,20081,2,1,20,21,12,1
+13938,9910399760,1,27,Yearly,Traditional,8,Statistics,Female,4,Executive,3,Single,18394,2,1,19,9,12,7
+13941,9916929515,0,56,Yearly,Traditional,21,Other,Female,3,Executive,5,Divorced,18950,10,0,19,13,2,0
+13944,9872294921,0,53,Yearly,Traditional,16,Engineer,Male,3,Executive,2,Divorced,19229,5,0,17,8,11,1
+13947,9945265618,1,23,Monthly,Traditional,8,Statistics,Male,4,Manager,5,Single,20284,4,0,26,21,9,5
+13954,9926101078,0,41,Yearly,Pure Term Plan,24,Marketing Diploma,Female,2,Manager,5,Married,20779,8,0,20,9,15,0
+13956,9860159033,0,51,Monthly,Traditional,15,Other,Male,4,Executive,5,Married,18996,6,0,20,11,5,2
+13957,9934671363,1,24,Yearly,Traditional,1,Statistics,Female,3,Executive,4,Single,17261,2,0,18,2,15,8
+13964,9920528730,0,45,Yearly,Traditional,17,Statistics,Female,3,Executive,5,Divorced,18066,3,0,28,6,13,0
+13968,9883297389,0,56,Yearly,Traditional,17,Statistics,Female,3,Executive,4,Divorced,19294,6,0,23,8,4,2
+13974,9939258908,1,21,Monthly,Traditional,10,Statistics,Female,1,Senior Manager,4,Single,23446,2,0,17,11,3,9
+13981,9885796040,0,34,Quarterly,Traditional,23,CA,Male,4,Senior Manager,4,Married,29757,3,0,17,17,8,1
+13982,9861192229,0,57,Yearly,Pure Term Plan,16,CA,Male,5,Manager,5,Single,24463,1,0,24,7,10,2
+13985,9883776933,0,48,Yearly,Traditional,8,Engineer,Male,5,Manager,3,Divorced,22651,3,0,20,21,10,1
+13990,9907698144,0,46,Yearly,Pure Term Plan,9,Statistics,Male,2,Manager,3,Divorced,21301,9,0,21,5,2,0
+13993,9938442984,0,51,Quarterly,Traditional,8,Engineer,Male,5,Executive,3,Married,17274,2,0,19,2,7,1
+13994,9895991115,0,48,Yearly,Traditional,7,Statistics,Male,3,Manager,3,Divorced,20900,1,0,30,14,11,1
+13995,9954699918,0,38,Yearly,Traditional,9,Statistics,Male,2,Senior Manager,4,Married,26466,4,0,20,30,7,1
+13996,9871251393,0,60,Monthly,Traditional,3,CA,Male,4,AVP,5,Married,33007,8,0,20,17,6,2
+13998,9870762449,1,37,Monthly,Pure Term Plan,7,Engineer,Female,4,Manager,4,Single,21765,6,0,17,8,4,2
+14000,9873479534,0,52,Yearly,Pure Term Plan,19,Statistics,Male,5,Executive,3,Divorced,18404,2,0,19,2,9,1
+14003,9862446924,0,30,Monthly,Traditional,19,CA,Male,2,Senior Manager,3,Single,26209,6,1,24,17,12,2
+14004,9944140186,0,30,Yearly,Pure Term Plan,11,Statistics,Male,2,Manager,3,Married,24620,2,0,20,11,14,0
+14006,9896307730,0,40,Yearly,Traditional,3,Statistics,Male,4,Manager,3,Divorced,20035,1,1,22,5,4,0
+14008,9860904376,0,59,Yearly,Pure Term Plan,18,CA,Female,4,Manager,3,Divorced,20591,4,1,23,12,2,2
+14012,9943202036,0,34,Yearly,Traditional,8,CA,Female,3,Manager,5,Divorced,20789,5,0,31,11,14,0
+14014,9893632177,0,51,Yearly,Traditional,24,Statistics,Male,3,Manager,4,Divorced,22549,2,0,20,9,11,1
+14018,9952581357,1,24,Yearly,Traditional,10,Engineer,Male,2,Executive,5,Single,18362,7,0,19,12,12,9
+14020,9947416828,0,51,Yearly,Traditional,11,Statistics,Female,2,Senior Manager,4,Single,24376,5,0,24,10,9,1
+14021,9892861628,0,33,Yearly,Pure Term Plan,6,Statistics,Female,2,AVP,4,Divorced,32606,9,0,18,24,1,1
+14023,9890669166,0,60,Yearly,Traditional,22,Statistics,Male,5,Manager,3,Single,18272,1,0,20,6,12,0
+14026,9893633615,1,39,Monthly,Traditional,3,Statistics,Female,4,Executive,3,Single,20084,2,0,18,8,5,4
+14039,9888841731,0,32,Quarterly,Traditional,3,Statistics,Male,5,Manager,1,Married,20069,4,1,24,9,1,2
+14046,9914998266,0,32,Yearly,Pure Term Plan,12,Statistics,Male,4,Manager,5,Married,22392,3,0,19,9,3,2
+14048,9928817841,0,38,Monthly,Market Link,12,MBA,Male,4,Manager,3,Married,22077,4,0,17,11,15,1
+14049,9864112039,0,55,Yearly,Traditional,7,CA,Male,5,Executive,5,Single,18450,2,0,25,4,15,0
+14057,9906210641,0,50,Yearly,Pure Term Plan,14,Marketing Diploma,Male,2,VP,1,Married,35586,2,0,27,37,2,1
+14058,9900626961,0,45,Yearly,Traditional,21,Statistics,Male,5,Manager,1,Married,21484,10,0,23,10,6,1
+14060,9880401509,0,44,Yearly,Pure Term Plan,17,Statistics,Male,4,Manager,4,Married,25924,1,0,17,11,1,0
+14061,9903689337,0,52,Yearly,Pure Term Plan,25,Statistics,Female,4,Manager,4,Single,20198,3,0,18,9,5,0
+14062,9940945355,0,51,Yearly,Pure Term Plan,24,Statistics,Female,2,Manager,3,Single,22815,7,0,19,16,5,0
+14063,9904016648,0,36,Yearly,Traditional,10,CA,Male,5,Executive,5,Single,20723,2,1,24,11,8,1
+14065,9909736066,0,56,Yearly,Pure Term Plan,18,CA,Male,2,Senior Manager,3,Married,24237,3,0,17,12,8,2
+14066,9926321273,0,35,Monthly,Traditional,7,Statistics,Male,2,Manager,1,Married,24853,2,0,25,7,15,0
+14067,9871238710,0,43,Yearly,Pure Term Plan,22,Marketing Diploma,Male,3,VP,3,Married,35331,5,1,22,28,15,0
+14073,9889992804,0,31,Yearly,Pure Term Plan,4,Statistics,Female,3,Manager,5,Married,20639,2,0,21,6,9,0
+14081,9907221255,0,35,Yearly,Traditional,10,CA,Female,2,VP,1,Married,35049,1,1,20,24,4,0
+14082,9950098753,0,50,Yearly,Traditional,5,CA,Male,5,Executive,4,Married,18141,2,0,18,7,9,2
+14084,9931168585,0,54,Quarterly,Pure Term Plan,5,Marketing Diploma,Male,3,Manager,5,Married,20385,2,0,21,11,6,0
+14085,9952501923,0,32,Monthly,Pure Term Plan,17,Other,Male,4,Manager,5,Single,21332,8,0,19,11,8,2
+14089,9920575379,0,36,Yearly,Traditional,4,CA,Male,2,Manager,5,Married,21377,3,0,19,11,8,1
+14093,9954286541,0,54,Yearly,Traditional,22,CA,Male,2,Executive,1,Single,19117,2,0,24,4,13,1
+14094,9858358671,1,28,Monthly,Pure Term Plan,2,CA,Female,1,Executive,1,Single,17569,2,1,18,1,15,8
+14095,9953068540,0,58,Yearly,Market Link,23,Statistics,Female,5,VP,3,Married,35658,4,0,17,28,1,2
+14098,9880473364,0,48,Quarterly,Traditional,6,Statistics,Female,5,Manager,3,Married,20148,2,0,18,16,7,1
+14099,9874525911,0,48,Yearly,Traditional,15,Statistics,Male,5,Manager,3,Married,21768,4,0,23,10,7,1
+14101,9867674054,0,47,Yearly,Traditional,24,Other,Female,3,Manager,1,Married,21770,2,0,25,11,7,0
+14102,9926756382,0,55,Yearly,Traditional,8,CA,Female,5,Senior Manager,3,Married,23756,4,1,25,11,6,2
+14103,9873690135,1,24,Yearly,Pure Term Plan,6,CA,Male,3,Senior Manager,5,Married,26306,10,0,23,16,1,9
+14106,9919845884,0,37,Monthly,Market Link,25,MBA,Male,5,Manager,1,Married,21743,5,1,17,15,6,0
+14109,9861723446,0,60,Monthly,Traditional,25,Engineer,Female,5,Executive,1,Single,19760,2,1,19,7,12,1
+14110,9903913617,0,43,Yearly,Traditional,3,CA,Female,5,Executive,3,Married,19517,8,0,23,6,14,0
+14111,9923719206,0,50,Monthly,Traditional,6,CA,Male,3,Executive,1,Single,18580,3,0,19,7,14,2
+14112,9954702366,1,31,Yearly,Traditional,10,Statistics,Male,1,Executive,5,Single,18166,4,1,20,11,7,8
+14116,9953166062,0,31,Yearly,Traditional,5,CA,Male,2,Manager,4,Married,21295,5,0,27,8,12,1
+14117,9936860527,0,43,Yearly,Traditional,20,Other,Female,5,AVP,4,Married,32413,4,0,22,28,15,1
+14121,9863709462,0,39,Yearly,Traditional,22,Statistics,Male,3,Executive,4,Single,18013,3,0,17,16,9,2
+14124,9865652401,0,49,Yearly,Traditional,18,Statistics,Male,2,Manager,5,Married,22842,7,0,26,14,6,2
+14127,9926998848,1,35,Monthly,Pure Term Plan,6,Other,Male,4,Manager,1,Single,20581,4,1,30,14,12,5
+14128,9874269614,0,40,Monthly,Traditional,23,Statistics,Male,3,Manager,1,Married,20735,8,0,21,20,2,2
+14133,9919146925,0,51,Yearly,Traditional,3,CA,Female,5,Executive,5,Married,18587,5,1,22,18,9,2
+14136,9936074573,0,56,Yearly,Traditional,10,Statistics,Male,5,AVP,3,Single,31379,5,0,20,24,3,1
+14138,9938125033,0,56,Yearly,Pure Term Plan,21,Statistics,Male,4,Executive,5,Single,18728,2,0,17,3,5,1
+14141,9918516671,0,50,Yearly,Market Link,22,Statistics,Female,5,Executive,1,Married,19195,5,1,24,9,11,0
+14142,9924099267,1,37,Yearly,Traditional,3,CA,Male,1,Executive,3,Single,19989,2,1,17,6,15,10
+14144,9917096838,0,36,Yearly,Traditional,22,CA,Male,5,Senior Manager,1,Married,23005,4,0,21,12,14,2
+14147,9887273258,0,56,Quarterly,Traditional,6,CA,Male,5,Executive,1,Single,18570,2,0,26,8,5,1
+14149,9900077598,0,40,Yearly,Traditional,16,CA,Male,2,Manager,1,Married,19986,2,0,20,16,2,1
+14153,9914412946,0,49,Yearly,Traditional,21,Statistics,Female,3,Executive,1,Married,18929,2,0,18,11,9,0
+14161,9950298162,0,39,Yearly,Pure Term Plan,18,Statistics,Female,3,Manager,1,Single,20502,4,0,21,18,5,2
+14164,9926012341,1,29,Monthly,Pure Term Plan,7,Statistics,Male,1,AVP,3,Married,28936,8,0,17,26,2,3
+14165,9894250507,0,54,Yearly,Traditional,23,CA,Male,3,Executive,3,Married,18305,2,0,21,4,9,2
+14166,9875107448,0,37,Yearly,Traditional,3,Engineer,Female,4,AVP,4,Single,32704,2,0,17,22,4,2
+14168,9927535524,0,59,Yearly,Traditional,7,Statistics,Male,3,Executive,3,Married,19477,2,0,20,7,15,0
+14171,9926572440,0,31,Yearly,Traditional,21,CA,Male,5,Executive,5,Married,19907,2,0,19,7,6,1
+14172,9918095232,0,52,Yearly,Traditional,21,Statistics,Male,2,Manager,4,Single,21562,7,0,20,20,13,0
+14173,9932072624,0,43,Yearly,Traditional,16,Statistics,Male,5,Manager,3,Married,22883,3,0,22,18,2,1
+14175,9954850536,0,54,Quarterly,Pure Term Plan,18,Marketing Diploma,Male,5,Manager,4,Married,20978,8,0,17,5,10,1
+14177,9929488928,1,23,Yearly,Pure Term Plan,2,Marketing Diploma,Male,1,Manager,5,Married,22134,6,1,19,17,10,6
+14186,9904091050,0,48,Monthly,Market Link,19,CA,Male,4,Executive,1,Married,18145,1,0,20,4,6,1
+14191,9884317230,0,58,Monthly,Traditional,13,Statistics,Male,5,Manager,3,Single,22294,9,1,18,11,15,2
+14195,9916690155,0,32,Yearly,Pure Term Plan,10,Marketing Diploma,Female,2,Manager,1,Single,20507,4,0,18,9,2,2
+14201,9873948812,0,53,Quarterly,Traditional,25,Engineer,Male,2,Executive,4,Single,18718,3,0,20,13,2,1
+14202,9935169252,0,57,Yearly,Traditional,11,CA,Male,4,Manager,1,Married,21811,4,1,22,16,15,2
+14204,9903358820,0,45,Yearly,Traditional,3,CA,Male,5,Executive,4,Married,18766,9,0,28,8,10,1
+14208,9900870430,0,33,Quarterly,Pure Term Plan,21,Statistics,Male,3,Manager,3,Married,20001,2,1,20,16,12,1
+14209,9895657628,0,54,Quarterly,Traditional,21,CA,Female,2,AVP,3,Married,28965,5,1,26,28,6,0
+14216,9859750152,0,32,Yearly,Traditional,18,Engineer,Female,5,Senior Manager,3,Married,29116,3,0,17,16,1,1
+14217,9955087311,0,38,Yearly,Pure Term Plan,14,Marketing Diploma,Male,2,Manager,4,Married,20189,2,0,20,6,4,2
+14219,9920277519,0,45,Yearly,Traditional,14,Statistics,Male,5,Senior Manager,5,Married,24321,8,1,19,16,12,1
+14221,9934658362,0,34,Yearly,Market Link,13,Other,Male,4,Manager,4,Married,20071,3,0,19,20,3,0
+14223,9932138923,0,41,Yearly,Traditional,17,Statistics,Male,5,Executive,5,Married,19143,7,0,25,15,12,2
+14226,9891956533,0,34,Quarterly,Pure Term Plan,7,Statistics,Male,3,Manager,4,Single,23991,9,0,21,7,10,0
+14229,9861336322,0,43,Quarterly,Traditional,15,CA,Male,3,Manager,1,Married,21762,3,0,20,16,4,1
+14230,9932167828,0,41,Quarterly,Market Link,23,MBA,Male,4,Executive,4,Married,18592,6,0,19,14,13,0
+14234,9913836725,0,59,Quarterly,Traditional,8,Statistics,Male,3,Executive,3,Single,18438,5,0,19,8,1,2
+14235,9952438982,0,31,Yearly,Traditional,22,Statistics,Male,4,Manager,4,Single,22870,4,0,18,12,12,1
+14237,9891453168,0,34,Yearly,Traditional,12,CA,Female,4,Senior Manager,3,Single,25667,10,0,20,10,13,1
+14241,9876902139,0,39,Yearly,Pure Term Plan,23,Engineer,Male,4,Manager,3,Married,22799,2,0,27,11,3,2
+14243,9899170025,0,46,Yearly,Traditional,17,CA,Male,5,Executive,3,Married,18705,1,0,22,7,3,1
+14246,9878168137,0,48,Yearly,Traditional,17,CA,Female,4,Manager,1,Married,22854,5,0,21,15,7,1
+14247,9923909568,0,32,Monthly,Pure Term Plan,11,Marketing Diploma,Female,4,Senior Manager,5,Married,25637,3,0,20,10,14,0
+14252,9922108533,0,53,Quarterly,Traditional,17,CA,Female,5,Executive,3,Single,17514,2,0,22,1,6,1
+14254,9952515181,1,25,Yearly,Market Link,7,MBA,Male,2,Executive,5,Married,18335,5,1,21,5,8,3
+14255,9883716505,0,34,Quarterly,Pure Term Plan,14,Statistics,Female,3,Manager,3,Married,21154,5,0,28,11,1,0
+14256,9885154553,0,30,Yearly,Traditional,11,Other,Female,2,Manager,4,Married,22962,5,1,28,16,10,2
+14266,9880994748,0,53,Yearly,Traditional,16,Statistics,Male,3,Executive,3,Single,19968,5,0,19,9,6,2
+14273,9916287235,1,37,Monthly,Traditional,4,Statistics,Male,1,Executive,1,Single,18439,2,1,30,2,15,4
+14274,9883741306,1,38,Yearly,Pure Term Plan,8,Statistics,Female,2,Senior Manager,4,Married,23314,6,0,27,15,11,4
+14277,9946695430,0,44,Yearly,Traditional,10,Engineer,Male,4,Executive,1,Married,18662,9,0,26,20,9,1
+14279,9936684915,1,38,Yearly,Pure Term Plan,2,CA,Male,1,Executive,1,Single,17081,2,0,19,2,4,6
+14282,9914375938,0,39,Yearly,Traditional,25,Statistics,Male,3,Manager,3,Married,20197,2,0,17,11,4,2
+14283,9894358668,0,30,Yearly,Pure Term Plan,5,Statistics,Male,3,Senior Manager,1,Married,25713,3,1,19,10,3,0
+14287,9916287687,0,57,Yearly,Traditional,15,Statistics,Female,3,Manager,1,Married,21906,1,0,19,11,6,0
+14290,9937095115,0,56,Yearly,Traditional,8,Statistics,Female,2,Executive,3,Married,18933,2,1,19,2,10,0
+14295,9948455792,1,35,Yearly,Traditional,7,Statistics,Male,3,Executive,1,Single,18587,2,0,22,6,8,4
+14297,9948166311,0,42,Yearly,Pure Term Plan,23,Marketing Diploma,Female,2,Manager,4,Married,20393,6,0,27,15,1,0
+14303,9947106017,0,53,Monthly,Traditional,6,CA,Male,5,Manager,3,Single,21399,5,0,18,13,6,1
+14304,9903858106,0,56,Yearly,Pure Term Plan,24,Marketing Diploma,Male,5,Manager,3,Single,21487,2,0,20,11,11,1
+14307,9878753081,0,42,Quarterly,Pure Term Plan,6,Statistics,Female,5,Manager,3,Married,21736,7,0,25,11,12,0
+14315,9893265795,0,32,Yearly,Pure Term Plan,9,Statistics,Female,3,AVP,1,Married,33875,5,1,19,30,8,1
+14322,9911417940,0,46,Quarterly,Traditional,18,CA,Male,2,Executive,3,Single,18144,2,0,20,6,2,1
+14324,9895803102,0,55,Quarterly,Traditional,21,Statistics,Male,4,Executive,4,Married,18810,2,0,28,6,11,1
+14343,9917261877,0,41,Yearly,Traditional,11,CA,Female,2,Executive,1,Married,17129,2,1,17,2,14,2
+14349,9930909270,0,31,Yearly,Traditional,23,Other,Male,4,Executive,1,Single,18647,2,0,19,6,10,1
+14350,9882321943,0,46,Monthly,Traditional,11,Engineer,Female,4,Manager,3,Married,22323,2,0,17,11,1,2
+14353,9892764889,0,39,Yearly,Traditional,13,CA,Male,4,Executive,4,Married,19748,2,0,19,13,11,1
+14356,9915843949,0,57,Quarterly,Traditional,13,CA,Male,5,Executive,3,Married,18008,2,0,18,2,11,0
+14357,9935852242,0,49,Yearly,Pure Term Plan,9,Statistics,Male,3,Manager,4,Married,20440,1,0,21,17,4,1
+14364,9942726184,0,34,Yearly,Traditional,22,Statistics,Male,4,Executive,3,Single,19375,1,0,18,5,14,1
+14365,9909250951,0,47,Yearly,Traditional,15,CA,Male,5,Manager,3,Single,21098,2,0,25,11,6,1
+14366,9866961220,0,59,Yearly,Traditional,11,CA,Female,3,Manager,1,Married,20878,1,1,19,11,1,0
+14373,9883688298,0,38,Yearly,Traditional,9,Statistics,Female,2,Senior Manager,1,Married,29744,2,1,31,17,4,0
+14377,9863099732,0,38,Yearly,Pure Term Plan,20,CA,Male,3,Executive,5,Single,18380,2,1,17,3,13,1
+14378,9931808216,0,41,Quarterly,Traditional,12,Statistics,Male,4,VP,1,Single,35431,3,0,19,22,4,0
+14383,9927509344,1,23,Yearly,Traditional,4,CA,Male,4,Executive,1,Married,20787,10,1,20,5,15,2
+14386,9904292674,0,33,Yearly,Traditional,16,Statistics,Female,2,AVP,4,Married,29570,1,0,29,22,6,2
+14388,9875894632,0,34,Quarterly,Pure Term Plan,24,Marketing Diploma,Male,2,Manager,1,Married,21406,2,0,30,16,13,0
+14392,9866536692,0,51,Yearly,Pure Term Plan,24,Statistics,Female,5,Manager,1,Married,21343,2,0,17,11,15,2
+14400,9863619544,0,46,Yearly,Traditional,24,Other,Male,2,Manager,4,Married,20025,5,1,19,11,8,1
+14412,9915277631,0,36,Monthly,Traditional,17,Statistics,Male,2,Manager,4,Married,21130,2,0,29,11,13,0
+14416,9920169237,0,55,Monthly,Traditional,23,Statistics,Male,3,Executive,1,Single,19068,1,0,19,9,2,0
+14418,9941287651,0,33,Yearly,Traditional,4,Statistics,Male,3,Executive,3,Married,18693,2,0,28,2,6,0
+14419,9910058467,0,47,Monthly,Traditional,10,Statistics,Male,5,Senior Manager,3,Single,25526,1,0,27,11,13,0
+14422,9881000580,0,31,Yearly,Traditional,22,Statistics,Female,2,Manager,3,Single,20193,1,1,18,11,4,2
+14423,9895809487,0,54,Yearly,Traditional,24,Statistics,Male,2,Executive,3,Married,18911,2,0,23,6,2,0
+14424,9863106449,0,56,Yearly,Traditional,22,CA,Male,2,Executive,1,Married,18661,1,0,17,4,9,0
+14426,9921589694,0,45,Yearly,Traditional,12,Statistics,Female,2,Senior Manager,5,Married,25980,2,0,17,11,1,2
+14427,9924462877,0,50,Yearly,Traditional,20,Statistics,Male,4,Executive,4,Married,19298,1,1,18,8,13,2
+14430,9889545028,0,52,Yearly,Traditional,7,Statistics,Male,2,Executive,1,Single,19944,6,1,17,7,9,1
+14436,9950046634,0,30,Yearly,Traditional,19,Other,Female,2,VP,3,Married,35094,5,0,17,27,9,1
+14437,9861924728,1,32,Monthly,Traditional,9,Statistics,Female,1,Executive,5,Single,19919,2,1,28,11,14,4
+14440,9867590709,0,60,Yearly,Pure Term Plan,11,Marketing Diploma,Female,3,VP,5,Single,34947,4,0,18,23,9,0
+14442,9875942704,0,30,Yearly,Traditional,11,Other,Male,3,Manager,1,Married,22465,3,1,19,10,4,2
+14443,9872242285,0,60,Yearly,Traditional,15,CA,Male,2,Executive,3,Single,18206,2,0,19,11,9,1
+14446,9895303361,0,31,Yearly,Traditional,13,CA,Female,3,Executive,3,Married,18645,2,0,18,7,9,0
+14453,9887781746,1,34,Yearly,Traditional,4,Statistics,Male,4,Executive,3,Single,18293,2,0,18,2,2,3
+14455,9880475680,0,60,Monthly,Traditional,22,CA,Female,3,Manager,1,Single,20011,2,0,29,13,10,0
+14458,9884148668,0,47,Yearly,Traditional,3,Statistics,Male,3,Executive,4,Married,19022,5,0,27,9,9,0
+14461,9928359813,1,25,Yearly,Traditional,10,Statistics,Male,3,Senior Manager,3,Single,21381,10,1,19,24,2,3
+14462,9890811187,1,24,Yearly,Traditional,1,Engineer,Male,1,Executive,3,Single,19441,2,1,19,3,9,5
+14468,9865916730,0,46,Yearly,Traditional,11,CA,Female,3,Executive,5,Married,20014,4,1,21,5,8,2
+14472,9892760262,0,58,Monthly,Traditional,16,Statistics,Female,4,Manager,1,Single,18406,2,0,17,11,13,0
+14473,9950008752,0,36,Yearly,Traditional,16,CA,Female,3,VP,3,Married,34740,6,1,18,30,10,2
+14475,9941133162,0,30,Yearly,Traditional,4,Engineer,Female,4,Senior Manager,3,Married,26096,2,0,19,18,6,2
+14478,9923634649,0,46,Yearly,Traditional,11,Statistics,Male,2,Senior Manager,5,Married,25724,3,0,23,26,9,0
+14484,9881426822,0,39,Yearly,Traditional,9,Statistics,Male,3,Manager,4,Married,22220,2,0,23,11,14,0
+14488,9897336664,0,39,Yearly,Traditional,7,Other,Male,5,Senior Manager,5,Married,29245,5,1,20,18,2,0
+14489,9893568497,0,57,Yearly,Traditional,11,CA,Male,4,Senior Manager,3,Single,29664,5,0,19,17,14,0
+14492,9901844067,0,38,Yearly,Traditional,11,CA,Male,2,Executive,3,Single,18859,2,0,24,7,7,1
+14495,9952483082,0,40,Yearly,Traditional,20,CA,Male,5,Manager,4,Married,20325,2,0,21,6,6,0
+14497,9886952468,0,38,Yearly,Pure Term Plan,16,Engineer,Male,5,Executive,5,Married,18322,4,0,19,4,6,2
+14498,9925984367,0,30,Yearly,Traditional,18,Statistics,Male,3,Executive,1,Married,18075,4,0,29,11,9,0
+14500,9867261521,1,38,Yearly,Pure Term Plan,5,CA,Male,3,Senior Manager,1,Single,25619,2,0,22,10,2,4
+14505,9941235780,0,45,Yearly,Pure Term Plan,4,CA,Male,2,Manager,3,Single,21010,2,0,22,13,9,0
+14506,9866874064,0,42,Yearly,Traditional,7,Engineer,Female,2,Senior Manager,3,Married,29549,10,0,18,17,13,0
+14507,9899857588,0,48,Yearly,Pure Term Plan,7,Other,Female,5,Manager,3,Married,20999,1,0,27,5,6,0
+14508,9917888710,0,33,Quarterly,Pure Term Plan,25,CA,Male,3,Manager,3,Married,20221,2,0,21,6,8,2
+14510,9869611507,0,53,Quarterly,Traditional,4,CA,Male,5,Manager,4,Married,18042,5,0,18,18,15,1
+14512,9940773024,0,51,Yearly,Traditional,12,Statistics,Male,2,Executive,5,Single,18956,2,0,19,2,12,0
+14513,9902587708,1,38,Monthly,Traditional,2,Statistics,Female,2,Executive,1,Single,18926,2,1,24,2,14,4
+14514,9866870066,0,58,Yearly,Traditional,3,Other,Female,4,Manager,3,Single,20809,2,0,20,17,15,1
+14518,9887993728,1,24,Yearly,Pure Term Plan,9,Marketing Diploma,Male,3,Manager,3,Single,21744,2,1,17,7,3,5
+14521,9953765675,0,53,Monthly,Traditional,16,CA,Female,2,Senior Manager,5,Single,23484,4,0,26,24,14,0
+14524,9952180503,0,56,Yearly,Traditional,8,Statistics,Male,4,Executive,3,Married,18774,1,0,18,7,6,0
+14526,9899018050,0,46,Yearly,Pure Term Plan,10,Statistics,Male,3,Senior Manager,1,Single,23428,3,0,18,13,15,0
+14527,9936179164,0,47,Yearly,Traditional,18,CA,Female,4,Senior Manager,5,Single,27631,3,0,18,15,9,1
+14530,9927643676,0,32,Monthly,Pure Term Plan,7,Statistics,Male,5,AVP,1,Married,32959,2,1,18,26,3,2
+14531,9881680228,0,38,Monthly,Traditional,12,Statistics,Male,5,Executive,3,Married,18613,2,0,31,11,11,1
+14532,9902159210,0,49,Quarterly,Pure Term Plan,8,Marketing Diploma,Male,5,Manager,4,Married,22146,1,0,19,9,6,0
+14539,9943208094,0,43,Yearly,Traditional,5,Engineer,Male,2,Executive,1,Married,18523,1,0,20,4,5,1
+14545,9889689288,0,46,Yearly,Market Link,19,Statistics,Female,5,Executive,3,Married,18942,2,0,29,9,14,1
+14546,9918748017,0,36,Yearly,Traditional,3,CA,Male,2,Manager,4,Married,20941,7,0,26,8,10,1
+14548,9932300896,0,57,Yearly,Pure Term Plan,10,Statistics,Female,3,Manager,3,Married,21902,5,0,20,18,9,2
+14549,9864137492,0,44,Yearly,Pure Term Plan,25,Statistics,Male,3,Manager,3,Married,24639,3,0,24,7,3,2
+14550,9895975511,0,60,Yearly,Market Link,13,MBA,Male,4,Manager,1,Married,22347,1,1,25,13,15,1
+14551,9890015551,1,38,Yearly,Traditional,6,CA,Female,4,Executive,5,Single,20200,8,0,28,11,10,6
+14554,9857681864,0,41,Yearly,Traditional,12,Statistics,Female,2,Executive,3,Single,18632,2,0,20,6,2,1
+14557,9913730351,0,42,Yearly,Traditional,7,CA,Male,5,Executive,1,Single,18720,1,0,19,7,9,0
+14559,9878795562,0,45,Yearly,Traditional,17,Statistics,Male,3,Executive,5,Married,18238,3,0,27,8,1,1
+14568,9951001202,0,40,Yearly,Traditional,9,CA,Female,4,Executive,4,Married,19346,5,1,26,10,10,2
+14571,9929839856,0,33,Yearly,Traditional,4,CA,Male,4,Executive,1,Married,18323,2,0,30,3,15,1
+14572,9870419643,0,60,Quarterly,Traditional,7,CA,Male,3,Executive,4,Married,18024,7,0,24,7,11,0
+14575,9887447945,0,55,Quarterly,Traditional,25,CA,Male,4,Executive,3,Married,18566,2,1,21,2,12,0
+14581,9925044617,0,41,Yearly,Traditional,6,Engineer,Male,3,Executive,4,Married,19058,1,1,22,7,14,2
+14586,9879744608,0,39,Yearly,Traditional,5,Statistics,Female,5,Executive,5,Married,20257,5,1,24,20,4,0
+14587,9884483687,0,39,Yearly,Traditional,16,Statistics,Male,3,Executive,1,Single,18500,1,0,20,5,2,2
+14588,9909084917,1,32,Yearly,Traditional,8,Statistics,Male,4,Executive,1,Single,17102,2,0,28,2,6,4
+14589,9916676133,0,50,Yearly,Pure Term Plan,19,Marketing Diploma,Female,4,Senior Manager,5,Married,26453,2,0,31,25,2,0
+14596,9927710399,0,36,Yearly,Traditional,18,CA,Female,3,Executive,4,Married,18756,2,0,19,9,8,1
+14599,9902876575,0,39,Monthly,Traditional,8,Statistics,Male,2,Manager,3,Married,25547,2,0,23,11,3,1
+14601,9873610585,0,47,Yearly,Traditional,16,Statistics,Male,4,VP,3,Married,35999,1,0,20,35,1,1
+14605,9935931078,0,50,Quarterly,Traditional,9,CA,Male,4,AVP,1,Married,32792,10,0,29,23,12,0
+14609,9864771461,0,32,Yearly,Traditional,23,Statistics,Male,4,Manager,3,Married,22553,10,0,20,15,6,1
+14611,9954384066,0,60,Monthly,Traditional,18,Engineer,Male,4,Manager,5,Married,20298,6,0,25,7,13,1
+14613,9878205112,0,49,Monthly,Traditional,18,CA,Male,5,Executive,3,Married,19815,2,1,23,6,11,2
+14615,9917080494,1,28,Yearly,Traditional,6,CA,Male,3,Manager,5,Married,22673,8,1,25,18,5,9
+14620,9897084825,0,60,Yearly,Traditional,10,CA,Male,4,Senior Manager,5,Married,25396,8,0,22,18,15,2
+14622,9934648644,0,46,Quarterly,Traditional,21,Statistics,Male,4,Senior Manager,3,Single,24474,2,0,28,13,5,1
+14623,9920005032,0,48,Monthly,Pure Term Plan,14,Statistics,Female,2,Manager,3,Single,25981,2,0,20,8,1,2
+14624,9863293971,0,57,Yearly,Traditional,3,Statistics,Male,2,Senior Manager,4,Married,28490,6,0,22,17,14,2
+14625,9866325728,1,21,Yearly,Traditional,7,Engineer,Female,1,Executive,5,Single,18657,6,1,17,9,4,4
+14627,9951409876,1,35,Monthly,Pure Term Plan,8,Marketing Diploma,Female,1,Manager,5,Single,22696,6,0,21,10,2,8
+14630,9938695622,0,52,Yearly,Pure Term Plan,24,Marketing Diploma,Female,2,Manager,5,Married,21940,3,0,20,17,11,0
+14633,9871941423,0,41,Monthly,Traditional,6,Other,Male,2,Senior Manager,1,Married,28185,2,1,20,11,11,0
+14637,9860180133,0,33,Monthly,Pure Term Plan,5,Marketing Diploma,Male,4,Executive,1,Married,18793,5,0,23,14,8,0
+14644,9876110127,0,51,Yearly,Pure Term Plan,14,CA,Female,5,VP,1,Married,35517,4,0,17,33,7,1
+14649,9917715240,0,46,Yearly,Pure Term Plan,17,Statistics,Female,5,Executive,4,Married,19931,3,0,17,7,8,0
+14654,9922360810,0,38,Yearly,Traditional,18,Engineer,Male,2,Manager,1,Married,19319,2,0,23,10,8,0
+14655,9931496043,0,30,Yearly,Traditional,7,Other,Male,5,VP,1,Married,35202,1,0,17,26,12,2
+14657,9911321481,0,33,Yearly,Traditional,17,Statistics,Female,5,Executive,1,Married,18911,2,0,19,3,10,1
+14660,9885562926,0,57,Monthly,Traditional,8,Statistics,Male,2,Manager,3,Married,22434,5,0,23,10,10,2
+14661,9874124495,1,22,Monthly,Traditional,3,CA,Male,3,Senior Manager,3,Married,26048,7,0,17,18,6,2
+14662,9880369995,0,36,Monthly,Traditional,19,Engineer,Female,3,Senior Manager,3,Single,26938,1,0,31,21,13,0
+14664,9912234768,0,57,Yearly,Traditional,12,Statistics,Female,2,Manager,5,Single,22545,4,1,19,11,12,0
+14665,9870912424,0,45,Yearly,Pure Term Plan,7,Marketing Diploma,Male,4,Manager,1,Married,22931,3,0,20,11,3,1
+14668,9935528591,0,33,Yearly,Traditional,22,CA,Male,5,VP,3,Married,35436,1,0,25,23,5,2
+14673,9912161344,0,54,Yearly,Traditional,3,Engineer,Male,5,Manager,5,Single,18176,5,0,19,10,6,2
+14679,9916969341,0,40,Yearly,Traditional,13,CA,Male,3,AVP,1,Married,29496,1,1,20,22,11,1
+14682,9878895072,1,22,Quarterly,Traditional,3,Statistics,Male,3,Senior Manager,4,Married,27849,2,1,18,11,1,4
+14686,9953521789,0,38,Quarterly,Traditional,3,CA,Female,2,Senior Manager,1,Married,29603,3,1,24,16,15,1
+14687,9934630405,0,40,Yearly,Traditional,24,Statistics,Female,5,Senior Manager,4,Married,27996,8,0,24,11,10,1
+14690,9894143692,0,31,Yearly,Traditional,12,Statistics,Male,5,VP,4,Married,35144,4,0,20,29,13,0
+14694,9922609692,0,44,Yearly,Traditional,5,Engineer,Male,3,Manager,1,Married,21415,4,1,25,13,2,0
+14698,9887664940,0,46,Yearly,Traditional,21,Statistics,Male,2,Manager,1,Married,21745,10,0,20,11,3,0
+14700,9872882613,0,31,Yearly,Traditional,18,Statistics,Female,5,Executive,1,Single,19310,2,0,27,6,14,0
+14703,9873242110,0,53,Monthly,Pure Term Plan,4,Marketing Diploma,Female,2,Executive,4,Married,18789,2,0,17,3,13,0
+14705,9948952082,0,38,Monthly,Traditional,18,CA,Male,5,Executive,1,Married,18326,2,1,18,5,14,2
+14706,9876652404,0,43,Monthly,Pure Term Plan,6,Marketing Diploma,Female,5,AVP,4,Married,29525,6,0,20,24,8,0
+14707,9930232378,1,21,Yearly,Traditional,7,Statistics,Male,3,Executive,3,Single,17420,2,0,19,1,15,9
+14708,9880355640,0,41,Yearly,Pure Term Plan,9,Marketing Diploma,Male,4,Senior Manager,4,Married,24020,1,0,21,13,15,0
+14709,9934880315,0,43,Monthly,Traditional,23,Statistics,Male,3,Executive,1,Married,19688,5,0,24,5,7,2
+14712,9901257333,0,50,Yearly,Pure Term Plan,3,CA,Female,4,Executive,3,Single,17200,2,0,18,1,11,0
+14714,9928575823,0,49,Yearly,Pure Term Plan,18,Engineer,Male,5,Manager,1,Married,22929,5,0,17,11,14,1
+14717,9937567426,0,34,Yearly,Pure Term Plan,11,Statistics,Male,4,Manager,3,Married,21484,2,0,20,14,11,0
+14723,9939883988,0,48,Yearly,Traditional,25,Statistics,Male,5,Executive,1,Married,18695,1,1,24,4,3,2
+14725,9903864548,0,35,Yearly,Traditional,25,CA,Male,2,AVP,5,Married,33068,2,1,20,22,8,2
+14727,9923444082,0,33,Yearly,Traditional,9,Engineer,Female,4,AVP,3,Single,29964,8,1,18,26,5,0
+14730,9865836844,0,31,Yearly,Pure Term Plan,19,Engineer,Female,2,Manager,4,Married,21228,2,1,17,14,3,2
+14732,9920935995,0,42,Yearly,Pure Term Plan,25,Marketing Diploma,Male,5,Manager,1,Married,23547,5,0,18,14,10,2
+14739,9879503767,0,47,Monthly,Pure Term Plan,9,Marketing Diploma,Male,4,Manager,1,Single,20682,4,0,20,10,3,1
+14740,9941848205,0,47,Yearly,Traditional,22,Statistics,Male,2,VP,3,Married,34300,5,0,17,22,10,0
+14743,9861619920,0,45,Monthly,Traditional,10,Statistics,Female,5,Manager,3,Single,20869,4,0,18,21,4,1
+14744,9924341147,0,35,Yearly,Traditional,17,Statistics,Female,2,Senior Manager,5,Married,25985,9,0,22,11,14,2
+14745,9919481712,0,47,Yearly,Traditional,11,Other,Male,3,Manager,1,Married,19697,10,0,20,13,11,1
+14748,9877592708,0,38,Yearly,Traditional,19,Other,Male,5,Executive,1,Single,19983,1,0,23,5,5,1
+14752,9866294915,0,41,Yearly,Traditional,22,Statistics,Male,5,Senior Manager,1,Married,27510,1,1,20,13,15,1
+14754,9908073673,0,31,Yearly,Pure Term Plan,16,Marketing Diploma,Female,4,Manager,4,Married,24268,2,1,20,8,9,1
+14755,9953154705,0,33,Yearly,Traditional,6,Engineer,Male,2,Senior Manager,4,Single,24095,1,0,19,18,11,1
+14756,9944834738,0,53,Yearly,Traditional,20,Statistics,Male,5,Executive,1,Married,18904,2,0,18,5,6,0
+14761,9913581430,0,47,Yearly,Market Link,18,Engineer,Male,2,Executive,3,Married,18696,1,1,17,5,12,1
+14768,9944511017,1,30,Monthly,Pure Term Plan,10,Engineer,Female,1,Executive,4,Single,18174,2,1,17,4,13,10
+14772,9874284764,0,48,Yearly,Traditional,15,Statistics,Female,4,Executive,3,Married,18213,4,1,19,11,5,1
+14776,9891245418,0,50,Quarterly,Traditional,6,CA,Female,2,Manager,3,Married,21258,3,0,20,8,7,1
+14777,9896151848,1,36,Monthly,Pure Term Plan,1,Marketing Diploma,Male,4,Manager,4,Single,25355,2,0,24,9,10,10
+14781,9946254821,1,22,Yearly,Pure Term Plan,8,Statistics,Female,3,Executive,4,Single,18716,2,0,21,2,12,10
+14784,9941722427,0,38,Yearly,Traditional,19,CA,Male,3,Executive,4,Married,19816,2,0,17,6,10,0
+14788,9924450384,0,49,Yearly,Traditional,8,Statistics,Female,4,Executive,3,Married,18543,5,0,19,7,10,2
+14792,9952002989,0,60,Yearly,Pure Term Plan,24,Engineer,Male,2,Executive,4,Married,18476,2,0,24,2,7,2
+14798,9861033838,0,32,Yearly,Pure Term Plan,7,Marketing Diploma,Female,4,Manager,4,Married,21715,8,0,18,9,10,2
+14802,9905198251,0,45,Yearly,Traditional,25,CA,Female,4,Manager,3,Married,19448,7,0,28,21,3,0
+14804,9915670733,0,43,Quarterly,Pure Term Plan,20,Marketing Diploma,Female,5,Manager,3,Married,22538,10,0,21,7,7,2
+14807,9929888855,0,59,Yearly,Traditional,22,Other,Female,5,Manager,3,Married,20522,5,1,20,9,14,2
+14808,9869609694,0,56,Yearly,Pure Term Plan,5,Statistics,Female,5,Manager,1,Single,20487,2,1,17,6,9,2
+14809,9922846521,0,56,Quarterly,Traditional,4,CA,Female,5,Manager,3,Married,20449,4,1,21,16,7,0
+14810,9906816954,0,34,Yearly,Traditional,15,Statistics,Male,5,Executive,5,Married,18218,2,0,18,5,6,0
+14815,9909920413,0,36,Yearly,Traditional,5,CA,Male,3,Manager,5,Married,20558,2,0,18,11,15,1
+14822,9917451172,0,36,Yearly,Traditional,22,Statistics,Female,4,VP,5,Married,35566,6,0,17,34,10,1
+14829,9929452975,0,32,Yearly,Traditional,20,Statistics,Female,2,Executive,1,Married,18886,2,0,28,4,7,0
+14830,9945563783,0,49,Quarterly,Traditional,11,Statistics,Male,5,Executive,1,Married,18097,5,0,21,10,4,0
+14833,9887188832,1,33,Yearly,Market Link,7,Engineer,Male,2,Executive,1,Single,18564,2,0,18,2,3,6
+14835,9888217756,0,54,Yearly,Pure Term Plan,8,Marketing Diploma,Male,4,AVP,1,Married,30118,4,0,18,33,13,2
+14840,9868191109,0,30,Yearly,Traditional,10,Statistics,Male,3,AVP,3,Married,33861,7,0,19,27,15,2
+14841,9948136856,0,30,Yearly,Traditional,22,Statistics,Male,5,Executive,3,Single,20230,1,0,21,7,3,1
+14845,9874536218,0,55,Yearly,Traditional,16,Statistics,Male,3,Senior Manager,4,Married,26648,2,0,31,14,15,0
+14846,9915399751,1,35,Yearly,Traditional,9,CA,Male,3,Senior Manager,3,Married,29610,8,1,18,16,5,8
+14856,9915116506,0,45,Yearly,Pure Term Plan,24,Statistics,Female,4,AVP,4,Single,32835,4,0,29,38,6,0
+14865,9896873857,0,33,Yearly,Traditional,12,Engineer,Male,5,Manager,1,Married,20262,5,0,18,9,9,2
+14874,9857927009,1,21,Yearly,Traditional,10,Engineer,Male,3,Executive,1,Single,18340,2,1,24,2,1,3
+14875,9857019279,0,43,Yearly,Traditional,4,Engineer,Female,2,Senior Manager,1,Single,23491,5,0,23,13,5,1
+14876,9950856648,0,33,Monthly,Traditional,11,CA,Female,5,Senior Manager,3,Married,26527,6,0,17,29,15,0
+14877,9939405144,0,51,Yearly,Pure Term Plan,19,Statistics,Female,2,AVP,5,Married,32595,8,0,22,23,4,0
+14894,9868885585,0,31,Yearly,Traditional,19,Other,Male,4,Manager,1,Single,19681,5,0,20,10,12,0
+14899,9912444277,0,42,Yearly,Traditional,15,Statistics,Female,2,Manager,1,Married,20089,2,0,19,11,1,0
+14900,9865071947,0,58,Yearly,Traditional,24,Other,Male,2,AVP,1,Married,32627,5,1,20,22,13,1
+14901,9857734052,0,31,Yearly,Traditional,10,Statistics,Female,5,Executive,5,Single,18619,4,0,23,9,1,1
+14902,9914976706,0,40,Monthly,Traditional,18,CA,Male,2,Manager,3,Married,21679,4,1,19,11,15,1
+14903,9899207808,0,36,Yearly,Traditional,9,Statistics,Female,5,AVP,5,Married,31402,8,0,17,22,7,0
+14904,9894355298,0,33,Yearly,Market Link,22,Statistics,Female,2,Manager,3,Single,21985,5,0,17,11,6,1
+14905,9872289249,0,47,Yearly,Pure Term Plan,8,Engineer,Female,5,Executive,3,Married,18579,2,1,24,9,6,2
+14908,9941594005,0,33,Yearly,Traditional,14,Other,Male,3,VP,1,Married,35513,5,1,18,27,7,0
+14914,9906350512,0,56,Yearly,Traditional,18,Statistics,Male,5,Executive,1,Married,18691,2,0,18,11,13,0
+14921,9932219482,0,38,Yearly,Market Link,4,CA,Male,5,Senior Manager,4,Married,26725,3,0,21,17,6,0
+14922,9861709417,0,55,Yearly,Traditional,14,CA,Male,5,Manager,4,Married,24847,3,1,17,14,7,0
+14923,9932517218,0,49,Yearly,Traditional,8,CA,Male,3,Executive,1,Single,18045,1,0,19,6,7,2
+14924,9902207460,1,33,Yearly,Traditional,6,CA,Male,3,Executive,3,Single,17009,2,1,17,2,15,7
+14926,9882680283,0,48,Quarterly,Traditional,25,Statistics,Male,5,Executive,3,Married,17281,2,0,24,2,14,1
+14927,9930360717,0,55,Yearly,Traditional,12,CA,Male,5,Executive,5,Married,18819,3,0,22,6,14,0
+14928,9874173303,0,41,Yearly,Pure Term Plan,20,Statistics,Male,5,Manager,4,Married,20851,1,0,28,5,9,2
+14932,9902181836,0,48,Monthly,Pure Term Plan,25,CA,Female,4,Manager,1,Married,20647,2,1,26,7,4,0
+14935,9883940930,0,36,Yearly,Traditional,15,CA,Female,4,Senior Manager,4,Single,24621,2,0,20,10,6,2
+14944,9892788646,0,53,Monthly,Pure Term Plan,5,Statistics,Male,4,Senior Manager,5,Married,26475,6,1,27,21,11,2
+14949,9870726933,0,32,Yearly,Market Link,24,MBA,Male,3,VP,3,Married,35189,2,0,18,23,15,2
+14952,9946581727,0,58,Quarterly,Traditional,5,Statistics,Female,2,Senior Manager,5,Married,27713,10,0,20,11,12,1
+14956,9937618070,0,59,Yearly,Pure Term Plan,6,Marketing Diploma,Male,5,Manager,1,Married,21304,8,0,29,11,6,1
+14957,9867678916,0,43,Yearly,Pure Term Plan,13,Statistics,Male,4,Executive,3,Single,18642,2,0,17,2,1,2
+14966,9936254542,0,59,Yearly,Pure Term Plan,13,Marketing Diploma,Male,3,Executive,4,Married,18297,2,0,20,3,15,1
+14972,9873249470,0,46,Yearly,Pure Term Plan,23,Marketing Diploma,Male,4,AVP,5,Married,32856,2,0,17,35,3,0
+14976,9863106232,0,54,Yearly,Traditional,14,CA,Male,5,Executive,3,Single,19505,2,0,24,3,1,0
+14980,9902098898,0,38,Quarterly,Pure Term Plan,3,Statistics,Male,4,Senior Manager,5,Single,23587,2,0,21,11,2,2
+14981,9905733041,0,41,Quarterly,Traditional,21,CA,Male,3,Executive,1,Married,20258,1,0,24,6,13,0
+14985,9889098333,0,50,Yearly,Traditional,12,Statistics,Female,3,Executive,1,Single,19280,3,0,22,11,8,2
+14986,9890739571,0,31,Yearly,Traditional,13,CA,Female,3,Manager,5,Married,21485,10,1,17,10,14,2
+14987,9907089434,0,58,Monthly,Pure Term Plan,22,Marketing Diploma,Male,4,Manager,1,Married,20342,1,0,25,6,11,1
+14999,9888525101,0,44,Yearly,Traditional,12,CA,Male,3,AVP,3,Married,33639,6,0,22,31,9,2
+15000,9890367655,1,33,Yearly,Traditional,2,Statistics,Female,2,Executive,5,Married,18319,2,1,17,2,1,10
+15002,9879788940,1,30,Yearly,Pure Term Plan,2,Marketing Diploma,Female,4,Manager,5,Single,21324,6,0,21,7,4,6
+15003,9888276939,0,34,Yearly,Traditional,3,Other,Female,3,AVP,1,Married,32752,2,1,17,27,7,1
+15012,9888629260,0,47,Monthly,Traditional,4,CA,Male,5,Manager,3,Single,21094,7,0,20,11,4,0
+15018,9899247588,1,21,Yearly,Pure Term Plan,8,Marketing Diploma,Female,1,Senior Manager,1,Married,23654,2,0,24,10,15,6
+15019,9923282579,1,31,Yearly,Pure Term Plan,7,CA,Male,3,Manager,1,Single,21160,5,0,22,13,7,2
+15020,9927760786,0,37,Yearly,Traditional,4,Statistics,Male,2,AVP,5,Married,33159,7,0,30,23,4,2
+15023,9941482233,0,37,Yearly,Pure Term Plan,17,Marketing Diploma,Female,2,Manager,4,Married,20779,2,1,26,9,11,1
+15027,9865996941,0,39,Yearly,Pure Term Plan,7,Marketing Diploma,Female,3,AVP,3,Married,32307,3,0,20,30,12,2
+15028,9952013769,0,40,Yearly,Traditional,23,CA,Male,5,Manager,4,Single,21933,10,0,18,11,8,2
+15029,9938613426,0,58,Yearly,Traditional,21,CA,Male,2,Executive,5,Single,19424,8,0,19,7,11,1
+15032,9867269636,0,43,Yearly,Pure Term Plan,19,Statistics,Male,4,Manager,1,Married,22201,2,1,20,19,15,2
+15034,9939113018,0,33,Monthly,Traditional,14,Statistics,Male,3,Executive,1,Married,19761,10,0,18,11,14,0
+15038,9891352269,0,45,Monthly,Traditional,21,CA,Female,2,AVP,1,Married,29826,4,0,28,32,13,0
+15040,9920723295,0,54,Yearly,Market Link,6,CA,Male,3,Executive,1,Married,20936,2,0,19,7,5,0
+15047,9914921161,1,21,Monthly,Traditional,1,Statistics,Female,1,Executive,4,Married,18022,2,1,25,11,10,2
+15048,9910304526,0,36,Quarterly,Traditional,13,Statistics,Male,2,Executive,1,Married,18314,1,0,18,5,11,2
+15050,9895947195,0,49,Yearly,Traditional,15,Engineer,Female,4,Executive,5,Married,19580,3,0,22,8,11,1
+15051,9928358878,0,38,Quarterly,Traditional,4,Statistics,Male,2,Executive,1,Married,19162,1,0,23,7,9,0
+15054,9896953659,0,43,Yearly,Traditional,10,Statistics,Female,3,Manager,1,Married,21231,3,1,19,18,2,0
+15056,9930717686,1,33,Yearly,Pure Term Plan,3,CA,Female,3,Executive,3,Married,18800,7,1,25,6,7,10
+15059,9917134042,0,34,Monthly,Pure Term Plan,3,CA,Female,4,Executive,1,Married,18973,6,0,21,11,2,0
+15060,9879871684,0,60,Yearly,Traditional,9,Statistics,Female,4,AVP,1,Single,30275,7,0,24,34,5,0
+15062,9923620098,0,52,Yearly,Pure Term Plan,14,Marketing Diploma,Female,2,Manager,1,Married,20537,1,1,28,9,14,2
+15063,9918681432,0,47,Quarterly,Pure Term Plan,9,CA,Male,3,Senior Manager,4,Single,23642,2,1,19,11,13,1
+15064,9942748016,0,47,Quarterly,Traditional,23,Statistics,Male,5,AVP,5,Married,33924,2,0,17,32,5,1
+15065,9923868070,0,37,Yearly,Market Link,13,Statistics,Female,2,Manager,1,Married,21204,9,0,17,14,13,0
+15068,9886406334,0,57,Yearly,Traditional,25,CA,Female,5,Executive,1,Married,18532,7,0,20,9,15,1
+15069,9903728640,0,51,Yearly,Traditional,10,Statistics,Male,5,Executive,5,Married,18559,2,1,19,9,4,1
+15070,9858330964,0,44,Yearly,Pure Term Plan,10,CA,Male,4,Manager,1,Single,20908,2,0,20,5,9,2
+15071,9898260755,1,36,Monthly,Traditional,10,Statistics,Male,1,Executive,1,Married,18380,10,1,20,4,12,8
+15072,9934460730,0,35,Yearly,Traditional,16,Statistics,Female,5,Manager,4,Married,20765,5,0,27,5,9,0
+15073,9904194340,1,29,Yearly,Pure Term Plan,3,CA,Female,4,Executive,3,Single,18044,2,0,19,3,12,4
+15076,9895431680,0,45,Yearly,Pure Term Plan,23,Statistics,Female,4,Executive,1,Single,19294,2,1,24,4,10,2
+15080,9932656413,1,24,Yearly,Traditional,6,CA,Male,3,Executive,5,Married,18404,8,1,27,9,4,3
+15084,9936754739,0,48,Yearly,Traditional,23,Other,Male,5,Executive,5,Single,18799,4,1,17,7,11,2
+15086,9877438617,0,40,Yearly,Pure Term Plan,8,Statistics,Male,2,Executive,3,Married,18329,4,0,21,14,15,0
+15088,9930547784,0,48,Yearly,Traditional,7,Other,Female,4,Senior Manager,4,Married,23403,5,0,17,30,7,1
+15092,9903142724,0,37,Yearly,Traditional,22,Engineer,Female,2,Senior Manager,5,Married,29582,2,0,19,16,14,0
+15093,9938094196,0,30,Quarterly,Traditional,10,Statistics,Female,3,Executive,4,Married,18332,7,0,26,6,10,0
+15096,9895365595,0,55,Monthly,Pure Term Plan,19,CA,Male,4,Manager,5,Single,20294,2,0,18,8,6,2
+15097,9909462651,0,31,Yearly,Traditional,17,CA,Male,2,Executive,5,Single,20721,3,1,19,21,7,1
+15098,9873987279,0,34,Yearly,Traditional,20,CA,Male,3,Executive,3,Single,18519,5,0,27,17,11,2
+15099,9902699908,1,25,Yearly,Pure Term Plan,2,Other,Male,2,Executive,4,Single,18121,2,1,19,2,9,2
+15105,9948198384,0,36,Yearly,Traditional,7,Statistics,Female,4,Manager,1,Single,22949,1,0,20,7,8,2
+15111,9881917388,1,29,Yearly,Traditional,1,Engineer,Male,2,Executive,3,Single,18479,5,0,30,8,9,4
+15113,9898089413,0,46,Yearly,Pure Term Plan,19,Other,Male,5,Senior Manager,3,Married,23264,6,0,17,11,3,1
+15114,9941007471,0,59,Quarterly,Pure Term Plan,20,Engineer,Female,5,Manager,1,Single,21666,2,1,19,7,5,0
+15115,9864889550,0,30,Yearly,Pure Term Plan,21,Statistics,Male,4,Senior Manager,1,Married,23823,7,0,19,13,13,1
+15118,9929562773,0,47,Monthly,Traditional,6,CA,Male,2,Manager,3,Married,21067,2,1,25,21,13,0
+15119,9938497336,0,48,Quarterly,Pure Term Plan,17,Engineer,Male,5,Manager,1,Married,21079,5,0,19,13,10,2
+15120,9923745904,1,27,Quarterly,Traditional,4,CA,Male,1,Executive,5,Single,18321,1,1,28,5,9,3
+15123,9924897215,0,31,Yearly,Traditional,6,Statistics,Female,2,Executive,1,Single,19452,4,0,24,6,15,1
+15126,9926788213,0,34,Monthly,Traditional,5,Other,Female,5,Manager,4,Married,21488,2,1,19,7,13,1
+15128,9869169470,0,49,Yearly,Traditional,21,Engineer,Female,3,Executive,4,Married,18811,10,0,20,5,10,0
+15130,9946779189,0,47,Yearly,Pure Term Plan,24,Statistics,Female,3,Manager,1,Single,20163,2,1,23,10,8,1
+15131,9897648280,1,35,Yearly,Traditional,6,Statistics,Female,3,Executive,3,Married,18132,5,1,17,8,9,2
+15134,9944037804,0,34,Yearly,Traditional,18,CA,Male,5,Senior Manager,3,Married,26845,7,0,19,14,10,2
+15136,9887211764,1,27,Yearly,Traditional,5,Other,Male,4,Executive,4,Married,19743,2,1,30,6,10,7
+15144,9908457510,0,46,Yearly,Traditional,23,CA,Male,3,Manager,1,Married,21472,2,0,18,9,2,2
+15149,9925804329,0,36,Yearly,Traditional,24,Statistics,Female,3,AVP,1,Married,28742,2,0,22,22,10,1
+15150,9880355406,0,33,Yearly,Traditional,3,Statistics,Female,2,Manager,1,Married,20227,1,0,24,5,12,1
+15152,9914783401,0,49,Yearly,Pure Term Plan,20,Marketing Diploma,Male,5,VP,3,Married,34303,7,0,19,22,3,0
+15165,9900166993,0,59,Quarterly,Pure Term Plan,20,Statistics,Female,3,Executive,1,Single,18342,1,0,25,4,12,2
+15166,9932141833,0,57,Yearly,Pure Term Plan,25,Statistics,Female,2,AVP,1,Married,33650,4,0,19,27,9,1
+15169,9860928034,0,56,Yearly,Pure Term Plan,10,Engineer,Male,2,Senior Manager,1,Married,27904,4,1,20,15,7,0
+15175,9861255295,0,58,Yearly,Pure Term Plan,22,CA,Male,5,Executive,4,Married,17052,2,0,28,2,11,0
+15178,9895337547,0,49,Yearly,Traditional,3,Other,Female,3,Manager,4,Single,20107,4,0,21,9,13,1
+15181,9918738218,0,50,Yearly,Traditional,8,CA,Male,4,VP,1,Married,35627,10,0,23,24,1,1
+15185,9890736913,0,43,Quarterly,Traditional,14,CA,Male,2,AVP,5,Single,32756,8,0,21,32,13,1
+15186,9936454511,0,60,Yearly,Pure Term Plan,16,CA,Male,3,Senior Manager,1,Married,26798,6,0,19,19,13,2
+15192,9931145502,0,60,Yearly,Traditional,15,CA,Male,4,Executive,5,Married,19955,2,0,22,7,4,0
+15194,9943702296,0,47,Yearly,Traditional,16,Engineer,Female,3,Executive,3,Married,19376,2,0,19,11,13,1
+15198,9861290487,0,60,Monthly,Traditional,5,Statistics,Male,2,Senior Manager,4,Married,26976,4,0,24,24,7,2
+15199,9872545335,0,41,Yearly,Traditional,8,Other,Female,2,Manager,3,Single,19660,4,0,19,11,6,2
+15207,9915385769,1,35,Yearly,Traditional,8,Engineer,Male,4,Executive,1,Married,19691,2,1,21,8,13,8
+15209,9873791777,1,22,Yearly,Traditional,7,CA,Male,1,Executive,4,Single,18313,5,1,26,6,2,3
+15210,9861673215,0,53,Yearly,Traditional,5,CA,Male,4,AVP,5,Married,33665,1,0,23,24,1,1
+15211,9880838295,1,31,Monthly,Traditional,6,CA,Male,2,Executive,4,Married,18596,2,0,21,2,11,10
+15212,9910418439,1,21,Monthly,Pure Term Plan,1,Other,Male,3,Manager,3,Single,20728,4,1,20,6,9,2
+15213,9882200862,0,37,Monthly,Pure Term Plan,15,Statistics,Female,4,Manager,4,Married,20302,1,0,23,5,14,1
+15218,9859069144,0,43,Yearly,Pure Term Plan,23,Marketing Diploma,Male,5,Senior Manager,3,Married,24740,1,1,20,10,14,2
+15219,9946609636,0,45,Yearly,Traditional,24,Statistics,Female,4,Executive,1,Married,18514,5,0,28,12,7,2
+15220,9881411217,0,30,Yearly,Traditional,13,CA,Female,5,Senior Manager,4,Married,23655,1,0,23,11,4,1
+15222,9942883974,0,33,Yearly,Pure Term Plan,18,Marketing Diploma,Male,2,Senior Manager,4,Single,23351,8,0,22,11,3,0
+15231,9902140108,0,44,Monthly,Pure Term Plan,17,Marketing Diploma,Male,5,Manager,1,Married,20968,2,0,17,6,4,1
+15243,9890616032,0,32,Yearly,Traditional,24,CA,Female,3,Manager,1,Married,21731,8,0,19,10,9,2
+15246,9915181152,0,42,Yearly,Market Link,16,Engineer,Male,2,Executive,3,Single,20323,2,0,23,7,13,2
+15248,9921051780,0,50,Monthly,Traditional,11,CA,Female,5,Senior Manager,3,Single,29499,10,0,23,21,3,1
+15255,9936213628,0,58,Yearly,Pure Term Plan,14,Marketing Diploma,Male,4,Manager,3,Married,22578,2,0,24,11,14,1
+15257,9859897658,0,47,Yearly,Traditional,13,Statistics,Male,4,Senior Manager,4,Married,26274,3,0,24,16,9,2
+15258,9906379404,0,34,Monthly,Traditional,10,CA,Male,4,Manager,5,Single,21343,1,0,26,15,5,2
+15259,9942391603,0,39,Monthly,Traditional,6,Other,Male,2,Executive,1,Married,18376,2,0,19,3,4,0
+15260,9858274254,1,38,Yearly,Pure Term Plan,5,Marketing Diploma,Female,3,Manager,3,Single,21346,9,0,19,8,14,9
+15261,9899836897,0,52,Quarterly,Pure Term Plan,8,Statistics,Female,5,Executive,5,Married,18827,2,0,18,2,13,0
+15262,9890858843,0,39,Yearly,Traditional,23,Engineer,Female,5,VP,5,Married,35943,5,0,19,29,15,2
+15266,9951478737,0,53,Yearly,Traditional,16,Statistics,Female,4,Manager,1,Married,22474,2,0,19,15,6,0
+15272,9931353242,0,59,Yearly,Pure Term Plan,15,Marketing Diploma,Female,5,AVP,5,Married,33048,9,0,29,29,12,1
+15273,9883895000,0,59,Quarterly,Traditional,23,Statistics,Male,2,Executive,3,Single,18290,3,0,19,7,5,2
+15277,9953595826,0,38,Monthly,Pure Term Plan,16,CA,Male,5,Manager,4,Married,20327,6,0,18,6,3,0
+15279,9878233045,0,43,Yearly,Traditional,4,CA,Male,5,Executive,5,Married,19196,2,0,18,7,7,1
+15283,9875290581,0,44,Monthly,Pure Term Plan,25,CA,Female,3,Manager,3,Married,20539,2,0,18,11,7,1
+15288,9956567301,0,50,Yearly,Traditional,23,Engineer,Male,5,Manager,1,Married,23379,3,0,17,13,1,0
+15291,9941396092,0,51,Monthly,Traditional,5,Other,Female,3,Executive,4,Married,18743,2,0,26,3,3,1
+15293,9942024213,0,31,Yearly,Traditional,18,Engineer,Female,5,Senior Manager,5,Married,26252,3,1,27,18,10,0
+15294,9907465021,0,33,Yearly,Traditional,8,CA,Male,3,Executive,1,Married,18781,1,0,19,16,3,0
+15304,9930473245,0,49,Yearly,Traditional,8,Statistics,Female,4,Executive,1,Married,19760,2,0,21,4,8,2
+15310,9944341616,0,52,Yearly,Traditional,22,CA,Male,4,VP,3,Married,34711,3,0,19,24,2,0
+15312,9888356918,0,41,Yearly,Traditional,18,Engineer,Male,5,Executive,4,Single,18559,6,0,17,8,1,2
+15313,9876455906,0,54,Yearly,Traditional,18,Statistics,Male,2,Executive,3,Married,18517,2,0,17,6,3,1
+15314,9878778317,0,53,Yearly,Traditional,23,Statistics,Male,2,Manager,1,Married,22623,2,1,17,7,5,0
+15315,9916816437,0,37,Yearly,Traditional,3,Statistics,Male,4,VP,1,Single,34265,7,0,18,26,5,2
+15316,9893088931,0,44,Yearly,Traditional,4,Statistics,Female,5,AVP,1,Married,32124,4,0,20,10,9,2
+15325,9954100206,0,37,Quarterly,Traditional,21,CA,Male,2,AVP,4,Married,29577,2,1,21,35,13,0
+15331,9897279780,0,40,Monthly,Traditional,5,CA,Female,2,Manager,4,Married,20444,5,0,19,16,2,0
+15334,9934012688,0,46,Monthly,Market Link,18,Statistics,Male,2,Manager,4,Married,20490,5,0,17,15,4,2
+15335,9918012678,0,47,Yearly,Traditional,18,Statistics,Male,4,Executive,3,Married,19506,1,1,20,5,12,2
+15337,9888315961,0,44,Yearly,Pure Term Plan,23,Marketing Diploma,Female,2,Senior Manager,1,Single,26231,4,0,20,24,8,0
+15341,9930711863,0,52,Monthly,Traditional,10,CA,Female,4,Executive,3,Single,18838,1,0,20,9,10,2
+15348,9897614684,0,30,Yearly,Traditional,5,CA,Female,4,AVP,4,Married,33123,7,1,19,22,15,1
+15349,9859249363,0,45,Yearly,Traditional,17,Statistics,Male,2,Executive,3,Married,18372,2,0,18,3,12,0
+15350,9926894212,1,31,Yearly,Traditional,2,Statistics,Male,2,Manager,3,Married,20883,2,0,24,11,10,7
+15355,9913876214,0,53,Quarterly,Traditional,14,Statistics,Female,3,Manager,1,Married,22674,1,0,17,11,2,1
+15360,9903507760,0,47,Yearly,Traditional,3,Statistics,Male,4,Manager,3,Single,20534,1,0,17,10,8,1
+15364,9914373835,1,26,Yearly,Traditional,3,Statistics,Male,4,Executive,5,Married,18362,5,0,18,11,7,6
+15377,9955625914,1,37,Yearly,Traditional,3,CA,Female,3,Senior Manager,5,Married,26008,8,1,20,32,5,2
+15379,9935562573,0,36,Monthly,Pure Term Plan,8,Marketing Diploma,Female,2,Manager,5,Married,20639,3,0,22,18,4,1
+15380,9911094308,0,43,Yearly,Traditional,18,Statistics,Male,4,Senior Manager,1,Single,23898,2,0,17,12,2,0
+15383,9919101551,0,30,Quarterly,Traditional,13,Statistics,Female,2,Executive,1,Single,17611,2,0,21,1,7,1
+15389,9921599078,0,38,Yearly,Traditional,13,CA,Female,5,Manager,3,Married,22377,6,0,26,16,5,2
+15393,9917739663,0,58,Monthly,Traditional,21,Statistics,Male,3,Executive,3,Married,18610,2,0,17,5,10,0
+15396,9932779417,1,21,Yearly,Traditional,3,CA,Male,2,Manager,3,Married,22179,2,1,21,11,4,10
+15397,9882589807,0,45,Yearly,Pure Term Plan,4,Statistics,Male,5,Manager,1,Married,22120,4,1,18,9,6,0
+15403,9870374263,0,31,Quarterly,Traditional,19,Statistics,Male,5,Senior Manager,3,Married,26920,4,0,27,14,15,2
+15404,9931084652,0,33,Yearly,Pure Term Plan,15,Statistics,Male,3,Manager,3,Married,22232,3,0,17,7,2,1
+15407,9954255527,0,57,Yearly,Pure Term Plan,5,Marketing Diploma,Female,3,Manager,1,Married,21769,2,1,17,7,5,2
+15412,9879659186,0,55,Yearly,Traditional,3,CA,Female,5,Executive,3,Single,19629,5,0,24,9,2,1
+15414,9880419843,0,32,Yearly,Traditional,15,Engineer,Male,5,Executive,1,Married,19229,5,0,17,8,10,0
+15421,9914096345,0,55,Yearly,Traditional,12,CA,Male,4,AVP,1,Married,30732,3,0,19,32,3,2
+15422,9895149692,0,49,Yearly,Pure Term Plan,10,Marketing Diploma,Female,3,Manager,4,Single,25278,4,1,22,16,8,0
+15425,9928010373,0,44,Yearly,Traditional,24,Statistics,Female,4,AVP,4,Single,32422,4,0,17,10,6,0
+15426,9947753423,0,36,Monthly,Traditional,14,Other,Male,2,Executive,5,Married,18996,6,0,20,11,10,2
+15429,9932307886,0,48,Yearly,Traditional,8,Statistics,Male,3,Manager,1,Single,21810,2,0,22,11,4,0
+15433,9892623917,0,56,Quarterly,Traditional,14,Engineer,Male,5,Executive,3,Single,19500,1,0,20,8,8,1
+15436,9920927781,0,60,Yearly,Pure Term Plan,6,CA,Female,3,Manager,3,Married,20162,2,1,18,6,1,1
+15439,9899282902,0,59,Yearly,Traditional,17,CA,Male,4,Executive,3,Married,18127,3,1,18,8,5,2
+15440,9891701812,0,33,Quarterly,Traditional,12,Other,Male,4,Manager,3,Married,19975,4,0,17,12,9,2
+15445,9887242315,0,31,Yearly,Traditional,22,CA,Male,5,Senior Manager,5,Married,26851,3,1,24,25,8,0
+15447,9929903065,1,38,Monthly,Traditional,2,Statistics,Male,1,Executive,1,Married,19722,7,1,19,8,2,10
+15448,9874017325,0,44,Yearly,Traditional,12,Engineer,Male,2,Senior Manager,1,Married,25380,5,1,24,11,4,1
+15449,9869256554,0,41,Yearly,Pure Term Plan,5,Marketing Diploma,Male,5,Manager,5,Married,21486,5,0,17,16,9,2
+15460,9899026603,0,44,Yearly,Pure Term Plan,18,Statistics,Male,5,Manager,3,Married,21301,9,0,21,5,4,0
+15462,9859401059,0,31,Monthly,Pure Term Plan,17,Marketing Diploma,Female,3,Manager,3,Married,20768,8,0,18,12,3,1
+15464,9891034717,0,47,Yearly,Traditional,24,Statistics,Male,5,Manager,3,Married,20900,1,0,30,14,11,0
+15465,9861557904,0,41,Yearly,Traditional,4,Statistics,Male,2,Senior Manager,4,Married,26466,4,0,20,30,11,2
+15467,9906214510,1,36,Monthly,Pure Term Plan,6,Engineer,Male,1,Executive,3,Married,18909,4,0,21,6,13,9
+15473,9872653191,0,46,Monthly,Traditional,19,CA,Male,4,Senior Manager,3,Single,26209,6,1,24,17,11,1
+15475,9904533632,0,41,Yearly,Market Link,10,Statistics,Male,4,Executive,3,Married,18064,1,0,27,7,11,2
+15476,9908870830,0,44,Yearly,Traditional,24,Statistics,Male,3,Manager,3,Married,20035,1,1,22,5,4,1
+15481,9861307337,0,32,Monthly,Pure Term Plan,25,Statistics,Male,2,Manager,5,Single,20898,1,0,20,6,2,1
+15485,9941666001,0,51,Yearly,Traditional,6,Statistics,Male,2,Manager,3,Single,22388,3,1,23,15,1,0
+15488,9910307808,1,27,Yearly,Traditional,9,Engineer,Male,2,Executive,5,Single,18362,7,0,19,12,6,8
+15493,9858732340,0,40,Yearly,Traditional,21,Statistics,Male,3,Manager,3,Single,18272,1,0,20,6,15,1
+15494,9889048865,1,35,Yearly,Traditional,8,Statistics,Male,2,Executive,5,Single,18018,4,0,20,16,1,2
+15496,9952287708,1,30,Monthly,Traditional,1,Statistics,Female,3,Executive,3,Single,20084,2,0,18,8,15,10
+15500,9953346043,0,56,Yearly,Traditional,8,CA,Male,5,Manager,1,Married,20285,2,0,23,11,15,2
+15501,9903337598,0,45,Yearly,Traditional,21,Other,Female,5,Manager,5,Married,25715,4,0,19,10,7,1
+15502,9953787974,0,44,Yearly,Traditional,6,Statistics,Male,2,Manager,4,Single,20320,2,0,19,6,12,0
+15509,9909394084,0,56,Quarterly,Traditional,17,Statistics,Male,4,Manager,1,Married,20069,4,1,24,9,11,2
+15516,9946708524,0,36,Yearly,Pure Term Plan,12,Statistics,Male,3,Manager,5,Married,22392,3,0,19,9,6,2
+15518,9878112100,0,53,Monthly,Market Link,19,MBA,Male,3,Manager,3,Married,22077,4,0,17,11,6,0
+15519,9879669301,0,40,Yearly,Traditional,10,CA,Male,3,Executive,5,Single,18450,2,0,25,4,8,2
+15522,9924520793,1,28,Yearly,Traditional,10,Engineer,Female,2,Senior Manager,1,Married,26169,1,0,22,35,9,5
+15523,9911764600,1,27,Yearly,Traditional,8,CA,Male,3,Manager,4,Married,20855,5,0,17,8,14,9
+15524,9950136427,0,59,Quarterly,Traditional,25,Engineer,Male,3,Manager,5,Married,20087,5,0,20,10,1,2
+15526,9890438820,0,57,Yearly,Traditional,25,CA,Male,4,Executive,1,Single,18972,2,0,19,2,11,1
+15530,9884091787,0,46,Yearly,Pure Term Plan,22,Statistics,Male,5,Manager,4,Married,25924,1,0,17,11,7,0
+15531,9895038671,0,31,Yearly,Pure Term Plan,24,Statistics,Female,3,Manager,4,Single,20198,3,0,18,9,9,2
+15536,9887827191,0,55,Monthly,Traditional,21,Statistics,Male,2,Manager,1,Married,24853,2,0,25,7,7,2
+15541,9950048264,0,49,Yearly,Traditional,25,Statistics,Male,2,Manager,3,Married,19407,2,0,23,11,3,0
+15546,9890327847,0,48,Yearly,Pure Term Plan,14,Statistics,Male,5,AVP,5,Single,33567,2,0,21,28,14,2
+15547,9869066783,1,36,Yearly,Traditional,1,CA,Male,2,Executive,4,Married,18408,2,1,23,2,13,8
+15549,9935884736,0,44,Monthly,Traditional,18,CA,Male,3,AVP,3,Married,27245,3,1,21,33,12,2
+15554,9947954415,0,42,Quarterly,Pure Term Plan,16,Marketing Diploma,Male,5,Manager,5,Married,20385,2,0,21,11,5,2
+15555,9902290607,0,34,Monthly,Pure Term Plan,16,Other,Male,5,Manager,5,Single,21332,8,0,19,11,4,0
+15562,9883332879,0,32,Yearly,Traditional,13,CA,Female,4,Manager,5,Married,20877,1,0,27,7,1,2
+15565,9935413234,0,37,Yearly,Market Link,10,Statistics,Female,2,VP,3,Married,35658,4,0,17,28,11,1
+15571,9899660813,0,59,Yearly,Traditional,25,Other,Female,4,Manager,1,Married,21770,2,0,25,11,7,2
+15575,9856979557,0,31,Yearly,Traditional,17,Statistics,Female,4,Senior Manager,1,Single,23945,7,1,21,19,14,0
+15576,9933857959,0,39,Monthly,Market Link,4,MBA,Male,5,Manager,1,Married,21743,5,1,17,15,1,1
+15581,9895455865,0,60,Monthly,Traditional,12,CA,Male,2,Executive,1,Single,18580,3,0,19,7,7,1
+15582,9897126697,1,38,Yearly,Traditional,2,Statistics,Male,4,Executive,5,Single,18166,4,1,20,11,7,3
+15584,9877673922,0,34,Yearly,Traditional,13,Statistics,Female,3,Senior Manager,5,Married,24008,5,0,18,10,14,1
+15586,9895596034,0,50,Yearly,Traditional,12,CA,Male,5,Manager,4,Married,21295,5,0,27,8,5,2
+15587,9863588087,0,43,Yearly,Traditional,22,Other,Female,5,AVP,4,Married,32413,4,0,22,28,5,1
+15596,9953377282,0,40,Yearly,Traditional,21,Statistics,Male,4,AVP,3,Married,33603,2,0,30,15,3,0
+15597,9873266954,1,27,Monthly,Pure Term Plan,5,Other,Male,3,Manager,1,Single,20581,4,1,30,14,6,7
+15600,9889143913,0,30,Yearly,Pure Term Plan,7,CA,Male,2,Manager,1,Married,21505,2,0,20,7,15,0
+15607,9922207477,0,46,Yearly,Pure Term Plan,23,Statistics,Male,2,Senior Manager,3,Single,23082,4,1,22,22,13,2
+15612,9905149912,1,23,Yearly,Traditional,10,CA,Male,2,Executive,3,Single,19989,2,1,17,6,15,2
+15614,9867197247,0,51,Yearly,Traditional,3,CA,Male,5,Senior Manager,1,Married,23005,4,0,21,12,12,0
+15615,9929652133,1,38,Monthly,Pure Term Plan,1,CA,Female,2,Executive,3,Married,18655,3,1,17,20,2,3
+15617,9942103257,0,44,Quarterly,Traditional,20,CA,Male,4,Executive,1,Single,18570,2,0,26,8,14,2
+15623,9916733842,0,31,Yearly,Traditional,13,Statistics,Female,5,Executive,1,Married,18929,2,0,18,11,1,0
+15625,9924655971,0,54,Yearly,Traditional,25,Statistics,Female,4,Senior Manager,1,Married,23879,2,1,25,10,1,1
+15628,9881286784,0,57,Yearly,Traditional,19,CA,Male,5,Executive,3,Married,20401,2,0,22,6,2,1
+15629,9914064135,0,40,Yearly,Pure Term Plan,3,Marketing Diploma,Male,5,Senior Manager,3,Single,25241,2,0,18,11,13,2
+15630,9911364503,0,43,Yearly,Traditional,20,CA,Female,2,Executive,3,Married,18974,10,0,23,10,10,2
+15631,9914307558,0,40,Yearly,Pure Term Plan,7,Statistics,Female,5,Manager,1,Single,20502,4,0,21,18,14,2
+15638,9924745364,0,49,Yearly,Traditional,9,Statistics,Male,2,Executive,3,Married,19477,2,0,20,7,8,1
+15639,9861867232,0,40,Quarterly,Market Link,7,MBA,Male,3,Manager,4,Married,22430,7,0,25,11,9,2
+15641,9947067423,0,34,Yearly,Traditional,14,CA,Male,5,Executive,5,Married,19907,2,0,19,7,4,1
+15644,9888196993,0,40,Yearly,Traditional,16,Statistics,Male,5,Executive,1,Married,18862,2,0,18,11,8,0
+15645,9869483135,0,49,Quarterly,Pure Term Plan,17,Marketing Diploma,Male,2,Manager,4,Married,20978,8,0,17,5,7,1
+15648,9859458007,1,29,Yearly,Pure Term Plan,7,Statistics,Male,3,Manager,4,Single,22735,7,0,21,11,14,8
+15649,9923924188,0,53,Yearly,Traditional,22,CA,Female,2,Executive,4,Single,19295,2,0,19,4,12,2
+15650,9871190323,0,52,Monthly,Traditional,4,Engineer,Female,3,Manager,1,Single,21238,3,0,26,10,8,0
+15661,9933772901,0,58,Monthly,Traditional,12,Statistics,Male,3,Manager,3,Single,22294,9,1,18,11,4,0
+15664,9875257211,0,34,Quarterly,Pure Term Plan,6,Marketing Diploma,Female,3,Manager,4,Single,21147,9,0,21,14,3,0
+15667,9898146511,0,34,Monthly,Traditional,13,CA,Female,4,Executive,4,Married,18468,5,0,20,10,4,0
+15668,9941308996,1,40,Yearly,Pure Term Plan,1,Marketing Diploma,Male,3,Senior Manager,3,Married,24161,3,0,19,11,10,4
+15669,9878289759,0,35,Yearly,Traditional,22,Engineer,Female,5,Executive,5,Married,18109,2,0,19,2,15,1
+15671,9881264199,0,48,Quarterly,Traditional,10,Engineer,Male,2,Executive,4,Single,18718,3,0,20,13,11,1
+15673,9936103880,1,33,Monthly,Traditional,6,Engineer,Male,1,Executive,3,Married,18437,10,1,22,7,1,5
+15678,9911149219,0,40,Quarterly,Pure Term Plan,10,Statistics,Male,3,Manager,3,Married,20001,2,1,20,16,1,1
+15680,9893616376,0,53,Yearly,Market Link,22,Statistics,Male,4,Executive,1,Single,19539,1,0,19,11,10,1
+15682,9867254182,1,30,Yearly,Pure Term Plan,2,Marketing Diploma,Male,3,Executive,4,Single,18679,2,0,19,2,11,3
+15683,9930349341,0,49,Yearly,Traditional,6,Other,Female,2,Executive,3,Married,19702,2,0,17,6,13,0
+15685,9906206618,0,41,Yearly,Pure Term Plan,18,Marketing Diploma,Female,2,Manager,1,Married,21468,2,0,20,14,8,2
+15688,9861614089,0,54,Yearly,Traditional,3,CA,Male,4,VP,1,Married,35328,8,1,23,25,2,2
+15692,9873976929,1,28,Yearly,Pure Term Plan,9,Statistics,Male,2,Manager,1,Single,21813,2,1,24,11,5,3
+15694,9935415612,0,41,Yearly,Traditional,7,Statistics,Male,2,Executive,1,Married,18044,2,0,17,6,1,2
+15701,9939596875,1,27,Monthly,Traditional,3,Statistics,Male,3,Manager,5,Married,21346,5,0,23,12,15,6
+15703,9869744515,0,49,Monthly,Pure Term Plan,3,Statistics,Male,3,Manager,1,Married,20127,3,0,24,8,13,2
+15704,9885263027,0,41,Quarterly,Traditional,22,Statistics,Male,4,Executive,3,Single,18438,5,0,19,8,2,2
+15706,9907310928,0,38,Yearly,Pure Term Plan,19,Marketing Diploma,Female,4,Senior Manager,3,Married,26447,1,1,19,24,15,0
+15708,9881755065,1,27,Yearly,Market Link,8,CA,Female,2,Executive,4,Married,18148,1,1,17,7,15,6
+15712,9898197019,0,57,Quarterly,Pure Term Plan,20,CA,Male,3,AVP,4,Married,32291,5,0,28,38,2,1
+15713,9910430798,0,31,Yearly,Traditional,3,CA,Male,2,Executive,3,Married,18705,1,0,22,7,12,0
+15721,9904444635,0,38,Monthly,Traditional,23,Statistics,Male,2,AVP,3,Married,31787,3,1,20,24,10,1
+15723,9896299765,1,31,Yearly,Market Link,7,MBA,Male,3,Executive,5,Married,18956,1,0,23,3,9,10
+15724,9865715649,1,23,Yearly,Market Link,4,MBA,Male,1,Executive,5,Married,18335,5,1,21,5,13,6
+15728,9932154752,0,42,Monthly,Traditional,14,Statistics,Female,3,Executive,1,Single,18379,1,1,20,7,8,0
+15731,9914206336,0,56,Quarterly,Traditional,19,Engineer,Male,5,Executive,3,Married,18936,4,0,28,11,15,1
+15734,9931333456,0,60,Quarterly,Market Link,3,Statistics,Male,4,Executive,1,Married,18706,2,0,21,4,7,2
+15742,9857063607,0,41,Yearly,Traditional,16,Statistics,Male,4,VP,4,Married,35665,5,0,18,30,9,0
+15743,9856894391,1,39,Monthly,Traditional,3,Statistics,Male,4,Executive,1,Single,18439,2,1,30,2,14,10
+15744,9925596366,1,36,Yearly,Pure Term Plan,7,Statistics,Female,3,Senior Manager,4,Married,23314,6,0,27,15,2,6
+15749,9863259584,1,38,Yearly,Pure Term Plan,8,CA,Male,4,Executive,1,Single,17081,2,0,19,2,7,6
+15750,9892492758,1,34,Yearly,Traditional,1,Statistics,Male,2,Executive,4,Single,18472,2,1,29,2,7,5
+15752,9948024098,0,48,Yearly,Traditional,22,Statistics,Male,4,Manager,3,Married,20197,2,0,17,11,12,1
+15758,9933824983,0,34,Monthly,Market Link,21,MBA,Male,4,Manager,1,Single,19886,2,0,27,11,14,0
+15765,9948680825,1,27,Yearly,Traditional,6,Statistics,Male,1,Executive,1,Single,18587,2,0,22,6,11,8
+15770,9868375657,0,45,Yearly,Pure Term Plan,25,CA,Female,5,Manager,1,Married,24103,4,1,18,10,8,2
+15776,9877764339,1,32,Monthly,Pure Term Plan,9,Engineer,Male,4,Executive,5,Single,17091,2,0,23,2,10,8
+15780,9956289050,1,28,Yearly,Pure Term Plan,10,Marketing Diploma,Female,1,Manager,3,Single,25854,4,1,17,7,9,6
+15784,9947310767,0,41,Monthly,Traditional,11,CA,Female,5,Manager,4,Married,18133,2,1,22,21,15,1
+15789,9879325977,0,40,Yearly,Pure Term Plan,5,Marketing Diploma,Male,4,Manager,1,Married,21087,4,1,18,15,2,1
+15794,9935368150,0,45,Quarterly,Traditional,16,Statistics,Male,2,Executive,4,Married,18810,2,0,28,6,13,2
+15796,9883211405,0,44,Yearly,Pure Term Plan,7,CA,Male,3,Senior Manager,3,Married,24628,2,0,24,10,10,2
+15797,9868078563,0,39,Yearly,Traditional,20,CA,Male,5,Executive,5,Single,18867,1,0,19,9,5,0
+15800,9868863369,0,43,Monthly,Traditional,12,Statistics,Male,2,Manager,5,Married,21003,2,0,27,11,5,1
+15802,9868302757,0,38,Yearly,Pure Term Plan,16,Statistics,Male,2,Executive,5,Single,18858,5,0,20,21,7,2
+15804,9940302960,0,54,Yearly,Pure Term Plan,6,Marketing Diploma,Male,2,Manager,1,Single,20105,2,0,20,8,7,1
+15805,9902788548,0,36,Yearly,Traditional,6,Statistics,Male,2,Manager,1,Single,25679,9,0,30,9,1,0
+15808,9885038615,0,46,Yearly,Traditional,14,Statistics,Female,4,Manager,3,Married,18897,4,0,17,10,14,0
+15810,9921162174,0,30,Yearly,Traditional,4,Statistics,Male,5,Senior Manager,3,Married,23510,2,0,23,11,13,1
+15813,9885696737,0,50,Yearly,Traditional,15,CA,Female,5,Executive,1,Married,17129,2,1,17,2,7,1
+15814,9932537083,0,43,Yearly,Pure Term Plan,9,Marketing Diploma,Male,3,AVP,5,Single,29341,1,0,18,22,2,1
+15819,9886368441,0,57,Yearly,Traditional,3,Other,Male,2,Executive,1,Single,18647,2,0,19,6,14,2
+15823,9921762971,0,60,Yearly,Traditional,25,CA,Male,2,Executive,4,Married,19748,2,0,19,13,12,2
+15827,9892827392,0,39,Yearly,Pure Term Plan,6,Statistics,Male,2,Manager,4,Married,20440,1,0,21,17,12,0
+15830,9936500625,0,60,Yearly,Traditional,25,Statistics,Male,2,Manager,5,Married,21410,7,1,23,10,1,1
+15831,9868888310,0,32,Yearly,Traditional,3,Statistics,Male,4,Executive,1,Married,18782,4,0,28,13,15,1
+15832,9924776959,0,55,Quarterly,Traditional,8,CA,Female,5,Senior Manager,4,Married,27957,1,0,24,15,9,2
+15833,9954523710,0,52,Yearly,Traditional,15,CA,Male,5,Executive,3,Married,18660,8,1,17,6,4,2
+15835,9897054004,0,46,Yearly,Traditional,20,CA,Male,2,Manager,3,Single,21098,2,0,25,11,3,2
+15838,9939799807,0,32,Yearly,Traditional,13,Statistics,Male,2,Executive,1,Married,18406,9,0,25,9,4,0
+15842,9888963878,0,53,Yearly,Pure Term Plan,11,Marketing Diploma,Female,5,Senior Manager,1,Married,26422,2,0,25,15,5,2
+15854,9858581667,0,32,Yearly,Traditional,10,Statistics,Male,2,VP,3,Married,34880,6,0,17,25,14,0
+15855,9949678356,1,23,Yearly,Traditional,5,Engineer,Male,2,Executive,3,Married,18339,9,0,17,15,14,10
+15856,9918507247,0,53,Yearly,Traditional,15,Statistics,Female,3,AVP,4,Married,29570,1,0,29,22,12,2
+15860,9880470712,0,30,Yearly,Traditional,16,Engineer,Male,5,Executive,5,Single,18439,2,0,20,5,13,1
+15861,9859840003,0,48,Yearly,Market Link,12,Statistics,Female,3,Senior Manager,1,Single,24837,2,1,22,10,7,0
+15865,9860626374,0,37,Yearly,Pure Term Plan,8,Statistics,Female,2,Manager,3,Single,20850,9,0,21,9,12,0
+15866,9881568483,0,43,Yearly,Traditional,8,Statistics,Male,5,Executive,3,Single,18809,3,0,20,9,4,0
+15867,9916432018,0,43,Monthly,Traditional,12,Statistics,Male,5,Manager,3,Married,21689,2,1,20,11,13,1
+15868,9889705829,0,51,Yearly,Traditional,17,CA,Female,5,Executive,3,Married,18001,3,0,20,21,14,0
+15872,9891017052,1,24,Yearly,Pure Term Plan,1,Marketing Diploma,Male,2,Senior Manager,5,Married,26854,5,1,19,21,13,7
+15873,9920748763,0,56,Yearly,Pure Term Plan,17,Marketing Diploma,Female,4,AVP,1,Married,28031,1,0,17,22,10,1
+15876,9914259598,0,38,Monthly,Traditional,15,CA,Male,3,Manager,1,Married,18571,5,0,23,18,10,0
+15878,9887311062,0,30,Yearly,Traditional,16,Statistics,Male,3,Manager,4,Married,22142,2,1,26,7,2,2
