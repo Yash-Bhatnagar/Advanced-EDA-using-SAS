@@ -10,4 +10,4 @@ This repository contains the SAS code used to:
 <li>Calculate different model performance parameters</li>
 </ul>
 
-<h4>The dataset used, contains dummy values and shouldn't be used to draw any parallels to the real world</h4>
+<h4>Note: The dataset used, contains dummy values and shouldn't be used to draw any parallels to the real world!</h4>
