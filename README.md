@@ -1,5 +1,5 @@
 # Advanced-EDA-using-SAS
-<h3>Business Context</h3> 
+<h3>Business Context:</h3> 
 <p>A XYZ life insurance company wants to predict their customers who are going to churn in next month, and want you to develop a model with proper EDA to get some recommendation. So accordingly they can design and provide offers to the customers.</p>
 
 <h3>Solution offered:</h3> 
